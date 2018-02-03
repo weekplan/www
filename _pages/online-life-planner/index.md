@@ -18,7 +18,7 @@ WeekPlan is an online life planner available on the web and most mobile devices.
 Wherever you are, you will have access to your planner.
 
 
-![Online life planner](http://54.173.16.9/wp-content/uploads/2014/07/1280x720.png "Online life planner")
+![Online life planner](/assets/images/uploads/944-1280x720.png "Online life planner")
 
 
 ## What makes WeekPlan a great life planner?
@@ -35,8 +35,8 @@ WeekPlan makes you effective.
 Not only WeekPlan is a great online life planner, but it also combines a personal diary to record your thoughts:
 
 
-![Online personal diary](http://54.173.16.9/wp-content/uploads/2014/07/1366x768-21.png "Online personal diary")
+![Online personal diary](/assets/images/uploads/944-1366x768-21.png "Online personal diary")
 
 
-It is free, so why not [give it a try](https://app.weekplan.net/)?
+[Give it a try](https://app.weekplan.net/)?
 

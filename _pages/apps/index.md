@@ -12,151 +12,20 @@ categories: []
 tags: []
 ---
 
+<div class='post-feed'>
+    {% include card.html title="Windows app" description="Run Week Plan on Windows, add it to your taskbar." url="https://drive.google.com/open?id=16yUnKBvZu4utLXZv9tE1lot7xSa2CRkl" imageUrl="/assets/images/uploads/1624-Windows-logo.jpg" %}
 
-# Apps
+    {% include card.html title="iOS app" description="Manage your time on your iphone or ipad." url="https://itunes.apple.com/us/app/my-week/id868630562?mt=8" imageUrl="/assets/images/uploads/1624-weekplanforios.jpg" %}
 
+    {% include card.html title="Android app" description="Manage your time on your Android devices." url="https://play.google.com/store/apps/details?id=net.wiselabs.WeekPlan&amp;hl=en" imageUrl="/assets/images/uploads/1624-android-weekplan.jpg" %}
 
-<div class="container application_list_container">
-<div class="row">
-<div class="col-sm-6 col-md-4">
-<div class="thumbnail">
-![](//weekplan.net/wp-content/uploads/2016/07/Windows-logo.jpg)
-<div class="caption">
+    {% include card.html title="Chrome app" description="Install Week Plan as an app in Chrome." url="https://chrome.google.com/webstore/detail/week-plan/caggnmlckgjpgpgpgjeobdcfgbkefioo?hl=en" imageUrl="/assets/images/uploads/1624-chromewebstore.png" %}
 
+    {% include card.html title="Chrome button" description="Adds a button in the toolbar of Chrome to access your tasks while you browse." url="https://chrome.google.com/webstore/detail/week-plan-extension/apojhfcioioaohnpaaojkdimfcijmgmo?hl=en" imageUrl="/assets/images/uploads/1624-weekplanforchromeextension.jpg" category="Chrome extension" %}
 
-### WEEK PLAN for Windows
+    {% include card.html title="Add to Week Plan" description="Allows you to send a task to Week Plan from Gmail (any email) or from any page." url="https://chrome.google.com/webstore/detail/add-to-week-plan/cckjkedjhadillfpcgfhkkdjnbbomolb?hl=en" imageUrl="/assets/images/uploads/1624-addtoweekplan.jpg" category="Chrome extension" %}
 
+    {% include card.html title="Inbox Zero Progress Bar" description="A small Chrome extension that adds a progress bar to your Gmail inbox." url="https://chrome.google.com/webstore/detail/inbox-zero-progress-bar/edehcddfcmobknfgoaodppjdlobfidld?hl=en" imageUrl="/assets/images/uploads/1624-inboxzero.jpg" category="Chrome extension" %}
 
-<p class="application_description">Run WEEK PLAN on Windows, add it to your taskbar.
-
-[Download](https://drive.google.com/open?id=16yUnKBvZu4utLXZv9tE1lot7xSa2CRkl)
-
-</div>
-</div>
-</div>
-
-<div class="col-sm-6 col-md-4">
-<div class="thumbnail">
-
-![](//weekplan.net/wp-content/uploads/2016/06/weekplanforios.jpg)
-<div class="caption">
-
-
-### In the App Store
-
-
-<p class="application_description">Manage your time on your iphone or ipad.
-
-[Download](https://itunes.apple.com/us/app/my-week/id868630562?mt=8)
-
-</div>
-</div>
-</div>
-<div class="col-sm-6 col-md-4">
-<div class="thumbnail">
-
-![](http://weekplan.net/wp-content/uploads/2016/06/android-weekplan.jpg)
-<div class="caption">
-
-
-### Android App
-
-
-<p class="application_description">Manage your time on your android devices.
-
-[Download](https://play.google.com/store/apps/details?id=net.wiselabs.WeekPlan&amp;hl=en)
-
-</div>
-</div>
-</div>
-</div>
-<div class="row">
-<div class="col-sm-6 col-md-4">
-<div class="thumbnail">
-
-![](//weekplan.net/wp-content/uploads/2016/07/chromewebstore.png)
-<div class="caption">
-
-
-### Chrome app
-
-
-<p class="application_description">Add a shortcut in your list of Chrome apps.
-
-[Install](https://chrome.google.com/webstore/detail/week-plan/caggnmlckgjpgpgpgjeobdcfgbkefioo?hl=en)
-
-</div>
-</div>
-</div>
-<div class="col-sm-6 col-md-4">
-<div class="thumbnail">
-
-![](//weekplan.net/wp-content/uploads/2016/06/weekplanforchromeextension.jpg)
-<div class="caption">
-
-
-### Chrome extension
-
-
-<p class="application_description">Adds a button in the toolbar of Chrome to access your tasks while you browse.
-
-[Install](https://chrome.google.com/webstore/detail/week-plan-extension/apojhfcioioaohnpaaojkdimfcijmgmo?hl=en)
-
-</div>
-</div>
-</div>
-<div class="col-sm-6 col-md-4">
-<div class="thumbnail">
-
-![](//weekplan.net/wp-content/uploads/2016/06/addtoweekplan.jpg)
-<div class="caption">
-
-
-### Add to WeekPlan, Chrome extension
-
-
-<p class="application_description">Allows you to send a task to WeekPlan from Gmail (any email) or from any page.
-
-[Install](https://chrome.google.com/webstore/detail/add-to-week-plan/cckjkedjhadillfpcgfhkkdjnbbomolb?hl=en)
-
-</div>
-</div>
-</div>
-</div>
-<div class="row">
-<div class="col-sm-6 col-md-4">
-<div class="thumbnail">
-
-![](//weekplan.net/wp-content/uploads/2016/06/inboxzero.jpg)
-<div class="caption">
-
-
-### Inbox Zero Progress Bar
-
-
-<p class="application_description">A small Chrome extension that adds a progress bar to your Gmail inbox.
-
-[Install](https://chrome.google.com/webstore/detail/inbox-zero-progress-bar/edehcddfcmobknfgoaodppjdlobfidld?hl=en)
-
-</div>
-</div>
-</div>
-<div class="col-sm-6 col-md-4">
-<div class="thumbnail">
-
-![](//weekplan.net/wp-content/uploads/2016/07/chrome.png)
-<div class="caption">
-
-
-### Next Todo in New Tab
-
-
-<p class="application_description">New tabs in Chrome show a gorgeous wallpaper and your next task. Integrates with your WeekPlan account.
-
-[Install](https://chrome.google.com/webstore/detail/next-todo-in-new-tab/bamagneapdhjinedbgjdalmcopaongjh?hl=en)
-
-</div>
-</div>
-</div>
-</div>
+    {% include card.html title="Next Todo in New Tab" description="New tabs in Chrome show a gorgeous wallpaper and your next task. Integrates with your Week Plan account." url="https://chrome.google.com/webstore/detail/next-todo-in-new-tab/bamagneapdhjinedbgjdalmcopaongjh?hl=en" imageUrl="/assets/images/uploads/1624-chrome.png" category="Chrome extension" %}
 </div>

@@ -20,7 +20,7 @@ It will be constantly bugging you with them even when you can't act on them (in 
 
 Once you have written everything down, your mind will be a little quieter.
 
-![Benefits of the braindump](//weekplan.net/wp-content/uploads/2014/02/braindump.png "Benefits of the braindump")
+![Benefits of the braindump](/assets/images/uploads/859-braindump.png "Benefits of the braindump")
 
 This email will try to assist in the process. WEEK PLAN has a "Parking lot" section especially done for this.
 

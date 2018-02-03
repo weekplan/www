@@ -11,16 +11,14 @@ comments: true
 categories: []
 tags: []
 ---
-&nbsp;
-
 
 ## The vision
 
 
 Too often, productivity tools try to make us more 'productive' by making us tick as many tasks as possible.
-Instead WEEK PLAN will help you keep your goals in mind so that you can work more effectively. It is not the number of tasks you do that matters, it is what tasks you do.
+Instead Week Plan will help you keep your goals in mind so that you can work more effectively. It is not the number of tasks you do that matters, it is what tasks you do.
 
-![effectiveness](//weekplan.net/wp-content/uploads/2014/02/effectiveness.png "effectiveness")
+![effectiveness](/assets/images/uploads/850-effectiveness.png "effectiveness")
 
 
 ## An introduction to the 4 Quadrants
@@ -28,7 +26,7 @@ Instead WEEK PLAN will help you keep your goals in mind so that you can work mor
 
 All tasks fall into one of the following four categories:
 
-![quadrants](//weekplan.net/wp-content/uploads/2014/02/quadrants.png "quadrants")
+![quadrants](/assets/images/uploads/850-quadrants.png "quadrants")
 
 People who spend most of their time in Quadrant I usually have stressful lives. What they need to do is both important and urgent. They have to respond to tight deadlines, they need to solve crisis and have to put out fires constantly.
 
@@ -39,9 +37,10 @@ The Quadrant IV is all about time wasters or activities that don't provide any v
 Quadrant II is THE quadrant where you want to spend more time. It is the quadrant of planning, preparation, balance and proactivity
 It can help you reduce the time you spend on urgent things overtime and is the heart of the First Things First methodology.
 
-In WEEK PLAN, you can mark a task as urgent and/or important.
+In Week Plan, you can mark a task as urgent and/or important.
 To categorize a task you can click on the icons next to the task textbox, or you can suffix your task with !1 !2 or !3 where the number corresponds to a quadrant.
-<p class="highlight">**Exercise:** in WEEK PLAN, schedule the tasks you would like to achieve this week and try to categorize them according to the four quadrants.
+
+**Exercise:** in Week Plan, schedule the tasks you would like to achieve this week and try to categorize them according to the four quadrants.
 
 By developing the habit of marking your tasks as urgent/important, you will internalize the concept of categorization and you will be able to differentiate what is truly important to what is only urgent (but not important, Quadrant III).
 

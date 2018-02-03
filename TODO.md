@@ -14,9 +14,20 @@
 [x] amplitude
 [x] optimizely
 
-[ ] fix pages
-[ ] fix posts
+[x] fix pages
 [x] Review SEO
 [x] connect button
-[ ] main video
-[ ] make it a fork
+[x] make it a fork
+[x] minimize pics
+[x] Fix mobile buttons
+
+[ ] fix posts [1h]
+[ ] main video [2h]
+  [ ] outline
+  [ ] record videos
+  [ ] movie maker mashup
+[ ] //weekplan.net/... links
+[ ] 54.173.16.9 links
+[ ] features page [1h]
+[ ] create a screenshot.png [30min]
+[ ] amp-jekyll

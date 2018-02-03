@@ -12,98 +12,59 @@ categories: []
 tags: []
 ---
 
+You can send tasks via email. Here we describe the format.
 
 ## Send a list of tasks via email
 
- 
+Sometimes you want to be able to "braindump" a list of tasks.
 
-**From:** &lt;Email address you use to log into weekplan&gt;
- 
-
-**To:** today@hello.weekplan.net
- 
-
-**Subject:** &lt;Ignored&gt;
- 
-
+**From:** Email address you use to log into Week Plan  
+**To:** today@hello.weekplan.net   
+**Subject:** Ignored  
 **Body:**
- 
 
 Task item 1  
 Task item 2  
 Task item 3
- 
 
 ## Send a task (with notes and subtasks) via email
 
+The task can be sent to today or to any list of the parking lot or board.
  
+**From:** Email address you use to log into Week Plan  
+**To:** todo+*workspaceid*@hello.weekplan.net ([Find the email address here](https://app.weekplan.net/#view=WorkspaceSettings))
 
-The task will be added to today's date.
- 
+If you want to send to a list, you will find the email address in the edit dialog of the list.
 
-**From:** &lt;Email address you use to log into weekplan&gt;
- 
-
-**To:** todo+&lt;workspaceid&gt;@hello.weekplan.net ([email address given to you here](https://app.weekplan.net/#view=WorkspaceSettings))
- 
-
-**Subject:** &lt;Task title&gt;
- 
-
+**Subject:** &lt;Task name&gt;  
 **Body:**
- 
 
-&lt;Your notes here&gt;
- 
+Add your notes here.
 
-[ ] Sub task 1 &lt;must start with [] or [ ]&gt;  
+[ ] Sub task 1 (must start with [] or [ ])    
 [ ] Sub task 2  
 [ ] Sub task 3
- 
 
-![](http://i.gyazo.com/1e2ad1337275b5b69ec30a7672676435.png)
+![Screenshot](http://i.gyazo.com/1e2ad1337275b5b69ec30a7672676435.png)
  
-
 ## Send a comment via email
 
- 
-
 You can reply to the email notifications about a specific task to post a comment on that task.
- 
 
-**From:** &lt;Email address you use to log into weekplan&gt;
- 
-
-**To: **&lt;just reply to an email notification related to a task&gt;
- 
-
-**Subject:** &lt;Ignored&gt;
- 
-
+**From:** Email address you use to log into Week Plan  
+**To:** Just reply to an email notification related to a task  
+**Subject:** Ignored  
 **Body:**
- 
 
-&lt;Any text&gt;
+Any text
  
-
 ## Send a journal entry via email
-
- 
 
 You can reply to the coaching emails to post a new journal entry.
  
-
-**From:** &lt;Email address you use to log into weekplan&gt;
- 
-
-**To: **&lt;just reply to a coaching email&gt;
- 
-
-**Subject:** &lt;Ignored&gt;
- 
-
+**From:** Email address you use to log into Week Plan   
+**To:** just reply to a coaching email
+**Subject:** Ignored  
 **Body:**
- 
 
-&lt;Any text&gt;
-
+Any text

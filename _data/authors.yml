@@ -7,7 +7,7 @@ aymeric:
   picture: assets/images/avatars/aymeric.jpg
   facebook: aymericg
   twitter: aymericg
-  cover: False
+  cover: assets/images/covers/water.jpg
 syed:
   username: syed
   name: Syed

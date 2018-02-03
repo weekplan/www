@@ -20,8 +20,9 @@
     color: #999;
 }
 
-.home-call-to-action-alternative a {
+.home-call-to-action a {
     color: #fff;
+    margin-bottom: 1em;
 }
 
 .home-laptop {

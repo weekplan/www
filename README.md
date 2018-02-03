@@ -93,9 +93,13 @@ Feel free pull-request your patches and fixes.
 
 ## Thanks
 
-
 Many thanks to the Ghost team for all the design work. Also many thanks to all contributors,
 that help keeping the project alive and updated :smile:
+
+
+## Optimize your images
+
+Use this: http://optimizilla.com/
 
 
 ## Copyright & License

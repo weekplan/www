@@ -130,7 +130,8 @@ body,
 h1, 
 .post-card-title, 
 .subscribe-form-title, 
-.read-next-card-header-title a {
+.read-next-card-header-title a,
+.post-full-content .post-card-title {
     font-family: 'Fjalla One', sans-serif;
     text-transform: uppercase;
 }

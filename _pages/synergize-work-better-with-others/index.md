@@ -11,7 +11,7 @@ comments: true
 categories: []
 tags: []
 ---
-![synergize](//weekplan.net/wp-content/uploads/2014/02/synergize.jpg "synergize")
+![synergize](/assets/images/uploads/865-synergize.jpg "synergize")
 
 Synergy means that together you can produce something that none of you could have produced individually.
 
@@ -25,11 +25,10 @@ This is how you could go about trying to solve a problem together:
 *   Third, share your opinion.
 *   Brainstorm new solutions together. Don't judge people's suggestions, genuinely consider all of the alternatives presented. An idea that might look stupid at first sight might be a very good solution.
 *   Finally, pick the best solution together.
-In WEEK PLAN, you can use workspaces to create a space where people can collaborate. Everyone can share their goals for the week, and you can assign tasks, share documents and discuss tasks together.
+In Week Plan, you can use workspaces to create a space where people can collaborate. Everyone can share their goals for the week, and you can assign tasks, share documents and discuss tasks together.
 A journal is also available to help the team reflect and learn together.
-<p class="highlight">Aymeric (founder): Congratulations! You made it until the end of the bonus course. I hope that you enjoyed it. Please let me know if there are topics that I should cover as part of this course. Any feedback is welcome!
 
-
+Congratulations! You made it until the end of the bonus course. I hope that you enjoyed it. Please let me know if there are topics that I should cover as part of this course. Any feedback is welcome!
 
 
 *   [[1/6] Online course on time management](http://weekplan.net/online-course-time-management/)

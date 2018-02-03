@@ -31,7 +31,7 @@ For example, by putting earphones at work (even without music) people will be le
 
 As you spend more and more time in Quadrant II, your Quadrant I will shrink naturally from the benefits of being better prepared, being proactive and being properly rested.
 
-![quadrant2](//weekplan.net/wp-content/uploads/2014/02/quadrant2.png "quadrant2")
+![quadrant2](/assets/images/uploads/853-quadrant2.png "quadrant2")
 
 
 ## Schedule your most important tasks first
@@ -40,7 +40,8 @@ As you spend more and more time in Quadrant II, your Quadrant I will shrink natu
 It means that you need to schedule your important Quadrant II tasks before you get swamped by Quadrant I and III tasks.
 
 At the start of every week, you should list your goals for the week and schedule them inside your week.
-<p class="highlight">**Exercise:** use WEEK PLAN to set your goals for the week and schedule them in your week. For example, you could plan to go to the gym on Wednesday evening straight after work. That means you also need to prepare your gym bag on Tuesday evening.
+
+**Exercise:** use WEEK PLAN to set your goals for the week and schedule them in your week. For example, you could plan to go to the gym on Wednesday evening straight after work. That means you also need to prepare your gym bag on Tuesday evening.
 
 The next article will talk about the importance of your roles in life.
 

@@ -13,54 +13,31 @@ tags: []
 ---
 
 
-We have recorded some videos to show you some of the features of WeekPlan.
+We have recorded screencasts of some of the features of Week Plan.
 
-<div class="tutorial"><a title="" href="https://www.youtube.com/watch?v=0QVWENTWKZg&amp;width=640&amp;height=480" rel="wp-video-lightbox">
+<div class='post-feed'>
+    {% include card.html title="Getting started with Week Plan" description="First steps you can take after you have created your Week Plan account." url="https://www.youtube.com/watch?v=0QVWENTWKZg" imageUrl="https://img.youtube.com/vi/0QVWENTWKZg/0.jpg" %}
 
+    {% include card.html title="Introduction to momentum bars" description="An example on how Week Plan helps encourage the right behaviour using a concept used in the video game Sims" url="https://www.youtube.com/watch?v=6hVW0g6Iupg" imageUrl="https://img.youtube.com/vi/6hVW0g6Iupg/0.jpg" %}
 
-### Getting started with WeekPlan
+    {% include card.html title="Introduction to the Parking lot" description="An important feature that will help you free your mind." url="https://www.youtube.com/watch?v=r0JGBut7VaU" imageUrl="https://img.youtube.com/vi/r0JGBut7VaU/0.jpg" %}
 
+    {% include card.html 
+        title="Personalize your weekly planner" 
+        description="How to change the background and font of your Week Plan." 
+        url="https://www.youtube.com/watch?v=Y7sTcNRHIx0" 
+        imageUrl="https://img.youtube.com/vi/Y7sTcNRHIx0/0.jpg" %}
 
-First steps you can take after you have created your WeekPlan account.
+    {% include card.html 
+        title="Creating subtasks" 
+        description="Step by step guide to create and edit subtasks." 
+        url="https://www.youtube.com/watch?v=lBcu5CrpmAY" 
+        imageUrl="https://img.youtube.com/vi/lBcu5CrpmAY/0.jpg" %}
+
 </div>
-<div style="clear: both;"> </div>
-<div class="tutorial"><a title="" href="https://www.youtube.com/watch?v=6hVW0g6Iupg&amp;width=640&amp;height=480" rel="wp-video-lightbox">
 
-### Introduction to momentum bars
+---
 
-
-An example on how WeekPlan helps encourage the right behaviour
-</div>
-<div style="clear: both;"> </div>
-<div class="tutorial"><a title="" href="https://www.youtube.com/watch?v=r0JGBut7VaU&amp;width=640&amp;height=480" rel="wp-video-lightbox">
-
-
-### Introduction to the Parking lot
-
-
-An important feature that will help you free your mind.
-</div>
-<div style="clear: both;"> </div>
-<div class="tutorial"><a title="" href="https://www.youtube.com/watch?v=Y7sTcNRHIx0" rel="wp-video-lightbox">
-
-
-### Personalize it!
-
-
-How to change the background and font of your weekplan.
-</div>
-<div style="clear: both;"> </div>
-<div class="tutorial"><a title="" href="https://www.youtube.com/watch?v=lBcu5CrpmAY" rel="wp-video-lightbox">
-
-
-### Creating subtasks
-
-
-Step by step guide to create and edit subtasks.
-</div>
-<div style="clear: both;"> </div>
-
-
-Is an area of WeekPlan not clear? Tell us what the next tutorial should cover by sending us an email at **tutorials@weekplan.net**
+Is an area of Week Plan not clear? Tell us what the next tutorial should cover by sending us an email at **tutorials@weekplan.net**.
 
 

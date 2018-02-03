@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "WeekPlan, the online planner that keeps you close to your goals"
+title: "The online planner that keeps you close to your goals"
 date: 2014-07-04 00:57
 author: aymeric
 wordpress_id: 935
@@ -13,11 +13,7 @@ tags: []
 ---
 
 
-![Online planner](http://54.173.16.9/wp-content/uploads/2014/07/1366x768.png "Online planner, works for teams too.")
- 
-
-&nbsp;
- 
+![Week Plan](/assets/images/screenshot.png)
 
 **Most time management solutions online try to solve the wrong problem**: they try to make you do as much stuff as possible.
  
@@ -33,14 +29,7 @@ This is what WeekPlan is about. WeekPlan is an online planner that helps you kee
 
 The software has been design to teach you the best time management techniques as you use it and encourages a better behaviour from you through subtle gamification and features like the diary, that will make you reflect on your days and keep perspective on what you do.
  
-
-![WeekPlan also has a diary](http://54.173.16.9/wp-content/uploads/2014/07/1366x768-2.png "Online diary")
- 
-
-&nbsp;
- 
-
-We think many people can benefit from using WeekPlan. It is free so why not check the software for yourself?
+We think many people can benefit from using Week Plan. It is free so why not check the software for yourself?
  
 
 [Give WeekPlan a try](https://app.weekplan.net/)

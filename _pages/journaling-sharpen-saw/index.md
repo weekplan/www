@@ -20,14 +20,14 @@ Another practice is to keep a personal journal where you take the time to reflec
 
 Writing will also help you maintain some perspective on what you do.
 
-WEEK PLAN has a [journaling feature](https://app.weekplan.net/#view=Journal?utm_medium=email&amp;utm_source=wp&amp;utm_campaign=web_course) that is focused on self reflection. It invites you to reflect on what you have learned and what you could have done better.
+Week Plan has a [journaling feature](https://app.weekplan.net/#view=Journal?utm_medium=email&amp;utm_source=wp&amp;utm_campaign=web_course) that is focused on self reflection. It invites you to reflect on what you have learned and what you could have done better.
 
-Also, WEEK PLAN can send you a ["coaching email"](https://app.weekplan.net/#view=WorkspaceSettings?utm_medium=email&amp;utm_source=wp&amp;utm_campaign=web_course) which will send you an email"regularly with a question that will help you reflect on your life from a new perspective.
-You can directly reply to that email and your message will be added to your journal in WEEK PLAN.
+Also, Week Plan can send you a ["coaching email"](https://app.weekplan.net/#view=WorkspaceSettings?utm_medium=email&amp;utm_source=wp&amp;utm_campaign=web_course) which will send you an email"regularly with a question that will help you reflect on your life from a new perspective.
+You can directly reply to that email and your message will be added to your journal in Week Plan.
 
-[Sharpen the saw in WEEK PLAN](https://app.weekplan.net?utm_medium=email&amp;utm_source=wp&amp;utm_campaign=web_course)
+[Sharpen the saw in Week Plan](https://app.weekplan.net?utm_medium=email&amp;utm_source=wp&amp;utm_campaign=web_course)
 
-![Sharpen the saw](//weekplan.net/wp-content/uploads/2014/02/sharpenthesaw.jpg "Sharpen the saw")
+![Sharpen the saw](/assets/images/uploads/862-sharpenthesaw.jpg "Sharpen the saw")
 
 PS: The next article will be about the habit "Synergize".
 
