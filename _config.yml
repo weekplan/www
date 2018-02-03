@@ -1,20 +1,23 @@
 # Jekyll configuration
 markdown: kramdown
 highlighter: rouge
-paginate: 100 # it will paginate after this number
-language: 'en-uk'
+paginate: 20 # it will paginate after this number
+paginate_path: "blog/page:num/"
+
+
+language: 'en-us'
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /jasper2/
+baseurl: /
 
 # Website info
-title: Ghost
-description: The professional publishing platform
+title: Week Plan
+description: Online weekly planner for effective people
 cover: assets/images/blog-cover.jpg
-logo: assets/images/blog-icon.png
-logo_dark: assets/images/favicon.png
-favicon: assets/images/favicon.png
-production_url: https://myJekyll.github.io/jasper2/
+logo: assets/images/logo.svg
+logo_dark: assets/images/favicon.ico
+favicon: assets/images/favicon.ico
+production_url: https://weekplan.net
 source_url: https://github.com/myJekyll/jasper2/
 
 # Social info
@@ -22,12 +25,12 @@ navigation: True # show the navbar links
 subscribers: True # you need to connect an external service for this to work,
 # if 'True' the submit button is disabled for now, but you can change that
 # by editing `_includes/subscribe-form.html`
-twitter: tryghost # replace by your username
-facebook: ghost # replace by your username
+twitter: weekplan # replace by your username
+facebook: weekplan.net # replace by your username
 
 # Disqus
-disqus: False
-disqus_shortname: myjekyll # replace with your disqus username
+disqus: True
+disqus_shortname: weekplan # replace with your disqus username
 
 # Google Analytics
 google_analytics: UA-69281367-1 # replace with your GA tracking identifier
@@ -41,7 +44,7 @@ permalink: /:title
 # Tags' info in `_data/tags_info.yml`
 
 # gems and other configs
-plugins: [jekyll-paginate, jekyll-feed]
+plugins: [jekyll-paginate, jekyll-feed, jekyll-admin, jekyll-sitemap]
 exclude: [vendor]
 
 feed:
@@ -67,14 +70,13 @@ feed:
 # or "master" otherwise
 safe: False
 lsi: False
-username: myJekyll
-repo: jasper2
+username: weekplan
+repo: hosting-www
 branch: master
-relative_source: ../jasper2/
-destination: ../jasper2-pages/
-production_url:  https://myJekyll.github.io/jasper2/
-source_url:  https://github.com/myJekyll/jasper2/
+relative_source: ../www/
+destination: ../hosting-www/
 
+include: ["_pages"]
 exclude:
   - README.md
   - Rakefile
@@ -84,3 +86,5 @@ exclude:
   - "*.Rmd"
   - vendor
   - .travis.yml
+  - node_modules
+

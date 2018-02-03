@@ -1,3 +1,5 @@
+@import 'variables.css';
+
 /* Table of Contents
 /* ------------------------------------------------------------
 
@@ -24,7 +26,7 @@ production stylesheet in assets/built/screen.css
 }
 
 .pagination a {
-    color: #3eb0ef;
+    color: var(--blue);
     transition: all 0.2s ease;
 }
 
@@ -56,7 +58,7 @@ production stylesheet in assets/built/screen.css
 
 .older-posts:hover,
 .newer-posts:hover {
-    color: #3eb0ef;
+    color: var(--blue);
     border-color: #98a0a4;
 }
 
@@ -114,4 +116,26 @@ production stylesheet in assets/built/screen.css
     background: #f4f8fb;
     border-radius: 100%;
     box-shadow: #f4f8fb 0 0 0 5px;
+}
+
+
+body, 
+.post-full-content, 
+.post-card-excerpt, 
+.subscribe-overlay-description,
+.site-header-content .author-meta {
+    font-family: Arial, sans-serif;
+}
+
+h1, 
+.post-card-title, 
+.subscribe-form-title, 
+.read-next-card-header-title a {
+    font-family: 'Fjalla One', sans-serif;
+    text-transform: uppercase;
+}
+
+.post-full-content table {
+    width: 100%;
+    display: table;
 }

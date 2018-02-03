@@ -27,6 +27,14 @@ production stylesheet in assets/built/screen.css
 /* 1. Global - Set up the things
 /* ---------------------------------------------------------- */
 @import "global.css";
+@import "pricing-table.css";
+@import "button.css";
+@import "nav.css";
+@import "home.css";
+@import "grid.css";
+@import "base.css";
+@import "card.css";
+@import "footer.css";
 
 body {
     background: #f4f8fb;
@@ -777,7 +785,7 @@ Usage (In Ghost editor):
 .post-full-content blockquote {
     margin: 0 0 1.5em;
     padding: 0 1.5em;
-    border-left: #3eb0ef 3px solid;
+    border-left: var(--blue) 3px solid;
 }
 
 .post-full-content blockquote p {

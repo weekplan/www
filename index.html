@@ -1,8 +1,9 @@
----
-layout: default
-current: home
-class: 'home-template'
+--- 
+layout: default 
+current: home 
+class: 'homepage-template' 
 navigation: True
+title: Week Plan - Online weekly planner
 ---
 
 <!-- < default -->
@@ -10,30 +11,189 @@ navigation: True
 into the {body} of the default.hbs template -->
 
 <!-- The big featured header, it uses blog cover image as a BG if available -->
-<header class="site-header outer {% if page.cover or site.cover %}" style="background-image:  url({{ site.baseurl }}{% if page.cover %}{{ page.cover }}{% elsif site.cover %}{{ site.cover }}{% endif %}) {% else %}no-cover{% endif %}">
+<header class="site-header outer">
     <div class="inner">
-        <div class="site-header-content">
-            <h1 class="site-title">
-                {% if site.logo %}
-                    <img class="site-logo" src="{{ site.baseurl }}{{ site.logo }}" alt="{{ site.title }}"/>
-                {% else %}
-                    {{ site.title }}
-                {% endif %}
-            </h1>
-            <h2 class="site-description">{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}</h2>
-        </div>
         {% include site-nav.html %}
     </div>
 </header>
 
-<!-- The main content area -->
-<main id="site-main" class="site-main outer" role="main">
-    <div class="inner">
+<div class='home-headline outer'>
+    <div class='inner'>
+        <h1>The bad news is <span class='is-text-blue'>time flies</span></h1>
+        <h2 class="site-description">The good news? you are the pilot. Our software will help you prioritize.</h2>
 
-        <div class="post-feed">
-            <!-- The tag below includes the markup for each post - partials/post-card.hbs -->
-            {%  include post-card.html %}
+        <div class='home-call-to-action'>
+                <a id='gcal-button' href='https://next.weekplan.net' class='button button-inverse'><i class='fab fa-google'></i> Connect with Google</a>
+                <a id='outlook-button' href='https://next.weekplan.net' class='button button-inverse'><i class='fab fa-microsoft'></i> Connect with Outlook</a>
+                <div class='home-call-to-action-alternative'>
+                    or <a href='https://next.weekplan.net'>sign up with email →</a>
+                </div>
+
+        </div>
+    </div>
+
+    <img class='home-laptop' src='assets/images/laptop.svg' />
+</div>
+
+<script>
+    var offset =  -(new Date()).getTimezoneOffset();
+    var redirectUrl = 'https;//next.weekplan.net';
+    var googleUrl = 'https://accounts.google.com/o/oauth2/auth?client_id=1084585925531-un64pkeb72d35cmm9mbo5bursbpoc720.apps.googleusercontent.com&response_type=code&scope=email https:%2F%2Fwww.googleapis.com%2Fauth%2Fcalendar&prompt=consent&access_type=offline&redirect_uri=https://api.weekplan.net/GoogleLogin&state=t:' + offset + ',tz:,d:' + redirectUrl;
+    var outlookUrl = 'https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=e3d1f666-50e6-45e8-86d6-3c2219ead86d&response_type=code&response_mode=query&scope=offline_access openid email user.read calendars.read calendars.read.shared calendars.readwrite calendars.readwrite.shared&redirect_uri=https://api.weekplan.net/outlooklogin&state=t:' + offset + ',tz:,d:' + redirectUrl;
+
+    var gcalButton = document.getElementById('gcal-button');
+    gcalButton.setAttribute("href", googleUrl);
+
+    var outlookButton = document.getElementById('outlook-button');
+    outlookButton.setAttribute("href", outlookUrl);
+    
+</script>
+
+<div class='home-socialproof outer'>
+    <div class='inner'>
+        <strong>420K+</strong> users including effective people from
+        <img src='assets/images/logos/MIT.svg' />
+        <img src='assets/images/logos/NASA.svg' />
+        <img src='assets/images/logos/franklin-covey.svg' />
+    </div>
+</div>
+
+<div class='home-section outer is-grey'>
+    <div class='inner'>
+        <h2>4 key principles</h2>
+        <div class='title-description'>Based on best-selling methodologies, implemented by millions of people</div>
+
+        <div class='home-principle col-3'>
+            <h3>Week by week</h3>
+            <p>Gain perspective on what you do and see the progress you make.</p>
+        </div>
+
+        <div class='home-principle col-3'>
+            <h3>Block time for what matters</h3>
+            <p>By scheduling your high impact tasks, it will be easier to say 'no' to less important stuff.</p>
+        </div>
+
+        <div class='home-principle col-3'>
+            <h3>Put on your different hats</h3>
+            <p>By thinking about your tasks in terms of the roles in your life, you will be less likely to neglect or obsess
+                over a particular role.</p>
+        </div>
+
+        <div class='home-principle col-3'>
+            <h3>Don't store your tasks in your mind</h3>
+            <p>Store all the potential tasks and ideas you can think of in a parking lot and gain increased peace of mind.</p>
         </div>
 
     </div>
-</main>
+</div>
+
+<div class='home-section outer is-blue'>
+
+    <div class='inner'>
+        <h2>Prioritize like an effective leader</h2>
+        <div class='title-description'>
+            No point in being super productive if you are working on the wrong things.
+        </div>
+
+        <div class='col-6'>
+
+            <ul>
+                <li>High impact tasks have a dedicated space in the planner</li>
+                <li>Prioritize using the popular 4 quadrants visualization tool</li>
+                <li>Set quarter goals and break them down into high impact tasks</li>
+            </ul>
+
+            <a href='https://next.weekplan.net' class='button button-inverse'>Start prioritizing</a>
+        </div>
+        <div class='col-6 is-centered'>
+            <img style='width: 250px;' src='assets/images/quadrants-tool.png' />
+        </div>
+    </div>
+</div>
+
+<div class='home-section outer'>
+
+    <div class='inner'>
+        <h2>Integrates with your current calendar</h2>
+        <div class='title-description'>
+            Love your calendar's mobile app? Continue using it.
+        </div>
+
+        <div class='col-6 is-centered'>
+            <img style='width: 250px;' src='assets/images/sync.png' />
+        </div>
+
+        <div class='col-6'>
+            <p>No need for double entry. Our deep instant integration with
+                <strong>Google Calendar</strong> and
+                <strong>Outlook</strong> means that changes are automatically reflected on both sides.</p>
+            <ul>
+                <li>Works multiple calendars</li>
+                <li>Works with repetitions</li>
+                <li>Works with timezones</li>
+                <li>Near instant synchronization</li>
+            </ul>
+
+            <a href='https://next.weekplan.net' class='button'>See your schedule in Week Plan</a>
+        </div>
+    
+    </div>
+</div>
+
+<div class='home-section outer is-grey'>
+
+    <div class='inner'>
+        <h2>Available everywhere</h2>
+        <div class='title-description'>
+            Access and update your priorities wherever you are.
+        </div>
+
+        <div class='col-6'>
+            <ul>
+                <li>Works on any tablet or smartphone</li>
+                <li>Dedicated apps and extensions available</li>
+                <li>All free of charge</li>
+            </ul>
+
+            <a href='/apps' class='button'>Check our apps</a>
+        </div>
+        <div class='col-6 is-centered'>
+            <img style='width: 250px;' src='assets/images/responsive.png' />
+        </div>
+    </div>
+</div>
+
+<div class='home-secondary-call-to-action home-section outer is-blue'>
+
+    <div class='inner'>
+        <h2>Manage your priorities</h2>
+        <div class='title-description'>
+            Sign up for a trial in seconds. No credit card required.
+        </div>
+
+        <a href='https://next.weekplan.net' class='button button-inverse'>Start free trial</a>
+    </div>
+</div>
+
+<div class='home-section outer'>
+
+    <div class='inner'>
+        <div class='testimonial col-6'>
+            <div class='testimonial-inner'>
+                <p>
+                    I chose Week Plan to get things done in our business
+                </p>
+                <div class='testimonial-author'>Pau Valdes</div>
+                <div class='testimonial-author-title'>CEO InboundCycle (25 Week Plan users)</div>
+            </div>
+        </div>
+        <div class='testimonial col-6'>
+            <div class='testimonial-inner'>
+                <p>
+                    I needed a simple but strategic system which lets me keep my larger life goals and day-to-day tasks organized
+                </p>
+                <div class='testimonial-author'>Sam Anderson</div>
+            </div>
+        </div>
+    </div>
+</div>
