@@ -28,6 +28,11 @@
 
 [ ] main video [2h]
   [ ] outline
+
+Prioritize your day
+Set goals
+Manage your different roles
+
   [ ] record videos
   [ ] movie maker mashup
 [x] features page [1h]
