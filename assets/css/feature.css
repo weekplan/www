@@ -1,0 +1,19 @@
+@import 'variables.css';
+
+.feature svg {
+    font-size: 48px;
+    color: var(--blue);
+}
+
+.feature-icon
+{
+    margin-top: 20px;
+    width: 90px;
+    float: left;
+    text-align: center;
+}
+
+.inner-feature {
+    overflow: hidden;
+    margin-left: 90px;
+}

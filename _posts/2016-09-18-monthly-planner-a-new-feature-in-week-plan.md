@@ -16,7 +16,7 @@ Although the product is called WEEK PLAN :), we agree that it makes sense someti
 
 To open the month view, simply open the top left menu and you will find the “Monthly planner” menu item:
 
-![Monthly planner](https://i.gyazo.com/4afdae2a2d890c1b047904ff66661e19.png "Click on the top left menu to show the monthly planner")
+![Monthly planner](/assets/images/uploads/1698-4afdae2a2d890c1b047904ff66661e19.png "Click on the top left menu to show the monthly planner")
 
 You will get a month view of your tasks, while still having access to your goals and parking lot:
 

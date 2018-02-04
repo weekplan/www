@@ -16,4 +16,5 @@ Habits are powerful and a double edged sword. Good habits make us do good things
  
 
 This great animated video from Epipheo explains how habits work and how you can acquire new habits.
- <iframe width="560" height="315" src="//www.youtube.com/embed/wQLHwSphu-M" frameborder="0" allowfullscreen></iframe>
+
+{% include youtube.html id="wQLHwSphu-M" %}

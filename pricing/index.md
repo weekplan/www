@@ -6,7 +6,7 @@ author: aymeric
 wordpress_id: 326
 navigation: True
 permalink: /pricing/
-class: post-template
+class: page-template
 comments: true
 categories: []
 tags: []

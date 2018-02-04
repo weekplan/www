@@ -12,32 +12,22 @@ tags: []
 ---
 
 
-**New features**
- 
+## New features 
 
-You can now show and hide the goals panel.  
-You can now set a time interval for a task.  
-You can request to receive an email reminder for a given task.  
+* You can now show and hide the goals panel.  
+* You can now set a time interval for a task.  
+* You can request to receive an email reminder for a given task.  
 
- 
+## New PRO features 
 
-**New PRO features**
- 
+* You can request to receive an SMS reminder.  
 
-You can request to receive an SMS reminder.  
+## Improvements 
 
- 
+* The Edit window for tasks has been improved.  
+* Goals are hidden by default on mobile.  
 
-**Improvements**
- 
+## Bug fixes
 
-The Edit window for tasks has been improved.  
-Goals are hidden by default on mobile.  
-
- 
-
-**Bug fixes**
- 
-
-Replies to emails are now working again (they stopped working for 9 days).
+* Replies to emails are now working again (they stopped working for 9 days).
 

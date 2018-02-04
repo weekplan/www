@@ -17,12 +17,10 @@ We are only weeks away from releasing our biggest and best version yet, and we w
 
 <!--more-->
 
-![Goals page](http://weekplan.net/wp-content/uploads/2017/05/image.png "Sneak peek of the upcoming Goals page")
+![Goals page](/assets/images/uploads/2110-image.png "Sneak peek of the upcoming Goals page")
 
 With this new functionality, you can create goals for the quarter and break them down into big rocks (high impact tasks). The progress you make on big rocks decide the overall progress of the goal and of the overall quarter.
 
 You can define when you will work on a specific big rock. These big rocks will then appear in your sidebar in your weekly planner as usual, and you will be prompted to schedule them in your week.
 
-&nbsp;
-
-We are pretty excited about this new feature because it is what WEEK PLAN is about: helping you figure out what matters most, and find time for them.
+We are pretty excited about this new feature because it is what Week Plan is about: helping you figure out what matters most, and find time for them.

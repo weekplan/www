@@ -41,15 +41,10 @@ Let me give you an example, my cogitorama for today would be:
 
 I prefix the positive keywords with a +, and the negative ones with a –.
 
-
-&nbsp;
-
-
 ## The Cogitorama extension for Week Plan
 
 
-
-In WeekPlan, you can enable an extension to be able to use the Cogitorama concept, it looks like that:
+In Week Plan, you can enable an extension to be able to use the Cogitorama concept, it looks like that:
 
 
 ![Cogitorama](/assets/images/uploads/924-ff246f89d866b6ff607365df0104d81f.png)
@@ -59,10 +54,6 @@ Positive keywords are in green, negative in red.
 
 
 The keywords that are used more regularly get shown bigger. Also, there is a global positivity score for the day to show you how you are feeling over time.
-
-
-&nbsp;
-
 
 I hope some of you will find it useful!
 

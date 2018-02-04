@@ -42,11 +42,8 @@ Some of the techniques he covers:
 - Actively learn a new skill by getting the top educational material available without overloading yourself.
 
 
-
 **Do yourself a favour and set some time aside to watch this video while it is available for free:**
 
-
-
-<a href="http://desertstarconstruction.com/productivity-strategies-of-superachievers-with-darren-hardy/">Link to the Video**
+<a href="http://desertstarconstruction.com/productivity-strategies-of-superachievers-with-darren-hardy/">Link to the video</a>
 
 

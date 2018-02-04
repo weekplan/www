@@ -35,6 +35,7 @@ production stylesheet in assets/built/screen.css
 @import "base.css";
 @import "card.css";
 @import "footer.css";
+@import "feature.css";
 
 body {
     background: #f4f8fb;

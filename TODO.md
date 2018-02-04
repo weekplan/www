@@ -21,13 +21,15 @@
 [x] minimize pics
 [x] Fix mobile buttons
 
-[ ] fix posts [1h]
+[x] fix posts [1h]
+[x] //weekplan.net/... links
+[x] 54.173.16.9 links
+[x] create a screenshot.png [30min]
+
 [ ] main video [2h]
   [ ] outline
   [ ] record videos
   [ ] movie maker mashup
-[ ] //weekplan.net/... links
-[ ] 54.173.16.9 links
-[ ] features page [1h]
-[ ] create a screenshot.png [30min]
+[x] features page [1h]
+[x] google-calendar-alternative
 [ ] amp-jekyll

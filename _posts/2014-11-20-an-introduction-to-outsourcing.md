@@ -12,13 +12,11 @@ tags: []
 ---
 
 
-As part of my work on WeekPlan, I constantly try to find ways to help people be more effective.
-
+As part of my work on Week Plan, I constantly try to find ways to help people be more effective.
 
 Being more effective comes from identifying what matter most and working on it. But what should you do with the things that are not that important and yet still need to get done?
 
-
-Before working on WeekPlan, I created the outsourcing marketplace TaskArmy ([http://taskarmy.com](http://taskarmy.com/)) to help people leverage the world of outsourcing.
+Before working on Week Plan, I created the outsourcing marketplace TaskArmy ([http://taskarmy.com](http://taskarmy.com/)) to help people leverage the world of outsourcing.
 
 
 I have always been passionate about finding ways to use my time meaningfully and I think that outsourcing can help tremendously.
@@ -45,8 +43,7 @@ I am going to answer these questions.
 First of all, please understand that you can outsource almost anything (web development, cooking, cleaning, shopping, delivery, etc...). Today I am going to focus on helping you find an online personal assistant: someone who can do general admin tasks and support you everyday.
 
 
-If you are an entrepreneur, I have already discussed the various ways you can use an assistant in your business in this blog post: [http://aymeric.gaurat.net/2012/tasks-a-virtual-assistant-can-do-for-an-online-entrepreneur/](http://aymeric.gaurat.net/2012/tasks-a-virtual-assistant-can-do-for-an-online-entrepreneur/)
-
+If you are an entrepreneur, I have already discussed the various ways you can use an assistant in your business in this [blog post](http://aymeric.gaurat.net/2012/tasks-a-virtual-assistant-can-do-for-an-online-entrepreneur/).
 
 If you are a busy individual, you will need to work out why you are so busy. Usually busy individuals tend to overcommit, even to things that aren't that important to them. To avoid being busy, **the first step is to be picky with what you commit to**.
 
@@ -65,10 +62,7 @@ You need to see your personal assistant as an building block in your productivit
 
 ## How to find the right person
 
-
-
 In today's world, finding a personal assistant is very easy. Dozens of websites will help you find one.
-
 
 Some of my favourites are [http://taskarmy.com/virtual-assistance-outsourcing](http://taskarmy.com/virtual-assistance-outsourcing) (of course) and [http://odesk.com](http://odesk.com/) Why I recommend you to check TaskArmy out is because the personal assistants there are manually screened before being listed on the website. Some have actually been screened by me directly! So the quality of the work you will receive should be higher than on oDesk but oDesk has the largest numbers of assistants listed (= more choices).
 
@@ -120,12 +114,7 @@ I found these emails were a great opportunity for me to ask questions, clarify c
 Last tip: train your assistant by recording videos. Videos are a great way to show something and they often take less time to record than the equivalent text page with images. On Windows, I use Open Broadcaster Software ([https://obsproject.com/](https://obsproject.com/)) and I hear that Screenflow is great for Mac users (not free though).
 
 
-#### ======
-
-
-
 I hope this article gave you enough information and motivation to start outsourcing. If you have any question regarding this topic, just leave a comment.
-
 
 Thanks! 
 

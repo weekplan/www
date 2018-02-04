@@ -13,20 +13,15 @@ tags: []
 ---
 Just wanted to send an update to let everyone know we are hard at work :)
 
-<!--more-->
-
-
 ## Business updates
 
-
 - Found someone to help with marketing work
-- Working with [top notch design agency in Sydney](http://www.folk.com.au/) to rebrand WEEK PLAN
+- Working with [top notch design agency in Sydney](http://www.folk.com.au/) to rebrand Week Plan
 - Customer success team is down one person :(
 - We are going to focus on user retention and paid plan conversion rate for a while
 
 
 ## New features
-
 
 - Can edit a list, a role, a board
 - Can delete a goal
@@ -36,14 +31,12 @@ Just wanted to send an update to let everyone know we are hard at work :)
 - Translations in French, Bangla, Hindi, Polish
 - Lots of bugs fixed
 
-
 ## Coming next
 
+We want to make the first experience with Week Plan more engaging so we are going to “gamify” the onboarding process. Also, we are going to address some of the major user experience complaints, for example:
 
-We want to make the first experience with WEEK PLAN more engaging so we are going to “gamify” the onboarding process. Also, we are going to address some of the major user experience complaints, for example:
-
-- Put boards in the same page as schedule
-- Show previous and next buttons to navigate more easily
-- Put “Add task” button at the top of the lists
-- Allow to move a task with fewer clicks
+- Put boards in the same page as schedule (UPDATE: done)
+- Show previous and next buttons to navigate more easily (UPDATE: done)
+- Put “Add task” button at the top of the lists (UPDATE: done)
+- Allow to move a task with fewer clicks (UPDATE: done)
 - Etc…

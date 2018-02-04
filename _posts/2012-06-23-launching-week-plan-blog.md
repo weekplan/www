@@ -12,9 +12,7 @@ tags: []
 ---
 
 
-Today we are launching the blog to give us a place where we can announce the new features we add to WEEK PLAN, but also it will be a place where you will be able to learn tips on how to better manage your time.
-
-
+Today we are launching the blog to give us a place where we can announce the new features we add to Week Plan, but also it will be a place where you will be able to learn tips on how to better manage your time.
 
 Exciting times ahead!
 

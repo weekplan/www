@@ -17,56 +17,37 @@ I have implemented a new module available to the PRO users of WeekPlan (thank yo
 
 To access the personalization module, go to the Workspace Settings page:
  
-
-<a href="http://54.173.16.9/wp-content/uploads/2014/08/image.png">![New personalization module in WeekPlan](http://54.173.16.9/wp-content/uploads/2014/08/image_thumb.png "New personalization module in WeekPlan")</a>
+![New personalization module in WeekPlan](/assets/images/uploads/970-image_thumb.png "New personalization module in WeekPlan")
  
-
-&nbsp;
-<!--more-->
-
 Note: five themes are available right now.
  
-
-&nbsp;
- 
-
 ## Sunset theme:
 
- 
-
-![Sunset theme](http://54.173.16.9/wp-content/uploads/2014/08/image1.png "Sunset theme")
- 
+![Sunset theme](/assets/images/uploads/970-image1.png "Sunset theme")
 
 ## Forest theme:
 
- 
-
-![Forest theme](http://54.173.16.9/wp-content/uploads/2014/08/image2.png "Forest theme")
- 
+![Forest theme](/assets/images/uploads/970-image2.png "Forest theme")
 
 ## Water theme:
 
  
 
-![Water theme](http://54.173.16.9/wp-content/uploads/2014/08/image3.png "Water theme")
+![Water theme](/assets/images/uploads/970-image3.png "Water theme")
  
 
 ## Zen garden theme:
 
  
 
-![Zen garden theme](http://54.173.16.9/wp-content/uploads/2014/08/image4.png "Zen garden theme")
+![Zen garden theme](/assets/images/uploads/970-image4.png "Zen garden theme")
  
 
 ## Nebula theme:
 
  
 
-![Nebula theme](http://54.173.16.9/wp-content/uploads/2014/08/image5.png "Nebula theme")
+![Nebula theme](/assets/images/uploads/970-image5.png "Nebula theme")
  
-
-&nbsp;
- 
-
 I hope you will find a theme you like!
 
