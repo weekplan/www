@@ -1,0 +1,7 @@
+{% assign pageurl = site.baseurl | append: include.url %}
+
+{% if page.url == pageurl %}
+    <li role="menuitem"><a href="{{ pageurl }}" class="active">{{ include.text }}</a></li>
+{% else %}
+    <li role="menuitem"><a href="{{ pageurl }}">{{ include.text }}</a></li>
+{% endif %}

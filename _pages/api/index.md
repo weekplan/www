@@ -20,7 +20,7 @@ I want Week Plan to be usable from anywhere: web, mobiles, tablets, watches, [gl
 
 I am opening Week Plan's API to everyone so that you can go on and create great apps on top of Week Plan's data and userbase.
 
-The web version of Week Plan is already using the API. I want to make the API more consistent and I want to document it so that it is easier to use. [Read the API documentation](https://api.Week Plan.net/apidocs.htm).
+The web version of Week Plan is already using the API. I want to make the API more consistent and I want to document it so that it is easier to use. [Read the API documentation](https://api.weekplan.net/apidocs.htm).
 
 
 If you are interested in developing some app that integrates with Week Plan, contact me at api@Week Plan.net, **I want to help you**! We will need to communicate often to get you sorted.
