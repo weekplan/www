@@ -32,11 +32,9 @@ facebook: weekplan.net # replace by your username
 disqus: True
 disqus_shortname: weekplan # replace with your disqus username
 
-# Google Analytics
-google_analytics: UA-69281367-1 # replace with your GA tracking identifier
 
 # Permalinks
-permalink: /:title
+permalink: /:title/
 # permalink: /author/:author
 # permalink: /tag/:tag
 
@@ -44,9 +42,9 @@ permalink: /:title
 # Tags' info in `_data/tags_info.yml`
 
 # gems and other configs
-plugins: [jekyll-paginate, jekyll-feed, jekyll-admin, jekyll-sitemap]
+plugins: [jekyll-paginate, jekyll-feed, jekyll-admin]
 exclude: [vendor]
-
+    
 feed:
   path: feed.xml
 
