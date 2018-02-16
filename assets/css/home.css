@@ -152,7 +152,15 @@
     text-align: center;
 }
 
+.visible-mobile {
+    display: none;
+}
+
 @media only screen and (max-width: 768px) {
+    .visible-mobile {
+        display: block;
+    }
+    
     .home-socialproof img {
         margin: 2em 2em 0 2em;
     }
