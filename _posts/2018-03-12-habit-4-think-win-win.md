@@ -54,3 +54,5 @@ Working with a mentality of abundance can change how you see work and life in ge
 Rather than feeling envious for someone else's success, you will be genuinely be energized by it.
 
 It takes conscious practice so start today :)
+
+![Win-Win quadrants](/assets/images/uploads/WIN-WINbasics.jpg "The basic tenets of Win-Win")
