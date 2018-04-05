@@ -50,3 +50,26 @@ fields:
   name: keywords
   label: keywords
   description: Meta keywords for SEO purposes
+- type: boolean
+  name: navigation
+  label: navigation
+  description: Whether the menu should show
+  default: true
+- type: boolean
+  label: comments
+  name: comments
+  description: Whether comments should show
+  default: true
+- type: text
+  name: class
+  label: class
+- type: select
+  config:
+    source:
+      type: datafiles
+- type: tag_list
+  name: categories
+  label: categories
+- type: tag_list
+  name: tags
+  label: tags
