@@ -1,0 +1,51 @@
+---
+hide_body: false
+fields:
+- type: text
+  default: title
+  label: title
+  name: title
+  description: Main title of the page
+  config:
+    required: true
+- type: textarea
+  name: description
+  label: description
+  description: Meta description for SEO purposes
+  hidden: false
+- type: select
+  name: layout
+  config:
+    source:
+      type: simple
+    options:
+    - post
+    - page
+    required: true
+  label: layout
+- type: text
+  name: subtitle
+  label: subtitle
+  description: Shown under the main title of the page
+- type: datetime
+  name: date
+  label: date
+  description: When the post should be published
+  config:
+    date_format: YYYY-MM-DD
+    time_format: hh:mm
+- type: select
+  name: author
+  config:
+    source:
+      type: datafiles
+      file: _data-authors-yml
+      path: authors
+  label: author
+- type: file
+  name: cover
+  label: cover
+- type: text
+  name: keywords
+  label: keywords
+  description: Meta keywords for SEO purposes
