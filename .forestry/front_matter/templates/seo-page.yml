@@ -63,10 +63,6 @@ fields:
 - type: text
   name: class
   label: class
-- type: select
-  config:
-    source:
-      type: datafiles
 - type: tag_list
   name: categories
   label: categories
