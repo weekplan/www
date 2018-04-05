@@ -23,6 +23,7 @@ fields:
     - page
     required: true
   label: layout
+  default: post
 - type: text
   name: subtitle
   label: subtitle
