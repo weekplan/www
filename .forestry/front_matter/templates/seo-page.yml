@@ -1,5 +1,6 @@
 ---
 pages:
+- pricing/index.md
 - index.html
 hide_body: false
 fields:
