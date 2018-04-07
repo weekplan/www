@@ -1,5 +1,6 @@
 ---
 pages:
+- _pages/about-us/index.md
 - pricing/index.md
 - index.html
 hide_body: false

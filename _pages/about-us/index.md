@@ -1,14 +1,19 @@
 ---
 layout: page
-title: "About us"
-date: 2015-12-04 17:53
+title: About Us- Best Online Planner
+date: 2015-12-04 00:00:00 +0000
 author: aymeric
-navigation: True
-permalink: /about-us/
+navigation: true
+permalink: "/about-us/"
 class: post-template
 comments: true
 categories: []
 tags: []
+description: We create the tools to manage your time and help you achieve your team's
+  vision. It is the best online planner which is founded by a productivity expert.
+keywords: manage my time,  create vision, manage teams, Online planner
+subtitle: ''
+cover: ''
 ---
 
 
