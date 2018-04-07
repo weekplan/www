@@ -1,5 +1,6 @@
 ---
 pages:
+- _pages/api/index.md
 - _pages/about-us/index.md
 - pricing/index.md
 - index.html
