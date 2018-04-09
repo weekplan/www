@@ -8,9 +8,9 @@ subtitle: April 2 to April 8
 author: aymeric
 keywords: effectiveness, leadership
 description: ''
-cover: ''
+cover: 'assets/images/uploads/adult-background-beard-941693.jpg'
 class: ''
-categories: []
+categories: [Personal Development]
 tags: []
 ---
 Each week, we’ll pick the best stories about leadership, effectiveness, team culture, and personal development.
