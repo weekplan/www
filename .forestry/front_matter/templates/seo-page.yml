@@ -5,6 +5,7 @@ pages:
 - _pages/about-us/index.md
 - pricing/index.md
 - index.html
+- _posts/weekly-digest-for-effective-people.md
 hide_body: false
 fields:
 - type: text
