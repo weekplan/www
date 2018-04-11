@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Braindumps, or How To Reduce Stress Instantly.
+title: Braindumps or how to reduce stress instantly.
 date: 2014-02-17 00:00:00 +0000
 author: aymeric
 wordpress_id: 859
@@ -12,7 +12,7 @@ categories: []
 tags: []
 description: Learn to how to reduce stress instantly and plan effectively for your
   week. Use the best task planning app to buid a system you trust.
-keywords: Reduce Stress Instantly, Plan For Your Week, task planning app
+keywords: reduce stress, weekly planning
 subtitle: ''
 cover: ''
 ---

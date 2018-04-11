@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Plans & Pricing For Best Planning Tool
+title: Plans & Pricing
 date: 2013-03-14 00:00:00 +0000
 author: aymeric
 wordpress_id: 326
@@ -10,10 +10,9 @@ class: page-template
 comments: true
 categories: []
 tags: []
-keywords: online calendar pricing, weekly organizer pricing, time planning tool,
-description: Best and Affordable Time Planning Tool which can help you organizer your
-  weekly plan. Best online calendar tool at the lowest price for yourself & your team.
-subtitle: ''
+keywords: online calendar pricing, weekly organizer pricing, online weekly planner pricing
+description: Affordable and easy to use online weekly planner that can help you organize your week's plan.
+subtitle: 'Affordable and simple'
 cover: ''
 ---
 {% include pricing-table.html %}

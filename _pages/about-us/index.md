@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Us- Best Online Planner
+title: About us
 date: 2015-12-04 00:00:00 +0000
 author: aymeric
 navigation: true
@@ -9,10 +9,9 @@ class: post-template
 comments: true
 categories: []
 tags: []
-description: We create the tools to manage your time and help you achieve your team's
-  vision. It is the best online planner which is founded by a productivity expert.
-keywords: manage my time,  create vision, manage teams, Online planner
-subtitle: ''
+description: Learn how Week Plan came to be from the founder himself, you will better understand how Week Plan is different.
+keywords: 
+subtitle: 'The story behind our online weekly planner'
 cover: ''
 ---
 

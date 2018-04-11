@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Need access to the API? Build Apps For Effective People
+title: Build apps for effective people
 date: 2013-02-22 00:00:00 +0000
 author: aymeric
 navigation: true
@@ -9,10 +9,9 @@ class: post-template
 comments: true
 categories: []
 tags: []
-description: Week Plan is offering API for creating apps which is for effective people.
-  Discover the best online planning tool and integrate with your existing applications
-keywords: API For Online Planning, API For Weekly Plan, Online Planning tool
-subtitle: ''
+description: Week Plan is offering an API to help build apps for effective people and teams. You can also build integrations with your existing applications.
+keywords: API for planning, API for prioritization, API for scheduling
+subtitle: 'We have a powerful API for you'
 cover: ''
 ---
 
