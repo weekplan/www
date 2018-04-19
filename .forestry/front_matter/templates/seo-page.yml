@@ -1,12 +1,13 @@
 ---
 pages:
-- _pages/braindumps-how-to-reduce-stress-instantly/index.md
-- _pages/api/index.md
 - _pages/about-us/index.md
+- _pages/api/index.md
+- _pages/braindumps-how-to-reduce-stress-instantly/index.md
 - pricing/index.md
 - index.html
-- _posts/weekly-digest-for-effective-people.md
+- _posts/weekly-digest-for-effective-people-3.md
 hide_body: false
+is_partial: false
 fields:
 - type: text
   default: title
