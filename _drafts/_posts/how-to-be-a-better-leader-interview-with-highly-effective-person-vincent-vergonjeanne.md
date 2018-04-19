@@ -57,3 +57,17 @@ Hardships are part of life’s journey, he said, it’s part of any company’s 
 {{< youtube mBgGEK12NGA >}}
 
 The great Stephen Covey said you need to sharpen your saw. Vincent says you need to stay sharp, you need to stay focused, and you need to be critical because you’re working on a shared dream. Vincent also recommends reading a lot of books to help you grow as a leader. He mentions books like the One Minute Manager, Tribal Leadership, and Theory of Fun as his favorites.
+
+## On Making Things Fun for Your Team (Theory of Fun)
+
+{{< youtube XJaPEYwLho4 >}}
+
+It’s important to make the job fun so your team doesn’t get bored, he adds. Constantly renew challenges for your team by encouraging them to learn new things that can help them grow. Support them in learning new stuff. Vincent shares how he encouraged one of his employees to learn programming by giving him resources and a 1-week lesson on how to code. That employee ended up writing a program for the company later.
+
+> The key is growth. Personal growth is the key to keep people motivated and it shows that you care. It shows that they aren't just not here to execute the task of the boss.
+
+## On Growing Leaders
+
+{{< youtube hzyEu2tZ2jY >}}
+
+Finally, Vincent talks about growing leaders in your company. He believes there’s just 1 word for it — reciprocity. If you care for someone, they will care for you, he said. If your job is to build a product, then the best leadership is to care for the people who will build a product, he added. It creates synergy. But he also warns that caring doesn’t mean you’re nice to your employees all the time.
