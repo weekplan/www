@@ -26,7 +26,7 @@ Meet [Vincent Vergonjeanne](https://www.linkedin.com/in/vincentv/). He’s a hig
 
 I asked Vincent to share his thoughts on charisma and leadership — two areas, among others, in which he’s extremely good at. He also shares some tips and tricks for hiring people, caring for your team, and keeping customers engaged.
 
-## On the Importance of Knowing Yourself 
+## On the Importance of Knowing Yourself
 
 Vincent shares his experience leading a large team at Kobojo. He knew he was effective in running a smaller team that had 30 people. But as the company grew to 90 employees, he became unhappy and started to struggle. He realized that no matter how much charisma he had, it simply didn't scale with 90 people.
 
@@ -73,3 +73,7 @@ It’s important to make the job fun so your team doesn’t get bored, he adds. 
 Finally, Vincent talks about growing leaders in your company. He believes there’s just 1 word for it — reciprocity. If you care for someone, they will care for you, he said. If your job is to build a product, then the best leadership is to care for the people who will build a product, he added. It creates synergy. But he also warns that caring doesn’t mean you’re nice to your employees all the time.
 
 > So caring with a strong vision and a strong sense of culture and the value melted together genuinely brings you very far.
+
+## Full Transcript of the Interview
+
+{{< youtube hzyEu2tZ2jY >}}
