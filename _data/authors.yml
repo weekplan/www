@@ -18,6 +18,16 @@ syed:
   facebook: False
   twitter: False
   cover: False
+syed:
+  username: gene
+  name: Gene
+  url_full: https://weekplan.net/author/gene/
+  url: weekplan.net/author/gene
+  bio: Content marketer
+  picture: assets/images/avatars/user.svg
+  facebook: False
+  twitter: False
+  cover: False
 sarthak:
   username: sarthak
   name: Sarthak
