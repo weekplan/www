@@ -29,3 +29,11 @@ I asked Vincent to share his thoughts on charisma and leadership — two areas, 
 ## On the Importance of Knowing Yourself 
 
 Vincent shares his experience leading a large team at Kobojo. He knew he was effective in running a smaller team that had 30 people. But as the company grew to 90 employees, he became unhappy and started to struggle. He realized that no matter how much charisma he had, it simply didn't scale with 90 people.
+
+> No matter how much charisma I had, I realized it didn't scale with 90 people.
+
+## On Having a Company Culture, Mission, and Values
+
+{{< youtube QTMImJ5FNyQ >}}
+
+One of the reasons why Kobojo struggled was that it didn’t have a company culture, says   Vergonjeanne, it is the foundation. Company culture is not something you can put after; it’s the first step. He also believes that it’s important to communicate the mission and values of the company.
