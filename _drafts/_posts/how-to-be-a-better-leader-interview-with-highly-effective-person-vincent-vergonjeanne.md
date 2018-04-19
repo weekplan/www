@@ -26,7 +26,7 @@ Meet [Vincent Vergonjeanne](https://www.linkedin.com/in/vincentv/). He’s a hig
 
 I asked Vincent to share his thoughts on charisma and leadership — two areas, among others, in which he’s extremely good at. He also shares some tips and tricks for hiring people, caring for your team, and keeping customers engaged.  
   
-**### On the Importance of Knowing Yourself**Vincent shares his experience leading a large team at Kobojo. He knew he was effective in running a smaller team that had 30 people. But as the company grew to 90 employees, he became unhappy and started to struggle. He realized that no matter how much charisma he had, it simply didn't scale with 90 people.
+**## On the Importance of Knowing Yourself** Vincent shares his experience leading a large team at Kobojo. He knew he was effective in running a smaller team that had 30 people. But as the company grew to 90 employees, he became unhappy and started to struggle. He realized that no matter how much charisma he had, it simply didn't scale with 90 people.
 
 > _\*No matter how much charisma I had, I realized it didn't scale with 90 people.\*_    **### On Having a Company Culture, Mission, and Values**  
 > \[!\[IMAGE ALT TEXT HERE\](![](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg))\](\[Interview with Vincent Vergonjeanne on Charisma and Leadership - YouTube\]([https://youtu.be/QTMImJ5FNyQ](https://youtu.be/QTMImJ5FNyQ "https://youtu.be/QTMImJ5FNyQ")))  
