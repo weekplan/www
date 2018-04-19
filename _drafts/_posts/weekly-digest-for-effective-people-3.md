@@ -6,7 +6,9 @@ comments: true
 date: 2018-04-19 00:00:00 +0000
 subtitle: April 16 to April 22
 author: aymeric
-description: 'Each week the top 5 stories on effectiveness and leadership. '
+description: Each week the top 5 stories on effectiveness and leadership. This week
+  we have the 70% Rule to Eliminating Procrastination, the Regret Minimization Framework,
+  the Power of Visualization, and more.
 cover: ''
 keywords: ''
 class: ''
