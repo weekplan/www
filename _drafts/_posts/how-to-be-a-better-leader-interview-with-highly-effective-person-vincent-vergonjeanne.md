@@ -6,9 +6,9 @@ comments: true
 date: 2018-04-19 00:00:00 +0000
 subtitle: 'Interviews with Highly Effective People: Vincent Vergonjeanne on Charisma
   and Leadership'
-description: 'Lucky Duck Games CEO Vincent Vergonjeanne shares his thoughts on charisma,
-  leadership, and team culture. He also shares some tips and tricks for hiring people,
-  caring for your team, and keeping customers engaged. '
+description: 'Lucky Duck Games CEO Vincent Vergonjeanne discusses charisma, leadership,
+  and culture. He also shares some tips and tricks for hiring people, caring for your
+  team, and keeping customers engaged. '
 author: gene
 cover: ''
 keywords: ''
