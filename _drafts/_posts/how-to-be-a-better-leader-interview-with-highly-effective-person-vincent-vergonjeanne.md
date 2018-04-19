@@ -76,4 +76,4 @@ Finally, Vincent talks about growing leaders in your company. He believes thereâ
 
 ## Full Transcript of the Interview
 
-{{< youtube hzyEu2tZ2jY >}}
+{{< youtube qoNdLqOFAjc >}}
