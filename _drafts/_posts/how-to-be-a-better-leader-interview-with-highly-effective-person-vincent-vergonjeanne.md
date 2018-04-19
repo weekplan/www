@@ -68,6 +68,7 @@ It’s important to make the job fun so your team doesn’t get bored, he adds. 
 
 ## On Growing Leaders
 
+  
 {{< youtube hzyEu2tZ2jY >}}
 
 Finally, Vincent talks about growing leaders in your company. He believes there’s just 1 word for it — reciprocity. If you care for someone, they will care for you, he said. If your job is to build a product, then the best leadership is to care for the people who will build a product, he added. It creates synergy. But he also warns that caring doesn’t mean you’re nice to your employees all the time.
