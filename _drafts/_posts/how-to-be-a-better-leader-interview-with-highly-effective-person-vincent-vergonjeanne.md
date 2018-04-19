@@ -37,3 +37,23 @@ Vincent shares his experience leading a large team at Kobojo. He knew he was eff
 {{< youtube QTMImJ5FNyQ >}}
 
 One of the reasons why Kobojo struggled was that it didn’t have a company culture, says   Vergonjeanne, it is the foundation. Company culture is not something you can put after; it’s the first step. He also believes that it’s important to communicate the mission and values of the company.
+
+> Company culture is not something you can put after; it’s the first step.
+
+## On Communicating the Vision
+
+{{< youtube JWXDk6R-12M >}}
+
+Everything rises and falls in leadership. You have to believe in the mission. Don’t treat your mission like it’s a bullshit poster from HR. In communicating your vision, conduct regular meetings and be transparent about everything.
+
+> You have to believe in the mission. Don’t treat your mission like it’s a bullshit poster from HR.
+
+## On Dealing with Hardships
+
+Hardships are part of life’s journey, he said, it’s part of any company’s journey. You need to embrace them upfront and you need to have a very strong strategy to move forward.
+
+## On Staying Sharp and Focused
+
+{{< youtube mBgGEK12NGA >}}
+
+The great Stephen Covey said you need to sharpen your saw. Vincent says you need to stay sharp, you need to stay focused, and you need to be critical because you’re working on a shared dream. Vincent also recommends reading a lot of books to help you grow as a leader. He mentions books like the One Minute Manager, Tribal Leadership, and Theory of Fun as his favorites.
