@@ -44,8 +44,7 @@ into the {body} of the default.hbs template -->
             </header>
 
             {% if page.cover %}
-            <figure class="post-full-image" style="background-image: url({{ site.baseurl }}{{ page.cover }})">
-            </figure>
+            <figure class="post-full-image" style="background-image: url({% if page.cover contains '/assets' %}{% else %}{{ site.baseurl }}{% endif %}{{ page.cover }})"></figure>
             {% endif %}
 
             <section class="post-full-content">
