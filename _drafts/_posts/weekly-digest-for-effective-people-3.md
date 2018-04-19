@@ -17,9 +17,7 @@ tags: []
 ---
 Each week, we pick the best stories on leadership, effectiveness, team culture, and personal development.
 
-\[Weekly Digest for Effective People #3 Photo\]([https://www.pexels.com/photo/person-standing-on-hand-rails-with-arms-wide-open-facing-the-mountains-and-clouds-725255/](https://www.pexels.com/photo/person-standing-on-hand-rails-with-arms-wide-open-facing-the-mountains-and-clouds-725255/ "https://www.pexels.com/photo/person-standing-on-hand-rails-with-arms-wide-open-facing-the-mountains-and-clouds-725255/"))
-
-\### Pick #1: The 70% Rule to Eliminating Procrastination
+## Our Top Pick: The 70% Rule to Eliminating Procrastination
 
 \[Calendar Photo\]([https://www.pexels.com/photo/tilt-photography-of-calendar-schedule-number-18-60032/](https://www.pexels.com/photo/tilt-photography-of-calendar-schedule-number-18-60032/ "https://www.pexels.com/photo/tilt-photography-of-calendar-schedule-number-18-60032/"))
 
