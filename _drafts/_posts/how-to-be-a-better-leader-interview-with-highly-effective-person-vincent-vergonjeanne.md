@@ -6,7 +6,7 @@ comments: true
 date: 2018-04-19 00:00:00 +0000
 subtitle: Interview with highly effective person Vincent Vergonjeanne
 description: ''
-author: ''
+author: gene
 cover: ''
 keywords: ''
 class: ''
