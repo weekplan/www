@@ -1,11 +1,13 @@
 ---
-title: How to be a better leader
+title: 'How to Be a Better Leader '
 layout: post
 navigation: true
 comments: true
 date: 2018-04-19 00:00:00 +0000
-subtitle: Interview with highly effective person Vincent Vergonjeanne
-description: ''
+subtitle: Interview with Highly Effective Person Vincent Vergonjeanne
+description: 'Lucky Duck Games CEO Vincent Vergonjeanne shares his thoughts on charisma,
+  leadership, and team culture. He also shares some tips and tricks for hiring people,
+  caring for your team, and keeping customers engaged. '
 author: gene
 cover: ''
 keywords: ''
