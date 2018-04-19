@@ -16,8 +16,6 @@ class: ''
 categories: []
 tags: []
 ---
-[https://www.youtube.com/watch?v=qoNdLqOFAjc&t=](https://www.youtube.com/watch?v=qoNdLqOFAjc&t= "https://www.youtube.com/watch?v=qoNdLqOFAjc&t=")
-
 We’re starting a new series where we interview highly effective people to their insights on the subjects of leadership, productivity, management, personal development, and success.
 
 In the first episode, Week Plan Founder Aymeric Gaurat Apelli is interviewing an old friend and a fellow entrepreneur who created popular games like Vikings Gone Wild, Heroes of Paragon, and the Chronicles of Crime, which raised nearly $800,000 on Kickstarter.
@@ -166,110 +164,56 @@ Finally, Vincent talks about growing leaders in your company. He believes there�
 
 **AGA**: Oh okay. 
 
- 
+**VV**: So me hammering on my company meetings that no matter how individually good we are, together we produce excellence. It’s fully inspired by these things. And me hammering this thing at every single meeting or often often often saying for example that, “Hey, you're amazing programmer, you're an amazing artist, you're an amazing tech, but none of your work would matter if there is no community manager who’s scooping all those things.” So together we create excellence.
 
-> **VV**: So me hammering on my company meetings that no matter how individually good we are, together we produce excellence. It’s fully inspired by these things. And me hammering this thing at every single meeting or often often often saying for example that, “Hey, you're amazing programmer, you're an amazing artist, you're an amazing tech, but none of your work would matter if there is no community manager who’s scooping all those things.” So together we create excellence.
+**AGA**: What would trigger you saying that though. I'm guessing you don't start the meeting and start saying these things. Like do you have any prompts to start saying these things? Is it when an employee start trying to put too much light on himself?
 
- 
+**VV**: No, no, no, no. It goes very naturally when we re-hammer the fact that our company vision and mission are to make the best game in the world. We're in to make the best game in the world and there's not a hundred way to make a game in the world is by truly embracing each others’ talent into one single thing. What we create right now is unique its unique because together we build something — because the some of our talents creates a very unique object. And that's who we are and that's how we do it.
 
-> **AGA**: What would trigger you saying that though. I'm guessing you don't start the meeting and start saying these things. Like do you have any prompts to start saying these things? Is it when an employee start trying to put too much light on himself?
+**AGA**: And that's the term synergy that I mentioned at the beginning of the view that summarizes exactly what you're trying to describe here.
 
- 
+**VV**: And one more thing, I could relate to another book that really influenced — and we haven't touched this — which is more like the long-term: how do you keep people long-term? It comes from a book called Theory of Fun, which is a good question. What's a good game? It's a fun game, right? What is fun? It sounds so subjective, right ? So this guy… I can't remember the name of the author of this book. He’s an extremely renowned game designer in the world. 
 
-> **VV**: No, no, no, no. It goes very naturally when we re-hammer the fact that our company vision and mission are to make the best game in the world. We're in to make the best game in the world and there's not a hundred way to make a game in the world is by truly embracing each others’ talent into one single thing. What we create right now is unique its unique because together we build something — because the some of our talents creates a very unique object. And that's who we are and that's how we do it.
+**AGA**: Can you repeat again the name of the book? 
 
- 
+**VV**: Theory of Fun. 
 
-> **AGA**: And that's the term synergy that I mentioned at the beginning of the view that summarizes exactly what you're trying to describe here.
+**AGA**: Okay.
 
- 
+**VV**:  Theory of Fun says we as human are we are basically cabled, hardwired to look for pattern. We’re pattern searching machines. We're looking for the shortest path to something and once we find that path we apply this technique, that shortest path. That's what we do as humans and sometimes even forgetting how to judge that path, trusting that path, even though maybe things have changed. So a video game works like this. You’re playing a video game and we give you a challenge, and you look for a pattern to you can you find this pattern, and if you keep applying and applying in a playing and applying and I bring in win-win-win-win-win then it becomes boring and you give up. If you're looking for a pattern and it's noise and you can't find anything and you can't find a single pattern and you search and you fell and you search and you fell and you give up because it's too hard, right? So the Theory of Fun is that you need to be able to find ground where someone asks to search for pattern  (inaudible) then the game designer kinda removed something so that's what you do so you have to search for a new pattern and you search for it but are you finding a pattern to apply. So a good video game is a video game that constantly renews the challenge, constantly renews elements, so that you're not bored — it’s not too hard it's not too easy (inaudible). Now I’ll apply this to everyday life. Theory of Fun. Is your job fun? What makes your job fun? And it's very much the same thing. The idea is that if you come to your job and it's hard at the beginning, but you find a pattern to do what you do every day, and then you apply the pattern apply that pattern and becomes boring. Then coming to works it feels very much like going to the factory.
 
-> **VV**: And one more thing, I could relate to another book that really influenced — and we haven't touched this — which is more like the long-term: how do you keep people long-term? It comes from a book called Theory of Fun, which is a good question. What's a good game? It's a fun game, right? What is fun? It sounds so subjective, right ? So this guy… I can't remember the name of the author of this book. He’s an extremely renowned game designer in the world. 
+**AGA**:  How do you remove that in your teams? Like you've got to a small team and how do you renew challenges for your team?
 
- 
+**VV**:  I’m getting there, I'm getting there, I’m getting there. It’s very simple. We have one on ones twice a year and during this one one ones the idea is to force every single person to grow themselves in an area that is non related to their daily job. And that works great. Basically during those one on ones I say okay great thank you but now what are you gonna grow yourself on for the next six months? What is the challenge you’re gonna take on? And feel free to read take on something that and it can be anything right the idea is that…
 
-> **AGA**: Can you repeat again the name of the book? 
+**AGA**: Do you have an example? Can you give an example? 
 
- 
+ **VV**:  Yeah for example, our tester wanted to learn programming. He came doing a very low entry-level job which is just literally hand-testing games. So I said okay well my friend you need to grow yourself you need to keep growing that's the key of you know beyond just making amazing stuff together you need to keep growing yourself. And he put himself on programming. And I said great — I actually even offered him a one week here training on C#. A year later he actually implemented an entire program for testing. And this guy came in now knowing anything about how to program. It was so it was so proud of me. He was engaged in the company because he found a ground for growth that was beyond what he was supposed to be every day. And for example of an artist the idea to change himself you know like for example a graphic designer asked to do always the same thing often so the question is how do you well? Illustration! I know if you're a graphic designer is that you're probably not so good at  illustration why don't you keep putting yourself on this why don't you pick a subject and and I can give you time out for you for this. The key is growth. Personal growth is the key to keep people motivated and it shows that you care. It shows that they aren't just not here to execute the task of the boss you know. No we're working together. I'm here too for you to keep growing.
 
-> **VV**: Theory of Fun. 
+**AGA**: It’s actually.. I don't remember the name. I think it’s John Maxwell, he’s a leadership coach and quite famous in the US. He came up with the five levels of leadership and the level four is about developing your people. It's similar to your four steps. At level one of leadership, it's all about authority, so it's your job title that gives you the leadership role. Then the second one is what people give you. like it's that people want to be you to be their leader and an extra-extra. So the the level four is when you want to develop your people. And the last level is when you develop other level four leaders. And it’s a loop.
 
- 
+**VV**:  Ah okay I see. Yeah.
 
-> **AGA**: Okay.
+**AGA**: Yeah very interesting. So we need to wrap up. I'd like to hear from you like if you had someone in your in your team that wants you to be become the better leader, what would be the steps you would advise him. Like what steps should he take? Reading books obviously was one of them. How can someone be a better leader according to you? We've talked about some of the these like caring for you the people, having a clear mission, and knowing and sharing that mission with other people. Any other things for those who want to grow more in leadership?
 
- 
+**VV**: I mean, ultimately, I'm trying to kind of put this together. But ultimately, as humans, it’s about reciprocity. If you care for someone, they will care for you. And if your job is to build a product, then the best leadership is to care for the people who will build a product. Because then they will care for back for you and back for the products. And it creates synergy. Ultimately, at the end, it's about caring. And caring doesn't mean that you can't be tough. Caring doesn't mean like oh yeah we're all friends. No, no. Caring means that you also show toughness when things are not working. Like dude I'm not happy right now. Like we have a freaking mission and that is not cool. So caring with a strong vision and a strong sense of culture and the value melted together genuinely brings you very far. And that's been my recipe and it has been working for me very well for the last five years. Obviously everybody has his own recipe and his own special secret weapon, but that for me has been the glue that allows me to really touch a lot of people in the world of entertainment with very small teams. Because small teams are incredibly engaged in those missions.
 
-> **VV**:  Theory of Fun says we as human are we are basically cabled, hardwired to look for pattern. We’re pattern searching machines. We're looking for the shortest path to something and once we find that path we apply this technique, that shortest path. That's what we do as humans and sometimes even forgetting how to judge that path, trusting that path, even though maybe things have changed. So a video game works like this. You’re playing a video game and we give you a challenge, and you look for a pattern to you can you find this pattern, and if you keep applying and applying in a playing and applying and I bring in win-win-win-win-win then it becomes boring and you give up. If you're looking for a pattern and it's noise and you can't find anything and you can't find a single pattern and you search and you fell and you search and you fell and you give up because it's too hard, right? So the Theory of Fun is that you need to be able to find ground where someone asks to search for pattern  (inaudible) then the game designer kinda removed something so that's what you do so you have to search for a new pattern and you search for it but are you finding a pattern to apply. So a good video game is a video game that constantly renews the challenge, constantly renews elements, so that you're not bored — it’s not too hard it's not too easy (inaudible). Now I’ll apply this to everyday life. Theory of Fun. Is your job fun? What makes your job fun? And it's very much the same thing. The idea is that if you come to your job and it's hard at the beginning, but you find a pattern to do what you do every day, and then you apply the pattern apply that pattern and becomes boring. Then coming to works it feels very much like going to the factory.
+**AGA**: That's very good. By the way so your new project is Lucky Duck Games where you're basically building a new board game that involves virtual reality. You want to tell us a bit what you're doing there?
 
- 
+**VV**: Yeah so basically Lucky Duck Games was built on the idea to license video games and turn them into board games. We’ve license a lot of games, we’ve obviously licensed Vikings Gone Wild, which was our kind of MVP and kind of to prove if this stuff works and it works extremely well. And the company is on a huge for growth. The latest product we’ve launch is called Chronicles of Crime which is a hybrid game that mixes a board game and an app and virtual reality, where it involves a cooperative number of people to solve crime stories and bring this thing that basically any storytelling things is written on the cards, on the book and here the idea is that the cards are just people, objects and places that we took into the app and yet it's just a book — it's just a digitization of the text but it basically allows for this the capacity to basically play new stories without buying new physical things.  On top of it there is this VR element that is extremely immersive where basically you're looking at the crime scene and looking for clues. So we have a strong success on this product.
 
-> **AGA**:  How do you remove that in your teams? Like you've got to a small team and how do you renew challenges for your team?
+**AGA**:  Did you get on Kickstarter? You finished the campaign a few days ago no?
 
- 
+**VV**: Yeah we raised funds. Now we have a late pledge, including those, we raised over 830,000 dollars in 23 days.
 
-> **VV**:  I’m getting there, I'm getting there, I’m getting there. It’s very simple. We have one on ones twice a year and during this one one ones the idea is to force every single person to grow themselves in an area that is non related to their daily job. And that works great. Basically during those one on ones I say okay great thank you but now what are you gonna grow yourself on for the next six months? What is the challenge you’re gonna take on? And feel free to read take on something that and it can be anything right the idea is that…
+**AGA**: Nice. 
 
- 
+**VV**: So yeah. But it's a fruit of a long preparation. A lot of demonstration. The key for Kickstarter is to always come with your crowd so people knew about this product a long time ago. It’s something we've been working on for a very year now.
 
-> **AGA**: Do you have an example? Can you give an example? 
+**AGA**: Sure. Congrats.
 
- 
+**VV**:  Thank you so much for having me, Aymeric. 
 
-> **VV**:  Yeah for example, our tester wanted to learn programming. He came doing a very low entry-level job which is just literally hand-testing games. So I said okay well my friend you need to grow yourself you need to keep growing that's the key of you know beyond just making amazing stuff together you need to keep growing yourself. And he put himself on programming. And I said great — I actually even offered him a one week here training on C#. A year later he actually implemented an entire program for testing. And this guy came in now knowing anything about how to program. It was so it was so proud of me. He was engaged in the company because he found a ground for growth that was beyond what he was supposed to be every day. And for example of an artist the idea to change himself you know like for example a graphic designer asked to do always the same thing often so the question is how do you well? Illustration! I know if you're a graphic designer is that you're probably not so good at  illustration why don't you keep putting yourself on this why don't you pick a subject and and I can give you time out for you for this. The key is growth. Personal growth is the key to keep people motivated and it shows that you care. It shows that they aren't just not here to execute the task of the boss you know. No we're working together. I'm here too for you to keep growing.
+**AGA**: Yeah thanks to you for being the first interviewee. It was great to talk to you. Cheers.
 
- 
-
-> **AGA**: It’s actually.. I don't remember the name. I think it’s John Maxwell, he’s a leadership coach and quite famous in the US. He came up with the five levels of leadership and the level four is about developing your people. It's similar to your four steps. At level one of leadership, it's all about authority, so it's your job title that gives you the leadership role. Then the second one is what people give you. like it's that people want to be you to be their leader and an extra-extra. So the the level four is when you want to develop your people. And the last level is when you develop other level four leaders. And it’s a loop.
-
- 
-
-> **VV**:  Ah okay I see. Yeah.
-
- 
-
-> **AGA**: Yeah very interesting. So we need to wrap up. I'd like to hear from you like if you had someone in your in your team that wants you to be become the better leader, what would be the steps you would advise him. Like what steps should he take? Reading books obviously was one of them. How can someone be a better leader according to you? We've talked about some of the these like caring for you the people, having a clear mission, and knowing and sharing that mission with other people. Any other things for those who want to grow more in leadership?
-
- 
-
-> **VV**: I mean, ultimately, I'm trying to kind of put this together. But ultimately, as humans, it’s about reciprocity. If you care for someone, they will care for you. And if your job is to build a product, then the best leadership is to care for the people who will build a product. Because then they will care for back for you and back for the products. And it creates synergy. Ultimately, at the end, it's about caring. And caring doesn't mean that you can't be tough. Caring doesn't mean like oh yeah we're all friends. No, no. Caring means that you also show toughness when things are not working. Like dude I'm not happy right now. Like we have a freaking mission and that is not cool. So caring with a strong vision and a strong sense of culture and the value melted together genuinely brings you very far. And that's been my recipe and it has been working for me very well for the last five years. Obviously everybody has his own recipe and his own special secret weapon, but that for me has been the glue that allows me to really touch a lot of people in the world of entertainment with very small teams. Because small teams are incredibly engaged in those missions.
-
- 
-
-> **AGA**: That's very good. By the way so your new project is Lucky Duck Games where you're basically building a new board game that involves virtual reality. You want to tell us a bit what you're doing there?
-
- 
-
-> **VV**: Yeah so basically Lucky Duck Games was built on the idea to license video games and turn them into board games. We’ve license a lot of games, we’ve obviously licensed Vikings Gone Wild, which was our kind of MVP and kind of to prove if this stuff works and it works extremely well. And the company is on a huge for growth. The latest product we’ve launch is called Chronicles of Crime which is a hybrid game that mixes a board game and an app and virtual reality, where it involves a cooperative number of people to solve crime stories and bring this thing that basically any storytelling things is written on the cards, on the book and here the idea is that the cards are just people, objects and places that we took into the app and yet it's just a book — it's just a digitization of the text but it basically allows for this the capacity to basically play new stories without buying new physical things.  On top of it there is this VR element that is extremely immersive where basically you're looking at the crime scene and looking for clues. So we have a strong success on this product.
-
- 
-
-> **AGA**:  Did you get on Kickstarter? You finished the campaign a few days ago no?
-
- 
-
-> **VV**: Yeah we raised funds. Now we have a late pledge, including those, we raised over 830,000 dollars in 23 days.
-
- 
-
-> **AGA**: Nice. 
-
- 
-
-> **VV**: So yeah. But it's a fruit of a long preparation. A lot of demonstration. The key for Kickstarter is to always come with your crowd so people knew about this product a long time ago. It’s something we've been working on for a very year now.
-
- 
-
-> **AGA**: Sure. Congrats.
-
- 
-
-> **VV**:  Thank you so much for having me, Aymeric. 
-
- 
-
-> **AGA**: Yeah thanks to you for being the first interviewee. It was great to talk to you. Cheers.
-
- 
-
-> **VV**: Cheers. Bye bye. 
+**VV**: Cheers. Bye bye. 
