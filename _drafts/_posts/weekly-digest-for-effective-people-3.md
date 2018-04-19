@@ -71,6 +71,8 @@ This article explains how you can use regret to guide your decision.
 
 ## Pick #4: Too Much Self Examination Can Kill You
 
+![](/assets/images/uploads/5.jpg)
+
 Self-examination, a.k.a. introspection, is the act of examining your thoughts and feelings. But too much self-examination can kill you, writes Gustavo Razzetti, a personal development author. 
 
 The problem with self-examination is that it can be addicting. You become obsessed with reading as many books you can read. You spend a lot of time thinking how you can improve your life. 
@@ -79,11 +81,11 @@ But thinking about yourself doesn’t correlate with knowing yourself. Constantl
 
 Razzetti recommends focusing on self-awareness, which involves contemplating your thoughts and actions without judging them. The opposite of introspection is meditation. It’s about being aware of what you are doing and you just observe.
 
-\[Read the article\]([https://medium.com/personal-growth/how-to-see-yourself-clearly-skip-the-introspection-mode-c66bfb05c061](https://medium.com/personal-growth/how-to-see-yourself-clearly-skip-the-introspection-mode-c66bfb05c061 "https://medium.com/personal-growth/how-to-see-yourself-clearly-skip-the-introspection-mode-c66bfb05c061"))
+[Read the article](https://medium.com/personal-growth/how-to-see-yourself-clearly-skip-the-introspection-mode-c66bfb05c061))
 
-\### Pick #5: The Power of Visualization — From Thoughts to Things
+## Pick #5: The Power of Visualization — From Thoughts to Things
 
-\[Free stock photo of eyes\]([https://www.pexels.com/photo/extreme-close-up-of-woman-eye-256380/](https://www.pexels.com/photo/extreme-close-up-of-woman-eye-256380/ "https://www.pexels.com/photo/extreme-close-up-of-woman-eye-256380/"))
+![](/assets/images/uploads/6.jpeg)
 
 Visualization might sound like a cliche nowadays, but a picture is, in fact, more valuable than words. New studies show that mental imagery not only works — it can actually change your life. 
 
@@ -97,4 +99,4 @@ However, it’s important to understand the difference between visualization and
 
 Melody Wilding writes about the benefits of visualization and the techniques that you can use to improve your performance on any goal. 
 
-\[Read the article\]([https://betterhumans.coach.me/the-complete-guide-to-visualization-for-logical-and-rational-people-f1dadd10029f](https://betterhumans.coach.me/the-complete-guide-to-visualization-for-logical-and-rational-people-f1dadd10029f "https://betterhumans.coach.me/the-complete-guide-to-visualization-for-logical-and-rational-people-f1dadd10029f"))
+[Read the article](https://betterhumans.coach.me/the-complete-guide-to-visualization-for-logical-and-rational-people-f1dadd10029f)
