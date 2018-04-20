@@ -10,7 +10,7 @@ description: 'Lucky Duck Games CEO Vincent Vergonjeanne discusses charisma, lead
   and culture. He also shares some tips and tricks for hiring people, caring for your
   team, and keeping customers engaged. '
 author: gene
-cover: "/assets/images/uploads/youtube-thumbnail.png"
+cover: "/assets/images/covers/interview.png"
 keywords: Charisma, leadership, charisma, teamwork, culture
 class: ''
 categories: []
@@ -23,6 +23,8 @@ In the first episode, Week Plan Founder Aymeric Gaurat Apelli is interviewing an
 Meet [Vincent Vergonjeanne](https://www.linkedin.com/in/vincentv/). He’s a highly successful game designer and CEO of [Lucky Duck Games](https://luckyduckgames.com/), [Kobojo](http://www.kobojo.com/), and [EverydayiPlay](https://everydayiplay.com/). His games have been played by millions of users around the world across all devices.
 
 I asked Vincent to share his thoughts on charisma and leadership — two areas, among others, in which he’s extremely good at. He also shares some tips and tricks for hiring people, caring for your team, and keeping customers engaged.
+
+{% include youtube.html id="qoNdLqOFAjc" %}
 
 ## On the Importance of Knowing Yourself
 
@@ -73,8 +75,6 @@ Finally, Vincent talks about growing leaders in your company. He believes there�
 > So caring with a strong vision and a strong sense of culture and the value melted together genuinely brings you very far.
 
 ## Full Transcript of the Interview
-
-{% include youtube.html id="qoNdLqOFAjc" %}
 
 **_Vincent Vergonjeanne_**_: Let's do it!_
 
