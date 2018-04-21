@@ -1,3 +1,4 @@
+---
 aymeric:
   username: aymeric
   name: Aymeric
@@ -15,19 +16,19 @@ syed:
   url: weekplan.net/author/syed
   bio: Dedicated to getting the word out there
   picture: assets/images/avatars/user.svg
-  facebook: False
-  twitter: False
-  cover: False
+  facebook: false
+  twitter: false
+  cover: false
 gene:
   username: gene
   name: Gene
   url_full: https://weekplan.net/author/gene/
   url: weekplan.net/author/gene
   bio: Content marketer
-  picture: assets/images/avatars/user.svg
-  facebook: False
-  twitter: False
-  cover: False
+  picture: "/assets/images/uploads/Jzep9PhQ.png"
+  facebook: false
+  twitter: false
+  cover: false
 sarthak:
   username: sarthak
   name: Sarthak
@@ -35,9 +36,9 @@ sarthak:
   url: weekplan.net/author/sarthak
   bio: Marketing team
   picture: assets/images/avatars/user.svg
-  facebook: False
-  twitter: False
-  cover: False
+  facebook: false
+  twitter: false
+  cover: false
 andreia:
   username: andreia
   name: Andreia
@@ -45,9 +46,9 @@ andreia:
   url: weekplan.net/author/andreia/
   bio: Writer, mother.
   picture: assets/images/avatars/female.svg
-  facebook: False
-  twitter: False
-  cover: False
+  facebook: false
+  twitter: false
+  cover: false
 jenna:
   username: jenna
   name: Jenna
@@ -55,9 +56,9 @@ jenna:
   url: weekplan.net/author/jenna/
   bio: Writer
   picture: assets/images/avatars/female.svg
-  facebook: False
-  twitter: False
-  cover: False
+  facebook: false
+  twitter: false
+  cover: false
 jessica:
   username: jessica
   name: Jessica
@@ -65,6 +66,6 @@ jessica:
   url: weekplan.net/author/jessica/
   bio: Executive assistant
   picture: assets/images/avatars/female.svg
-  facebook: False
-  twitter: False
-  cover: False
+  facebook: false
+  twitter: false
+  cover: false
