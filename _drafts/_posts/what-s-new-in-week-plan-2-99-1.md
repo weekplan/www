@@ -16,9 +16,13 @@ tags: []
 ---
 ## New Video Tutorial on Using Goals
 
+![](/assets/images/uploads/goals-video.png)
+
 Following the latest update to the **Goals** module that allows you to expand your goals all at once to display your high impact tasks, we’ve now added a video tutorial that clearly explains how to use the **Goals** module. Have a look!
 
 ## Reorganized Edit Task Module
+
+![](/assets/images/uploads/tasks.png)
 
 We’ve reorganized the **Edit Task** module so it’s easier for you to use and understand Week Plan’s awesome features. 
 
@@ -41,6 +45,8 @@ We are happy to announce that we’ve fixed the reported redirecting issues.
 So using Week Plan on Firefox should be as smooth as butter.
 
 ## Merged Notes and Comments
+
+![](/assets/images/uploads/notes-comments.png)
 
 We’ve also merged the **Notes** and **Comments** sections so it’s easier for you to access them without having to click multiple times. 
 
