@@ -20,6 +20,8 @@ Best stories on leadership, effectiveness, productivity, team culture, and perso
 
 ## Our Top Pick: How To Increase Employee Engagement By 300%
 
+![](/assets/images/uploads/team.jpg)
+
 It’s time to throw away the traditional performance management practices — tools and processes that companies use to manage people. 
 
 The annual performance review, for example, isn’t effective anymore, writes Forbes contributor Christine Comaford.
