@@ -12,7 +12,8 @@ author: gene
 cover: ''
 keywords: ''
 class: ''
-categories: []
+categories:
+- Personal Development
 tags: []
 ---
 Best stories on leadership, effectiveness, productivity, team culture, and personal development.
