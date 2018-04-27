@@ -10,7 +10,7 @@ description: Learn how to increase employee engagement by 300% and understand wh
   Netflix’s formula for customer obsession.
 author: gene
 cover: ''
-keywords: ''
+keywords: effectiveness, leadership
 class: ''
 categories:
 - Personal Development
