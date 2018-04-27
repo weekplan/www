@@ -9,7 +9,7 @@ description: Learn how to increase employee engagement by 300% and understand wh
   too much charisma is bad for leadership. Know what's the Akrasia effect and unlock
   Netflix’s formula for customer obsession.
 author: gene
-cover: ''
+cover: "/assets/images/uploads/cover.jpg"
 keywords: effectiveness, leadership
 class: ''
 categories:
