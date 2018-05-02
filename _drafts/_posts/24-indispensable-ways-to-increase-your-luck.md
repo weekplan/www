@@ -9,10 +9,13 @@ description: 'How you can increase your luck by adopting the habits of effective
 subtitle: How you can improve your luck by adopting the habits of effective people
 author: gene
 cover: ''
-keywords: ''
+keywords: effectiveness, leadership, luck
 class: ''
-categories: []
-tags: []
+categories:
+- personal development
+tags:
+- luck
+- effectiveness
 ---
 Tony is lucky. He has everything — a successful career, a high-paying job, a wonderful family, a fancy car, a big house. The list goes on. 
 
@@ -82,7 +85,7 @@ They keep their goals handy too, perhaps scribbled in a notebook or stored in a 
 
 The point is, write your goals and make sure they’re accessible so can you read them every day. You’ll be surprised how useful this habit is.
 
-### **4. Be Audacious with Your Goals**
+### **4. Be Audacious With Your Goals**
 
 Now that you’ve written your goals, it’s time to be loud about them. 
 
