@@ -29,6 +29,8 @@ What is Tony’s secret?
 
 ## **The Truth About Luck**
 
+![](/assets/images/uploads/mcdo.jpg)
+
 Ray Kroc, the man who brought McDonald’s to the world, didn’t believe in luck. 
 
 He spent a lot of years working as a salesman before finding the McDonald brothers. It’s easy to think that Ray got lucky because he met the brothers. 
@@ -45,6 +47,8 @@ This means that luck is simply the result of your actions. In other words, you c
 
 ## **Tilting the Odds in Your Favor**
 
+![](/assets/images/uploads/odds.jpeg)
+
 Dr. Richard Wiseman, author of the book titled “The Luck Factor”, said that people aren’t born lucky or unlucky, and that in order to have good luck, you need to have the right attitude. 
 
 Wiseman conducted intensive interviews and experiments with over 400 volunteers. After 10 years of studying what makes other people lucky, he concluded that luck is something that can be learned. 
@@ -60,6 +64,8 @@ Here are some ways to tilt the odds in your favor.
 ## **24 Ways to Increase Your Luck**
 
 ### **1. Believe That You’re Lucky**
+
+![](/assets/images/uploads/1.jpeg)
 
 The first step is to believe you’re lucky. As strange as it sounds, but believing that you’re lucky makes you more likely to be receptive to the opportunities around you. 
 
