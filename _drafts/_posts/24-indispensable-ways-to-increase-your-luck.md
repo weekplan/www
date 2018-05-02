@@ -143,7 +143,7 @@ People will only see their successes, so they’re often perceived as simply luc
 
 Be a hustler and work hard — they are sure ways to get lucky. 
 
-### **8. Be Open to Opportunities**
+### **9. Be Open to Opportunities**
 
 Lucky people are always on the lookout for new opportunities. They easily recognize them because they believe that they’re lucky.  
 
