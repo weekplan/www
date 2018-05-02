@@ -8,7 +8,7 @@ description: 'How you can increase your luck by adopting the habits of effective
   Follow these 24 ways to increasing your luck today. '
 subtitle: How you can improve your luck by adopting the habits of effective people
 author: gene
-cover: ''
+cover: "/assets/images/uploads/cover.jpeg"
 keywords: effectiveness, leadership, luck
 class: ''
 categories:
