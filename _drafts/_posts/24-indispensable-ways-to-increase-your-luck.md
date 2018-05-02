@@ -147,8 +147,6 @@ Whether it’s the promotion that you’ve been waiting for, or the chance to la
 
 One of the benefits of having a positive attitude is you’re able to easily identify opportunities that are in front of you.
 
- 
-
 But it’s one thing to seize an opportunity, and it’s another to maximize it. Lucky people know how to maximize opportunities. 
 
 Whether it’s pitching your side business to a potential investor or promoting your other products to customers, learn to make the most of your opportunities.
@@ -273,7 +271,7 @@ Lucky people — those who are successful in life — take massive action. A man
 
 ## **Conclusion**
 
-There you have it. You now have a comprehensive guide to increasing your luck. 
+There you have it. You now have a comprehensive guide to increasing your luck.
 
 Follow these hacks and you’ll be feeling lucky in no time. 
 
