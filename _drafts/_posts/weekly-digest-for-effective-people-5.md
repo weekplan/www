@@ -53,15 +53,15 @@ James Clear writes about the [Diderot Effect: Why We Want Things We Don’t Need
 
 We often think that the most successful people are disciplined people who lead disciplined lives. Sorry, but it’s a lie. 
 
+Zaid Dahhaj explores the [Misconception Of Self Discipline](https://medium.com/@zaiderrr/the-misconception-of-self-discipline-78e8aa764775).
+
 Success isn’t the result of a marathon of disciplined actions. Rather, success is a short race — a sprint of disciplined actions — just enough to form a habit. 
 
 This means you need just enough discipline to build a habit that will create success. The trick to success is to choose the right habit and bring just enough discipline to establish it.
 
 In fact, to build a habit, you only need to practice discipline for 66 days. The habit will do most of the work for you moving forward. 
 
-Zaid Dahhaj explores the Misconception Of Self Discipline.
-
-[Read the article](https://medium.com/personal-growth/the-akrasia-effect-why-we-dont-follow-through-on-what-we-set-out-to-do-and-what-to-do-about-it-7c8c47587897)
+[Read the article](https://medium.com/@zaiderrr/the-misconception-of-self-discipline-78e8aa764775)
 
 ## Pick #4: Beginner’s Guide to Deliberate Practice
 
