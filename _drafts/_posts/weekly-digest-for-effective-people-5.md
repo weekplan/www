@@ -14,24 +14,26 @@ categories:
 tags:
 - leadership
 - effectiveness
-cover: ''
+cover: "/assets/images/uploads/pexels-photo-618549.jpeg"
 class: ''
 ---
 The week's best stories on leadership, effectiveness, productivity, team culture, and personal development.
 
 ## Our Top Pick: Give Your Brain a Break
 
-How many of us are living our lives on auto-pilot? 
+![](/assets/images/uploads/1-2.jpeg)
+
+How many of us are living our lives on auto-pilot?
 
 You open Facebook the moment you wake up. You let negative people hold you back. You don’t take action on your dreams because you think you couldn’t do it.
 
-It’s time to give your brain a break. How? 
+It’s time to give your brain a break. How?
 
 Mindfulness. It’s the opposite of living on autopilot.
 
 Gustavo Razzetti explores [Why Training Your Mind is the Most Important Priority in Life](https://medium.com/personal-growth/why-you-need-to-train-your-mind-not-just-your-brain-1e36356cbf30).
 
-Society has conditioned us to think hard. Our thoughts cause most of our problems, Razzetti says. 
+Society has conditioned us to think hard. Our thoughts cause most of our problems, Razzetti says.
 
 To overcome your problems, you need to observe your thoughts rather than continue thinking.
 
@@ -39,7 +41,9 @@ To overcome your problems, you need to observe your thoughts rather than continu
 
 ## Pick #2: The Diderot Effect
 
-Do you find yourself trapped in a buying frenzy only to realize you don’t need many of the things you bought? 
+![](/assets/images/uploads/2.jpeg)
+
+Do you find yourself trapped in a buying frenzy only to realize you don’t need many of the things you bought?
 
 It’s called the Diderot Effect, named after the famous French philosopher Denis Diderot who reportedly struggled with the phenomenon.
 
@@ -51,23 +55,27 @@ James Clear writes about the [Diderot Effect: Why We Want Things We Don’t Need
 
 ## Pick #3: You Need 66 Days to Build a Habit
 
-We often think that the most successful people are disciplined people who lead disciplined lives. Sorry, but it’s a lie. 
+![](/assets/images/uploads/3-1.jpg)
+
+We often think that the most successful people are disciplined people who lead disciplined lives. Sorry, but it’s a lie.
 
 Zaid Dahhaj explores the [Misconception Of Self Discipline](https://medium.com/@zaiderrr/the-misconception-of-self-discipline-78e8aa764775).
 
-Success isn’t the result of a marathon of disciplined actions. Rather, success is a short race — a sprint of disciplined actions — just enough to form a habit. 
+Success isn’t the result of a marathon of disciplined actions. Rather, success is a short race — a sprint of disciplined actions — just enough to form a habit.
 
 This means you need just enough discipline to build a habit that will create success. The trick to success is to choose the right habit and bring just enough discipline to establish it.
 
-In fact, to build a habit, you only need to practice discipline for 66 days. The habit will do most of the work for you moving forward. 
+In fact, to build a habit, you only need to practice discipline for 66 days. The habit will do most of the work for you moving forward.
 
 [Read the article](https://medium.com/@zaiderrr/the-misconception-of-self-discipline-78e8aa764775)
 
 ## Pick #4: Beginner’s Guide to Deliberate Practice
 
-Nothing beats deliberate practice. Deliberate practice is both systematic and purposeful. 
+![](/assets/images/uploads/4-1.jpeg)
 
-10,000 hours of devoted time to mastery is meaningless without deliberate practice. 
+Nothing beats deliberate practice. Deliberate practice is both systematic and purposeful.
+
+10,000 hours of devoted time to mastery is meaningless without deliberate practice.
 
 On the contrary, regular practice involves mindless repetitions. But mindless activity is the enemy of deliberate practice.
 
@@ -81,14 +89,16 @@ Clear has written a [Beginner’s Guide to Deliberate Practice](https://medium.c
 
 ## Pick #5: Productivity vs Efficiency vs Effectiveness
 
-Our concept of productivity is wrong. Sure, task and project management are helpful, but they have a downside — they make us look at the wrong things, which serves to make us productive at the cost of being effective.
+![](/assets/images/uploads/5-1.jpeg)
+
+Our concept of productivity is wrong. Sure, task and project management are useful, but they have a downside — they make us look at the wrong things, which serves to make us productive at the cost of being effective.
 
 Mike Sturm writes about why we fail to recognize the most valuable things we should be managing in [Productivity is Dead. Long Live Productivity!](https://medium.com/@MikeSturm/re-imagining-productivity-why-we-should-ditch-task-management-and-what-should-take-its-place-7b29f0168952)
 
 There’s a distinction between productivity, efficiency, and effectiveness.
 
-Productivity is your overall output. Efficiency is doing things right. Effectiveness is doing the right things that deliver value. 
+Productivity is your overall output. Efficiency is doing things right. Effectiveness is doing the right things that deliver value.
 
-That’s why here at [Week Plan](https://weekplan.net/), we encourage our customers to write down their High Impact Tasks (HITs) — tasks that build empires, generate the most revenue, and create the best results. 
+That’s why here at [Week Plan](https://weekplan.net/), we encourage our customers to write down their High Impact Tasks (HITs) — tasks that build empires, generate the most revenue, and create the best results.
 
 [Read the article](https://medium.com/@MikeSturm/re-imagining-productivity-why-we-should-ditch-task-management-and-what-should-take-its-place-7b29f0168952)
