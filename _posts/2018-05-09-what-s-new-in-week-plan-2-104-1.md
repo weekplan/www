@@ -39,7 +39,7 @@ You can switch to a 12-hour clock by going to your Account Settings, then Prefer
 
 Additionally, your tasks can now appear in both in the board list and day list. 
 
-## **Generate Permalinks to Tasks**
+## **Generate Permalinks of Tasks**
 
 ## **![](/assets/images/uploads/b.png) **
 
