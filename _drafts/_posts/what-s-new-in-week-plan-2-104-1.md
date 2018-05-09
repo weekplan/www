@@ -61,6 +61,8 @@ Previously, the time tracked value could not be reset to zero. Now you can reset
 
 ## **Fixed: Week Cells Are Automatically Highlighted in Goal Section** 
 
+![](/assets/images/uploads/e.png)
+
 Moreover, there was a bug that automatically highlights the week cells in the Goals module. We’re happy to report that our developers have fixed this issue.
 
 ## **Fixed: Popover Scroll Bar** 
