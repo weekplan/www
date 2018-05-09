@@ -79,6 +79,6 @@ List ordering broke during our last deployment. We’ve fixed the bug. You can n
 
 ## **Stay Tuned for More**
 
-That’s it! We’re working hard to make Week Plan the best software to keep you stay on track of your goals, projects, and tasks. 
+That’s it! Stay tuned for more awesome updates. We’re working hard to make Week Plan the best software to help you keep track of your goals, projects, and tasks. 
 
-Thank you for using Week Plan. 
+Thank's for using Week Plan. 
