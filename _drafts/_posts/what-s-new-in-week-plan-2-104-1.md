@@ -17,9 +17,9 @@ tags: []
 ---
 # **What’s New in Week Plan 2.104.1**
 
-Week Plan is growing. 
+Week Plan is growing. Each week, our developers work hard to release new features and bug fixes. 
 
-Each week, our developers work hard to release new features and bug fixes. We’re committed to providing you with the best software that will help you become more effective.
+We’re committed to providing you with the best software that will help you become more effective.
 
 ## **Added New List Setting: Promote to Today**
 
@@ -53,7 +53,7 @@ Be sure to check out the global tooltip which neatly tells you what workspace yo
 
 ## **Fixed: Can’t Assign Roles to Task**
 
-Some of our users reported having difficulties assigning roles to asks. Well, we finally fixed that issue.
+Some of our users reported having difficulties assigning roles to asks. Well, we finally fixed the issue.
 
 ## **Fixed: Reset Time Tracked Value Issue**
 
