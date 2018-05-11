@@ -241,7 +241,6 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     font-size: 1.7rem;
     line-height: 1em;
     font-weight: bold;
-    letter-spacing: -0.5px;
 }
 
 .site-nav-logo:hover {

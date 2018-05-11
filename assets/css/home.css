@@ -5,6 +5,7 @@
     color: #fff;
     text-align: center;
     padding-top: 6em;
+    padding-bottom: 6em;
 }
 
 .home-headline h1 {
@@ -56,7 +57,7 @@
 }
 
 .home-socialproof.outer {
-    padding-top: 6em;
+    padding-top: 3em;
     padding-bottom: 3em;
     text-align: center;
     color: #8D8F90;
@@ -111,7 +112,8 @@
     margin-top: 0;
 }
 
-.home-section.is-blue {
+.home-section.is-blue,
+.home-headline.outer.is-blue {
     background-color: var(--blue);
     background: repeating-linear-gradient(65deg, var(--darkblue), var(--darkblue) 20%, var(--blue) 20%, var(--blue) 80%);
 
@@ -155,6 +157,15 @@
 .visible-mobile {
     display: none;
 }
+
+.socialproof-number {
+    display: inline-block;
+    font-size: 3em;
+    color: #000;
+    vertical-align: middle;
+}
+
+
 
 @media only screen and (max-width: 768px) {
     .visible-mobile {

@@ -9,21 +9,10 @@
             {% include navigation.html %}
         {% endif %}
     </div>
-    {% if page.current != 'home' %}
-            
-        <div class="site-nav-right">
-            <div class="social-links">
-                {% if site.facebook %}
-                    <a class="social-link social-link-fb" href="https://facebook.com/{{ site.facebook }}" target="_blank" rel="noopener">{% include facebook.html %}</a>
-                {% endif %}
-                {% if site.twitter %}
-                    <a class="social-link social-link-tw" href="https://twitter.com/{{ site.twitter }}" target="_blank" rel="noopener">{% include twitter.html %}</a>
-                {% endif %}
-            </div>
-            {% if site.subscribers %}
-                <a class="subscribe-button" href="#subscribe">Subscribe</a>
-            {% endif %}
-        </div>
-
-    {% endif %}
+    <div class="site-nav-right">
+        <ul class="nav" role="menu">
+            <li role="menuitem"><a href="https://next.weekplan.net">Try Week Plan</a></li>
+            <li role="menuitem"><a href="https://next.weekplan.net">Log in</a></li>
+        </ul>
+    </div>
 </nav>
