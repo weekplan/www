@@ -35,13 +35,12 @@ We’ve also added a 12-hour time format for those who hate using a 24-hour cloc
 
 You can switch to a 12-hour clock by going to your Account Settings, then Preferences.
 
-## **Tasks Can Appear in Boards and HIT List**
+## **Tasks Can Appear in Boards and Day**
 
 Additionally, your tasks can now appear in both in the board list and day list.
 
-## **Generate Permalinks of Tasks**
-
-## \*\*![](/assets/images/uploads/b.png) \*\*
+## **Generate Permalinks of Tasks**  
+![](/assets/images/uploads/b.png) 
 
 To make things easier for and your team, we’ve added an option to generate a permalink of your tasks. Copying a link to your clipboard allows you to share specific tasks with your team members.
 
