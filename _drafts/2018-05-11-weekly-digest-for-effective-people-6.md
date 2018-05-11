@@ -63,7 +63,7 @@ Dr. Mark Lavercombe, author of The Productive Physician, writes about how to ach
 
 ## Bonus Pick: The Power of Vision
 
-The greatest innovators were obsessed about something. They had another term for obsession though. It’ called vision. 
+The greatest innovators were obsessed with something. They had another term for obsession though. It’ called vision. 
 
 Michał Stawicki writes about the power of vision in [The Strange Productivity Secret of Successful People](https://medium.com/thrive-global/the-strange-productivity-secret-of-successful-people-823924f11710).
 
