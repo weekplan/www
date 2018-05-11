@@ -23,7 +23,7 @@ The week’s best stories on leadership, effectiveness, productivity, team cultu
 
 ## Our Top Pick: How to Run Efficient Meetings, According to Steven Sinofsky
 
-![](/assets/images/uploads/1-3.jpeg)
+![](/assets/images/uploads/1-4.jpeg)
 
 Employees and bosses typically loath meetings because they’re often exhausting and time-consuming. But meetings can be efficient when you have a plan.
 
@@ -33,7 +33,7 @@ Former Microsoft President Steven Sinofsky teaches you the right way to run meet
 
 ## Pick #2: 5 Essential Investments Every Human Being Should Make In Themselves
 
-![](/assets/images/uploads/3-1.jpeg)
+![](/assets/images/uploads/3-2.jpeg)
 
 Author Srinivas Rao has written an excellent article that focuses on Quadrant II activities — actions that yield incredible results in the future.
 
@@ -43,7 +43,7 @@ In [5 Essential Investments Every Human Being Should Make In Themselves](https:/
 
 ## Pick #3: The Only Guide You’ll Need to Beat Procrastination
 
-![](/assets/images/uploads/2-1.jpeg)
+![](/assets/images/uploads/2-2.jpeg)
 
 Research shows that procrastination is an emotion-management problem, not a time-management problem.
 
@@ -53,7 +53,7 @@ Dr. Tim Pychyl unlocks the secret to beating procrastination using human psychol
 
 ## Pick #4: The One Meta Skill That All Billionaires Have
 
-![](/assets/images/uploads/4-2.jpeg)
+![](/assets/images/uploads/4-3.jpeg)
 
 If you want to be successful, you’ll need this one meta-skill that’ll improve almost everything else in your life.
 
@@ -63,7 +63,7 @@ Best-selling author Tim Ferris writes about the [One Routine Common to Billionai
 
 ## Pick #5: How to Be Effective Like an Academic Athlete
 
-![](/assets/images/uploads/5-2.jpeg)
+![](/assets/images/uploads/5-3.jpeg)
 
 Academic clinicians have a lot to teach us about effectiveness and productivity — they often combine multiple tasks involving patient care, research, teaching, and administration.
 
@@ -73,7 +73,7 @@ Dr. Mark Lavercombe, author of The Productive Physician, writes about how to ach
 
 ## Bonus Pick: The Power of Vision
 
-![](/assets/images/uploads/6.png)
+![](/assets/images/uploads/6-1.png)
 
 The greatest innovators were obsessed with something. They had another term for obsession though. It’ called vision.
 
