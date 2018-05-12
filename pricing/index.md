@@ -15,6 +15,9 @@ description: Affordable and easy to use online weekly planner that can help you 
 subtitle: 'Affordable and simple'
 cover: ''
 ---
+
+Each plan comes with a 7 day trial.
+
 {% include pricing-table.html %}
 
 ## Payment processing
