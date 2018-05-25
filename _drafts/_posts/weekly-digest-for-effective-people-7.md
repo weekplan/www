@@ -23,17 +23,23 @@ This week’s best stories on leadership, effectiveness, productivity, team cult
 
 ## Our Top Pick: Why Silence is the Think Tank of the Soul
 
+![](/assets/images/uploads/pexels-photo-268013.jpeg)
+
 There’s a reason why the World Health Organization labeled noise pollution as a modern plague. It found evidence that exposure to noise affects the overall health of a person. Gustavo Razzeti writes about the power of silence, its benefits — from growing new brain cells to lowering blood cortisol — and why it’s the think tank of the soul. 
 
 [Read the article](https://medium.com/personal-growth/why-silence-is-the-think-tank-of-the-soul-9a79049824ca)
 
 ## Pick #2: Steve Jobs’ Secret for Eliciting Questions
 
+![](/assets/images/uploads/j09_RTR2EVEL.jpg)
+
 Steve Jobs used an effective technique for eliciting questions during meetings. The late Apple co-founder was so good at it that he would immediately understand what was going on at Apple and Pixar. Andy Raskin writes about Steve Jobs’ secret for eliciting questions. 
 
 [Read the article](https://medium.com/the-mission/steve-jobs-secret-for-eliciting-questions-overheard-at-a-san-francisco-cafe-80b1af67433)
 
 ## Pick #3: Stop Treating Your Team Like Kids If You Want Them to Succeed
+
+![](/assets/images/uploads/pexels-photo-296301.jpeg)
 
 One of the biggest ironies in the modern workplace is that companies want their teams to be mature yet their policies treat employees like kids. Gustavo Razzeti recommends five ways to stop treating your teams like kids.
 
