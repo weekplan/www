@@ -16,7 +16,7 @@ tags:
 - personal development
 - leadership
 - productivity
-cover: ''
+cover: "/assets/images/uploads/pexels-photo-1059120.jpeg"
 class: ''
 ---
 This week’s best stories on leadership, effectiveness, productivity, team culture, and personal development.
