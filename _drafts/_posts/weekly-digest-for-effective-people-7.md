@@ -29,9 +29,7 @@ There’s a reason why the World Health Organization labeled noise pollution as 
 
 [Read the article](https://medium.com/personal-growth/why-silence-is-the-think-tank-of-the-soul-9a79049824ca)
 
-## Pick #2: Steve Jobs’ Secret for Eliciting Questions
-
-![](/assets/images/uploads/j09_RTR2EVEL.jpg)
+## Pick #2: Steve Jobs’ Secret for Eliciting Questions![](/assets/images/uploads/j09_RTR2EVEL.jpg)
 
 Steve Jobs used an effective technique for eliciting questions during meetings. The late Apple co-founder was so good at it that he would immediately understand what was going on at Apple and Pixar. Andy Raskin writes about Steve Jobs’ secret for eliciting questions. 
 
@@ -47,11 +45,15 @@ One of the biggest ironies in the modern workplace is that companies want their 
 
 ## Pick #4: Don’t Be Busy, If You Want to Be a Good Leader
 
+![](/assets/images/uploads/pexels-photo-624367.jpeg)
+
 It’s easy for leaders to be entangled with a lot of stuff. After all, leadership isn’t a walk in the park. But if you’re too busy as a leader, you’re making a huge mistake. Because the best leaders spend most of their time on people. Claire Lew examines the perils of being busy and why it’s bad for leadership. 
 
 [Read the article](https://blog.knowyourcompany.com/the-most-surprising-principle-of-good-leadership-dont-be-busy-87a20c07b724)
 
 ## Pick #5: You Don’t Need to Read 1,000 Books to Be Successful
+
+![](/assets/images/uploads/pexels-photo-256431.jpg)
 
 Every book that you read will help you — in countless ways. But it’s not about the number of books that you read. In fact, consuming too much information will hurt you. You only need the right information — the right book — to help you succeed. John Mashni explains why you don’t need to read 1,000 books to be successful.
 
