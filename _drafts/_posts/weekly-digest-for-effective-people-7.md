@@ -35,7 +35,7 @@ Steve Jobs used an effective technique for eliciting questions during meetings. 
 
 ## Pick #3: Stop Treating Your Team Like Kids If You Want Them to Succeed
 
-One of the biggest ironies in the modern workplace is that companies want their teams to be mature yet their policies are treating them like kids. Gustavo Razzeti recommends five ways to stop treating your teams like kids.
+One of the biggest ironies in the modern workplace is that companies want their teams to be mature yet their policies treat employees like kids. Gustavo Razzeti recommends five ways to stop treating your teams like kids.
 
 [Read the article](https://blog.liberationist.org/if-you-want-your-team-to-be-successful-stop-treating-them-like-kids-81ef87ff6199)
 
@@ -47,6 +47,6 @@ It’s easy for leaders to be entangled with a lot of stuff. After all, leadersh
 
 ## Pick #5: You Don’t Need to Read 1,000 Books to Be Successful
 
-Every book that you read will help you — in countless ways. But it’s not about the number of books that you read. Consuming too much information will hurt you. You only need the right information — the right book — to help you succeed. John Mashni explains why you don’t need to read 1,000 books to be successful.
+Every book that you read will help you — in countless ways. But it’s not about the number of books that you read. In fact, consuming too much information will hurt you. You only need the right information — the right book — to help you succeed. John Mashni explains why you don’t need to read 1,000 books to be successful.
 
 [Read the article](https://medium.com/@JohnMashni/why-you-do-not-need-to-read-1-000-books-to-be-successful-9f51e268d5d4)
