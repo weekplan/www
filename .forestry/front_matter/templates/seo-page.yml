@@ -1,17 +1,4 @@
 ---
-pages:
-- _pages/about-us/index.md
-- pricing/index.md
-- _pages/api/index.md
-- _pages/braindumps-how-to-reduce-stress-instantly/index.md
-- index.html
-- _posts/2018-05-11-weekly-digest-for-effective-people-6.md
-- _posts/2018-05-09-what-s-new-in-week-plan-2-104-1.md
-- _posts/2018-04-21-what-s-new-in-week-plan-2-99-1.md
-- _posts/2018-04-19-how-to-be-a-better-leader-interview-with-highly-effective-person-vincent-vergonjeanne.md
-- _posts/2018-05-04-weekly-digest-for-effective-people-5.md
-- _posts/2018-04-27-weekly-digest-for-effective-people-4.md
-- _posts/2018-04-19-weekly-digest-for-effective-people-3.md
 hide_body: false
 is_partial: false
 fields:
@@ -83,3 +70,17 @@ fields:
 - type: tag_list
   name: tags
   label: tags
+pages:
+- pricing/index.md
+- _pages/about-us/index.md
+- _pages/api/index.md
+- _pages/braindumps-how-to-reduce-stress-instantly/index.md
+- index.html
+- _posts/2018-05-25-weekly-digest-for-effective-people-7.md
+- _posts/2018-05-11-weekly-digest-for-effective-people-6.md
+- _posts/2018-05-09-what-s-new-in-week-plan-2-104-1.md
+- _posts/2018-04-21-what-s-new-in-week-plan-2-99-1.md
+- _posts/2018-04-19-how-to-be-a-better-leader-interview-with-highly-effective-person-vincent-vergonjeanne.md
+- _posts/2018-05-04-weekly-digest-for-effective-people-5.md
+- _posts/2018-04-27-weekly-digest-for-effective-people-4.md
+- _posts/2018-04-19-weekly-digest-for-effective-people-3.md
