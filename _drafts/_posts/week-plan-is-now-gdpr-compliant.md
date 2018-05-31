@@ -18,11 +18,17 @@ tags:
 - updates
 - product news
 ---
-What’s New in Week Plan Version 2.109.1
+# What’s New in Week Plan Version 2.109.1
 
-Week Plan is Now GDPR Compliant
+The biggest news is that Week Plan is now GDPR-compliant. 
 
-- Week Plan is committed to compliance with the General Data Protection Regulation (GDPR). We’ve added a new page that asks for your acceptance of our terms and privacy policy. 
+On May 25th, the European Union’s General Data Protection Regulation (GDPR) went into effect and we want to be transparent about how we store and protect your personal information. 
+
+We’ve devoted our resources to comply with GDPR. You can read our updated privacy policy [here](https://weekplan.net/privacy/).
+
+## Week Plan is Now GDPR-Compliant
+
+Week Plan is committed to compliance with the General Data Protection Regulation (GDPR). We’ve added a new page that asks for your acceptance of our terms and privacy policy. 
 
 Removed Theme Option
 
