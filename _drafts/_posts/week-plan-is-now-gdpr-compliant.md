@@ -7,12 +7,16 @@ date: 2018-05-31 00:00:00 +0000
 description: What’s new in Week Plan version 2.109.1? Week Plan is now GDPR-compliant,
   we've added new features and fixed some bugs.
 subtitle: What’s New in Week Plan Version 2.109.1
-author: ''
-cover: ''
+author: gene
+cover: "/assets/images/uploads/announcement2-1"
 keywords: ''
 class: ''
-categories: []
-tags: []
+categories:
+- product
+tags:
+- release notes
+- updates
+- product news
 ---
 What’s New in Week Plan Version 2.109.1
 
