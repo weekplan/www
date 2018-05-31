@@ -20,31 +20,31 @@ tags:
 ---
 # What’s New in Week Plan Version 2.109.1
 
-The biggest news is that Week Plan is now GDPR-compliant. 
+The biggest news is that Week Plan is now GDPR-compliant.
 
-On May 25th, the European Union’s General Data Protection Regulation (GDPR) went into effect and we want to be transparent about how we store and protect your personal information. 
+On May 25th, the European Union’s General Data Protection Regulation (GDPR) went into effect and we want to be transparent about how we store and protect your personal information.
 
 We’ve devoted our resources to comply with GDPR. You can read our updated privacy policy [here](https://weekplan.net/privacy/).
 
-We've also added a bunch of new features and fixed a few bugs. 
+We've also added a bunch of new features and fixed a few bugs.
 
 ## Week Plan is Now GDPR-Compliant
 
-Week Plan is committed to compliance with the General Data Protection Regulation (GDPR). We’ve added a new page that asks for your acceptance of our terms and privacy policy. 
+Week Plan is committed to compliance with the General Data Protection Regulation (GDPR). We’ve added a new page that asks for your acceptance of our terms and privacy policy.
 
 ## Removed Theme Option
 
-We’ve removed the theme option to make the overall experience simpler, without the fuss, so you can focus on what matters. 
+We’ve removed the theme option to make the overall experience simpler, without the fuss, so you can focus on what matters.
 
-## Removed On-boarding Pages and Introduce Induction Pages
+## Removed On-boarding Pages and Introduced Induction Pages
 
-We’ve also removed the on-boarding pages and introduced Induction Pages. 
+We’ve also removed the on-boarding pages and introduced Induction Pages.
 
 ## Removed Username From Registration Page
 
 In the spirit of GDPR, we’re no longer requiring you to enter a username on the registration page.
 
-## Role-List: Don’t Show HITs That Are Scheduled 
+## Role-List: Don’t Show HITs That Are Scheduled
 
 When all high impact tasks (HITs) in a role have been scheduled, we show a nice green tick and a grey text that says “All HITs have been scheduled.”
 
