@@ -26,42 +26,41 @@ On May 25th, the European Union’s General Data Protection Regulation (GDPR) we
 
 We’ve devoted our resources to comply with GDPR. You can read our updated privacy policy [here](https://weekplan.net/privacy/).
 
+We've also added a bunch of new features and fixed a few bugs. 
+
 ## Week Plan is Now GDPR-Compliant
 
 Week Plan is committed to compliance with the General Data Protection Regulation (GDPR). We’ve added a new page that asks for your acceptance of our terms and privacy policy. 
 
-Removed Theme Option
+## Removed Theme Option
 
-- We’ve removed the theme option to make the overall experience simpler, without the fuss, so you can focus on what matters. 
+We’ve removed the theme option to make the overall experience simpler, without the fuss, so you can focus on what matters. 
 
-Removed Onboarding Pages and Introduce Induction Pages
+## Removed On-boarding Pages and Introduce Induction Pages
 
-- We’ve also removed the onboarding pages and introduced Induction Pages. These new pages are blah blah blah. 
+We’ve also removed the on-boarding pages and introduced Induction Pages. 
 
-Removed Username From Registration Page
+## Removed Username From Registration Page
 
 In the spirit of GDPR, we’re no longer requiring you to enter a username on the registration page.
 
-More Updates and Features
+## Role-List: Don’t Show HITs That Are Scheduled 
 
--Left Menu: Renamed “Schedule” to “Planner”.
+When all high impact tasks (HITs) in a role have been scheduled, we show a nice green tick and a grey text that says “All HITs have been scheduled.”
 
--Removed default role “Self”.
+## More Updates and Features
 
--Planner: Show timeline only when a task is dragged over a list or if there are events in the day.
+* Left Menu: Renamed “Schedule” to “Planner”.
+* Removed default role “Self”.
+* Planner: Show timeline only when a task is dragged over a list or if there are events in the day.
+* Move roles (and list) quick actions (Edit, Delete) into the top right menu
+* A task can be on both a list and date.
 
--Move roles (and list) quick actions (Edit, Delete) into the top right menu
+## Bug Fixes
 
-Role-List: Don’t Show HITs That Are Scheduled 
+* New User: Can’t login with Microsoft Outlook
+* Can’t assign role to task.
 
--When all high impact tasks (HITs) in a role have been scheduled, we show a nice green tick and a grey text that says “All HITs have been scheduled.”
+## Stay Tuned for More
 
--A task can be on both a list and date.
-
-Bug Fixes:
-
--New User: Can’t login with Microsoft Outlook
-
--Can’t assign role to task.
-
-We’re
+Stay tuned for more cool updates. We’re working hard to make Week Plan the best tool to help you keep track of your goals, projects, and tasks.
