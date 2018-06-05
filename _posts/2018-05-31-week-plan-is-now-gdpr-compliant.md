@@ -36,42 +36,21 @@ We've also added a bunch of new features and fixed a few bugs. Check out the det
 
 We’ve removed the theme option to make the overall experience simpler, without the fuss, so you can focus on what matters.
 
-## **Removed On-boarding Pages and Introduced Induction Pages**
-
-![](/assets/images/uploads/role.png)In the latest version, we introduced induction pages in which you can add roles and corresponding high impact tasks (HITs). We also removed the option to extend a trial when on-boarding. To extend a trial, simply click the “Extend Trial” button in the Planner. 
-
 ## **Removed Username From Registration Page**
 
-In the spirit of GDPR, we’re no longer requiring you to enter a username on the registration page.
+We’re no longer requiring you to enter a username on the registration page.
 
 ## **Role-List: Don’t Show HITs That Are Scheduled**
 
 When all high impact tasks (HITs) in a role have been scheduled, we show a nice green tick and a grey text that says “All HITs have been scheduled.”
 
-## **Left Menu: Renamed “Schedule” to “Planner”**
-
-![](/assets/images/uploads/planner.png)We’ve renamed the weekly planner from “Schedule” to “Planner” to encapsulate what Week Plan is about -- a priority planner for effective people. 
-
-## **Removed Default Role “Self”**
-
-![](/assets/images/uploads/roles.png)In previous versions, adding a role was optional. So we created a default role called “Self” for each user. Now we’re requiring users to create at least one role at the induction page. 
-
 ## **Planner: Show Timeline Only When a Task is Dragged** 
 
 ![](/assets/images/uploads/Rec.gif)We’ve made the Planner simpler by showing only the timeline when a task is dragged over a list or when there are events in the day. Don’t forget to check out the cool hover effect! 
 
-## **Moved Quick Actions to Top Right Menu**
-
-![](/assets/images/uploads/small.png)Now you can edit, delete, move, or prioritize roles by clicking the downward arrow icon in the top right menu of a role. It’s a small change in the UI that improves the user experience.
-
 ## **Tasks Now Appear on Lists and Dates**
 
 In previous versions, if a task is in a list (e.g. Parking Lot) and you move it to Planner, the task disappears from the board and appears in the planner. In the latest update, dragging a task from a list to the Planner will not remove it from the list.
-
-## **Bug Fixes**
-
-* New User: Can’t login with Microsoft Outlook
-* Can’t assign role to task.
 
 ## **Stay Tuned for More**
 
