@@ -8,7 +8,7 @@ description: What’s new in Week Plan version 2.109.1? Week Plan is now GDPR-co
   we've added new features and fixed some bugs.
 subtitle: What’s New in Week Plan Version 2.109.1
 author: gene
-cover: "/assets/images/uploads/announcement2-2"
+cover: "/assets/images/uploads/announcement2.png"
 keywords: ''
 class: ''
 categories:
