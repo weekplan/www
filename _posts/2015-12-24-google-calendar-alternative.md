@@ -70,20 +70,19 @@ Week Plan is available in two versions: PRO and ULTIMATE. ULTIMATE unlocks all t
 
 ### PRO pricing
 
-*   Monthly billing cycle – $4.56
-*   Yearly billing cycle – $43.33 every year
+*   Monthly billing cycle – $10
+*   Yearly billing cycle – $104 every year
 
 ### ULTIMATE pricing
 
-*   Monthly billing cycle – $5.78
-*   Yearly billing cycle – $52 every year
+*   Monthly billing cycle – $16.25
+*   Yearly billing cycle – $156 every year
 
 Week Plan’s premium features include:
 
 *   Subtasks
 *   Recurring tasks
 *   Integration with Google Calendar and Outlook
-*   Analytics
 *   Integration with 1000+ web services via Zapier.com
 
 ## Why would you choose Google Calendar

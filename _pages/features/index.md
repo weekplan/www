@@ -61,11 +61,11 @@ Because there is a time to do and a time to reflect.
     icon="fas fa-envelope-open" 
 %}
 
-{% include feature.html 
+<!-- {% include feature.html 
     name="Analytics" 
     description="Week Plan has an analytics module that focuses on actionable metrics, rather than “vanity” metrics." 
     icon="fas fa-chart-pie" 
-%}
+%} -->
 
 ## Time tracking
 We have added some time tracking features to help you estimate and measure your progress.
