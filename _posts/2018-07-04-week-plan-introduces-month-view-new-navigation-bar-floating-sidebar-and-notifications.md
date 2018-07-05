@@ -27,17 +27,17 @@ tags:
 
 We’ve got loads of great features for you! First, we’re introducing a new month view in the latest version of Week Plan. The new feature gives you an overview of all your tasks for the month. Previously, you only had the option to view your tasks by day, or by week.
 
-## **Conquer Tasks With Floating Sidebars** 
+## **Conquer Tasks With Floating Sidebars**
 
 ![](/assets/images/uploads/sidebar.png)
 
-Another significant update is the new sidebar, which opens automatically when you click on a task. The sidebar works on daily tasks, high impact tasks, and tasks on boards. You can even click on specific dates, roles, lists and — voila — the sidebar opens magically.
+When you click on a task, it will open in the sidebar. It means that now it is easier than ever to move subtasks into the week, or drop tasks in the subtasks list.
 
-## **New Navigation Bar for Everything** 
+## **New Navigation Bar for Everything**
 
 ![](/assets/images/uploads/nav.png)
 
-We’re changing how you move things around by adding a new navigation bar that gives you a glimpse of where you’re currently at. More than that, you’ll easily access Week Plan’s innovative tools such as the Vision Planner, Goals Tracker, Analytics, and Journal. Fewer clicks, more wins.
+We wanted to surface the full value you get out of Week Plan. It is not just a planner, you get a vision editor, a goal manager, a journal... Fewer clicks, more wins!
 
 # **Stay Up to Date With Notifications**
 
@@ -54,13 +54,13 @@ We’ve also added nifty navigational buttons on the left and right sides of the
 ## **Other Important Updates**
 
 * We’ve removed the team settings on the left menu and displayed it at the top of workspace.
-* You can now remove roles from the induction pages. 
+* You can now remove roles from the induction pages.
 * Week Plan now lets you collapse a list by clicking on its side. There should be a hover effect when you click it.
-* We’ve also removed the click to tweet default task. 
+* We’ve also removed the click to tweet default task.
 * We’ve added a page that will ask about your persona, whether you’re a student or a busy mom, and a freelancer or entrepreneur.
 
 ## **Bug Fixes**
 
-Lastly, version 2.113.3 comes with a few bug fixes, making Week Plan better than ever. 
+Lastly, version 2.113.3 comes with a few bug fixes, making Week Plan better than ever.
 
 Week Plan is getting better and better each week. Stay tuned for more awesome updates. Thank you for using our product.
