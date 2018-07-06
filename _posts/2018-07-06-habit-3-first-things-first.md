@@ -105,5 +105,3 @@ Rescue Time and the Pomodoro Timer will work at least for the professional part 
 If you have managed to identify those guilty habits in your life and dig up for your priorities, which may have been hidden under a pile of rubbish, you can start using [Week Plan](https://weekplan.net/). 
 
 You will always be reminded of the activities deserving most of your attention – those belonging to Quadrant II. Good luck with mastering the third habit!
-
- 
