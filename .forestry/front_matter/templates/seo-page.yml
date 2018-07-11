@@ -1,4 +1,5 @@
 ---
+label: SEO page
 hide_body: false
 is_partial: false
 fields:
@@ -79,6 +80,7 @@ pages:
 - _posts/2018-07-04-week-plan-introduces-month-view-new-navigation-bar-floating-sidebar-and-notifications.md
 - _posts/2018-07-06-habit-3-first-things-first.md
 - _posts/2018-06-27-best-life-hacks-of-the-week.md
+- _posts/what-is-essentialism-a-complete-guide-to-get-you-started.md
 - _posts/2018-04-19-weekly-digest-for-effective-people-3.md
 - _posts/2018-04-27-weekly-digest-for-effective-people-4.md
 - _posts/2018-04-19-how-to-be-a-better-leader-interview-with-highly-effective-person-vincent-vergonjeanne.md
