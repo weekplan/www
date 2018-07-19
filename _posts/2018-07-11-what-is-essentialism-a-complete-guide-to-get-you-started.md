@@ -7,7 +7,7 @@ date: 2018-07-11 00:00:00 +0000
 description: 'What is Essentialism and How Can It Help You Become a More Effective
   Person? Check out this actionable guide to get you started. '
 subtitle: What is Essentialism and How Can It Help You Become a More Effective Person
-author: gene
+author: ''
 cover: "/assets/images/uploads/essentialism-man.jpg"
 keywords: essentialism, essentials, essentialist
 class: ''
@@ -19,13 +19,13 @@ tags:
 - essentialist
 
 ---
-It started with a sharp pain in the belly. My wife complained about a recurring pain in her abdomen that seemed to get worst every minute. So we went to the hospital and the doctor advised us to get an X-ray. The diagnosis: appendicitis.
+It started with a sharp pain in the belly. My wife complained about a recurring pain in her abdomen that seemed to get worst every minute. So we went to the hospital and the doctor advised us to get an X-ray. The diagnosis: appendicitis. 
 
-This happened 2 years ago. I had a wonderful job working at a startup in San Francisco. It was a challenging role, but I was having fun. That week, I was preparing to finish an important report. So when the doctor revealed the prognosis, I had a dilemma. Should I go to work to finish the report or should I stay with my wife for the surgery?
+This happened 2 years ago. I had a job working at a startup in San Francisco. It was a challenging role, but I was having fun. That week, I was preparing to finish an important report. So when the doctor revealed the prognosis, I had a dilemma. Should I go to work to finish the report or should I stay with my wife for the surgery?
 
 I was afraid that my boss wouldn’t understand my situation, so I decided to continue writing the report at the hospital. The problem was our room had no Internet. And it’s hard to keep your focus when someone you love is in the operating room. I ended up not finishing my work. My reputation was tarnished.
 
-In the book titled [Essentialism: The Disciplined Pursuit of Less](https://www.amazon.com/Essentialism-Disciplined-Pursuit-Greg-McKeown/dp/0804137382), New York Times best-selling author Greg McKeown shares a similar situation about choosing between his wife or at his job. His wife was about to give birth to their daughter, but Greg had an important meeting with a client.
+In the book titled [Essentialism: The Disciplined Pursuit of Less](https://www.amazon.com/Essentialism-Disciplined-Pursuit-Greg-McKeown/dp/0804137382), New York Times best-selling author Greg McKeown shares a similar situation about choosing between his wife or his job. His wife was about to give birth to their daughter, but Greg had an important meeting with a client.
 
 He decided to go to the meeting but screwed it up because his attention wasn’t there. Worst, he felt guilty because he missed an important milestone in his life. The event prompted Greg to write a book about essentialism.
 
@@ -55,7 +55,7 @@ Warren Buffet is an example of an essentialist. He invests only on businesses th
 
 ## The Clarity Paradox
 
-Have you wondered why some people never achieve success? Why are successful people stretched too far or too thin? McKeown believes the reason is success.
+Have you wondered why successful people never make it to the next level? Why are successful people stretched too far or too thin? McKeown believes the reason is success.
 
 According to McKeown, people don’t become very successful because of the Clarity Paradox, a situation which can be summed up in four phases:
 
@@ -95,7 +95,7 @@ To fully embrace essentialism, you need to replace some assumptions in your life
 * From saying “it’s so important” to “only a few things really matter.”
 * And from saying “I can do both” to “I can do anything but not everything.”
 
-## Essentialism: Questions That Need to Ask Yourself
+## Essentialism: Questions That You Need to Ask Yourself
 
 Before I walk you through the steps, here are some important questions that you need to ask yourself to attract essentialism in your life. Go through each question and answer them.
 

@@ -72,16 +72,13 @@ fields:
   name: tags
   label: tags
 pages:
-- _pages/braindumps-how-to-reduce-stress-instantly/index.md
-- _pages/api/index.md
 - pricing/index.md
-- _pages/about-us/index.md
 - index.html
+- _posts/2018-07-06-habit-3-first-things-first.md
+- _posts/2018-07-11-what-is-essentialism-a-complete-guide-to-get-you-started.md
 - _posts/2018-04-19-weekly-digest-for-effective-people-3.md
 - _posts/2018-04-19-how-to-be-a-better-leader-interview-with-highly-effective-person-vincent-vergonjeanne.md
 - _posts/2018-07-04-week-plan-introduces-month-view-new-navigation-bar-floating-sidebar-and-notifications.md
-- _posts/2018-07-11-what-is-essentialism-a-complete-guide-to-get-you-started.md
-- _posts/2018-07-06-habit-3-first-things-first.md
 - _posts/2018-04-27-weekly-digest-for-effective-people-4.md
 - _posts/2018-05-09-what-s-new-in-week-plan-2-104-1.md
 - _posts/2018-06-27-best-life-hacks-of-the-week.md
