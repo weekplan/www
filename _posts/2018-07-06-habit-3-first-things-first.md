@@ -19,7 +19,7 @@ tags:
 - Habits
 - 7 Habits
 ---
-If you have mastered the first two habits described by Stephen Covey, now it’s time to move on to the third habit — **Put First Things First**. This habit is about setting your priorities and accomplishing the first and second habits, namely, [**Be** **Proactive **]( "https://weekplan.net/7-habits-be-proactive/")and [**Begin with the End in Mind**](https://weekplan.net/7-habits-begin-with-the-end-in-mind/). 
+If you have mastered the first two habits described by Stephen Covey, now it’s time to move on to the third habit — **Put First Things First**. This habit is about setting your priorities and accomplishing the first and second habits, namely, [**Be Proactive**](/7-habits-be-proactive/) and [**Begin with the End in Mind**](/7-habits-begin-with-the-end-in-mind/). 
 
 It shows you how to achieve spending more time in the [Quadrant II](https://weekplan.net/online-course-time-management/how-to-spend-more-time-quadrant-2/), which includes activities that are important, tasks that help you live a balanced life and prevent the burden of urgent tasks.
 
@@ -51,10 +51,6 @@ For those of you who have not read the book yet, here is Stephen Covey talking a
 You may feel like the information presented by Covey in this video is very dense and requires time and meditation to settle. To makes things slower, check this animation that presents the third habit in a more relaxed and accessible manner:
 
 {% include youtube.html id="RS9ABgFBkGU" %}
-
-And, if you are in a hurry or just want to recap all the information, watch this short, 3-minute video – also good if you want to present the concept to somebody else and want to catch their attention fast:
-
-{% include youtube.html id="P2xDiMeNoYo" %}
 
 ## **What is the Connection Between the First Two Habits and the Third?**
 
