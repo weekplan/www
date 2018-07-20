@@ -5,9 +5,8 @@ layout: post
 navigation: true
 comments: true
 date: 2018-07-06 00:00:00 +0000
-description: 'First Things First — How to Master the 3rd Habit of the 7 Habits of
-  Highly Effective PeopleFirst Things First: Best Resources to Help You with the Third
-  Habit '
+description: First Things First — How to Master the 3rd Habit of the 7 Habits of Highly
+  Effective People
 subtitle: Put First Things First — Mastering the 3rd Habit
 author: ''
 cover: "/assets/images/uploads/waiting-410328_1280.jpg"
