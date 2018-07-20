@@ -128,3 +128,5 @@ But Week Plan is not just a productivity Swiss Army Knife, it also has a vision 
 Check out Week Plan [here](https://weekplan.net/).
 
 {% include youtube.html id="VUQ6oUDpOrA" %}
+
+There you have it. Good luck in mastering the 3rd habit of the 7 Habits of Highly Effective People methodology.
