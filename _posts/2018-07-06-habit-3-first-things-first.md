@@ -1,6 +1,5 @@
 ---
-title: 'How to Master the 3rd Habit of the 7 Habits of Highly Effective PeopleFirst
-  Things First: Best Resources to Help You with the Third Habit'
+title: How to Master the 3rd Habit of the 7 Habits of Highly Effective People
 layout: post
 navigation: true
 comments: true
@@ -102,9 +101,11 @@ Going back to the two questions formulated by Stephen Covey, you may find it eas
 
 ### Week Plan
 
-RescueTime and the Pomodoro Timer are great productivity tools. The former is perfect for tracking your productivity at work while the latter keeps you focused on specific tasks. 
+RescueTime and the Pomodoro Timer are great productivity tools. The former is perfect for tracking your productivity at work while the latter keeps you focused on specific tasks.
 
 But if you want to take things to the next level — from productivity to effectiveness, then you need more than just a productivity app. You need Week Plan.
+
+![](/assets/images/uploads/fb-cover-photo-edited.png)
 
 Week Plan is a priority planner that helps you do the right things — the [things that truly matter](https://weekplan.net/what-is-essentialism-a-complete-guide-to-get-you-started/). It lets you prioritize tasks according to urgency and importance while allowing you to set high-impact tasks (HITs).
 
@@ -124,4 +125,6 @@ But Week Plan is not just a productivity Swiss Army Knife, it also has a vision 
 * iOS and Android Apps
 * And More!
 
-Check out Week Plan [here](https://weekplan.net/). 
+Check out Week Plan [here](https://weekplan.net/).
+
+{% include youtube.html id="VUQ6oUDpOrA" %}
