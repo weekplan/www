@@ -1,13 +1,15 @@
 ---
-title: 'First Things First: Best Resources to Help You with the Third Habit'
+title: 'How to Master the 3rd Habit of the 7 Habits of Highly Effective PeopleFirst
+  Things First: Best Resources to Help You with the Third Habit'
 layout: post
 navigation: true
 comments: true
 date: 2018-07-06 00:00:00 +0000
-description: Put First Things First — How to Master the 3rd Habit of the 7 Habits
-  of Highly Effective People
-subtitle: How to Master the 3rd Habit of the 7 Habits of Highly Effective People
-author: aymeric
+description: 'First Things First — How to Master the 3rd Habit of the 7 Habits of
+  Highly Effective PeopleFirst Things First: Best Resources to Help You with the Third
+  Habit '
+subtitle: Put First Things First — Mastering the 3rd Habit
+author: ''
 cover: "/assets/images/uploads/waiting-410328_1280.jpg"
 keywords: ''
 class: ''
@@ -18,6 +20,7 @@ tags:
 - Personal Development
 - Habits
 - 7 Habits
+
 ---
 If you have mastered the first two habits described by Stephen Covey, now it’s time to move on to the third habit — **Put First Things First**. This habit is about setting your priorities and accomplishing the first and second habits, namely, [**Be Proactive**](/7-habits-be-proactive/) and [**Begin with the End in Mind**](/7-habits-begin-with-the-end-in-mind/). 
 
