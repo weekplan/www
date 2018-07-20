@@ -80,15 +80,15 @@ This means that at some point you will be pushed to Quadrant I, where urgent and
 
 Have you ever tried getting an accurate picture of what occupies your time throughout the day? An interesting exercise I’ve been doing is using an app to find out exactly what my daily computer and Internet usage habits are.
 
-1. RescueTime
+### RescueTime
 
-[Rescue Time](https://www.rescuetime.com/) delivers a comprehensive analysis of your digital life and identifies those habits that ruin your effectiveness. You just need to install the app and it will run in the background on your computer and mobile devices.
+[RescueTime](https://www.rescuetime.com/) delivers a comprehensive analysis of your digital life and identifies those habits that ruin your effectiveness. You just need to install the app and it will run in the background on your computer and mobile devices.
 
 ![](/assets/images/uploads/rescuetime_531294_full.jpeg)
 
 It tracks time spent on applications and websites and then produces detailed reports about your daily activity. Now you will know for sure if you are interrupting your work 50 times a day to check your social media accounts or you are spending a long time on websites providing low-quality entertainment.
 
-\(Rescue Time screenshot)
+### Pomodoro Timer
 
 After identifying those interruptions in your daily workflow or important activities, you can apply a very simple yet effective method for eliminating them – the Pomodoro Timer.
 
@@ -100,8 +100,28 @@ In short, the idea is to break down your work into intervals, traditionally 25 m
 
 Going back to the two questions formulated by Stephen Covey, you may find it easier to provide some good answers.
 
-Rescue Time and the Pomodoro Timer will work at least for the professional part of your life, in case you are doing most of your work on a computer, like many of us do.
+### Week Plan
 
-If you have managed to identify those guilty habits in your life and dig up for your priorities, which may have been hidden under a pile of rubbish, you can start using [Week Plan](https://weekplan.net/).
+RescueTime and the Pomodoro Timer are great productivity tools. The former is perfect for tracking your productivity at work while the latter keeps you focused on specific tasks. 
 
-You will always be reminded of the activities deserving most of your attention – those belonging to Quadrant II. Good luck with mastering the third habit!
+But if you want to take things to the next level — from productivity to effectiveness, then you need more than just a productivity app. You need Week Plan.
+
+Week Plan is a priority planner that helps you do the right things — the [things that truly matter](https://weekplan.net/what-is-essentialism-a-complete-guide-to-get-you-started/). It lets you prioritize tasks according to urgency and importance while allowing you to set high-impact tasks (HITs).
+
+But Week Plan is not just a productivity Swiss Army Knife, it also has a vision planner, goal tracker, journal, roles management, calendars, and more. Check out the full features:
+
+* Quadrant View Prioritization Tool (Eisenhower Matrix)
+* Schedule High Impact Tasks (HITs)
+* Roles Management
+* Goals Tracking
+* Weekly/ Monthly Calendar
+* Journaling
+* Coaching Emails
+* Time Tracking
+* Pomodoro Timer
+* Google Calendar/ Outlook Integration
+* File Attachments
+* iOS and Android Apps
+* And More!
+
+Check out Week Plan [here](https://weekplan.net/). 
