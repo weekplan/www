@@ -80,6 +80,8 @@ This means that at some point you will be pushed to Quadrant I, where urgent and
 
 Have you ever tried getting an accurate picture of what occupies your time throughout the day? An interesting exercise I’ve been doing is using an app to find out exactly what my daily computer and Internet usage habits are.
 
+1. RescueTime
+
 [Rescue Time](https://www.rescuetime.com/) delivers a comprehensive analysis of your digital life and identifies those habits that ruin your effectiveness. You just need to install the app and it will run in the background on your computer and mobile devices.
 
 ![](/assets/images/uploads/rescuetime_531294_full.jpeg)
@@ -90,7 +92,7 @@ It tracks time spent on applications and websites and then produces detailed rep
 
 After identifying those interruptions in your daily workflow or important activities, you can apply a very simple yet effective method for eliminating them – the Pomodoro Timer.
 
-There are many apps based on this Italian time management method (Week Plan has included it in its features as well), but in order to familiarize yourself with it, you can [try this simple website](https://tomato-timer.com/) that doesn’t require you to install any piece of software to your computer.
+There are many apps based on this Italian time management method, but in order to familiarize yourself with it, you can [try this simple website](https://tomato-timer.com/) that doesn’t require you to install any piece of software to your computer.
 
 ![](/assets/images/uploads/FireShot Capture 055 - TomatoTimer - https___tomato-timer.com_.png)
 
