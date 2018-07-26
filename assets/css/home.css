@@ -168,6 +168,40 @@
     vertical-align: middle;
 }
 
+.home-steps {
+    display: flex;
+    margin-top: 6em;
+}
+
+.home-step {
+    flex-grow: 1;
+    text-align: center;
+    position: relative;
+}
+
+.home-step-number {
+    font-size: 3em;
+    color: #aaa;
+    margin-bottom: .5em;
+}
+
+.home-step-title {
+    font-size: 1.6em;
+    margin-bottom: 1em;
+}
+
+.home-step-image {
+    width: 70%;
+}
+
+.home-step-arrow {
+    position: absolute;
+    top: 10%;
+    right: -10%;
+    width: 20%;
+}
+
+
 
 
 @media only screen and (max-width: 768px) {
@@ -181,6 +215,22 @@
 
     .home-principle h3 {
         min-height: auto;
+    }
+
+    .home-steps { 
+        display: block;
+    }
+
+    .home-step {
+        margin-bottom: 4em;
+    }
+
+    .home-step:last-of-type {
+        margin-bottom: 0;
+    }
+
+    .home-step-arrow {
+        display: none;
     }
 
 }
