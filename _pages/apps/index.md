@@ -10,6 +10,9 @@ class: post-template
 comments: true
 categories: []
 tags: []
+description: 'Check out the list of apps and extensions available to improve your Week Plan experience.'
+group: app-module
+group-order: 1
 ---
 
 <div class='post-feed'>

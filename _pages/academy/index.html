@@ -1,0 +1,24 @@
+---
+layout: default
+current: home
+class: 'home-template'
+navigation: True
+title: Week Plan Academy 
+description: How to align your everyday actions with your vision
+permalink: '/academy/'
+---
+
+{% include leading-page-header.html %}
+
+<!-- The main content area -->
+<main id="site-main" class="site-main outer" role="main">
+    <div class="inner">
+
+        <div class="post-feed">
+
+            {% include group-post-list.html group="app-module" %}
+            
+        </div>
+
+    </div>
+</main>

@@ -1,0 +1,7 @@
+{% assign module_pages = site.pages | where: "group", include.group | sort: "group-order" %}
+
+{% for module_page in module_pages %}
+
+    {% include post-card.html post=module_page %}
+
+{% endfor %}

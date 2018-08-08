@@ -463,7 +463,9 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     padding: 0 25px 25px;
 }
 
-.author-profile-image {
+.author-profile-image, .post-full-content .author-profile-image {
+    display: inline-block;
+    margin: 0;
     margin-right: 5px;
     width: 25px;
     height: 25px;
