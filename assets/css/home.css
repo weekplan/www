@@ -194,6 +194,10 @@
     width: 70%;
 }
 
+.home-template .site-nav-logo {
+    display: none;
+}
+
 .home-step-arrow {
     position: absolute;
     top: 10%;

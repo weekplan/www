@@ -464,3 +464,14 @@ h6 {
     font-size: 1.4rem;
     font-weight: 500;
 }
+
+.next-values + ul {
+    list-style: none;
+    padding: 0;
+}
+
+.next-values + ul li {
+    padding: 0 .5em;
+    display: inline-block;
+    border: 1px solid #ccc;
+}
