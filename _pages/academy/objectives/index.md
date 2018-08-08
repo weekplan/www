@@ -1,15 +1,15 @@
 ---
 layout: page
-title: "Vision"
+title: "Objectives and key results"
 navigation: True
 class: post-template
-permalink: '/academy/vision/'
+permalink: '/academy/objectives-key-results/'
 comments: true
 categories: []
 tags: []
-description: 'Know where you are heading.'
+description: 'Know how much progress you are making.'
 group: app-module
-group-order: 1
+group-order: 2
 ---
 
 {% include nav-breadcrumbs.html %}

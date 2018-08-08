@@ -1,15 +1,15 @@
 ---
 layout: page
-title: "Vision"
+title: "Journaling"
 navigation: True
 class: post-template
-permalink: '/academy/vision/'
+permalink: '/academy/journaling/'
 comments: true
 categories: []
 tags: []
-description: 'Know where you are heading.'
+description: 'There is a time to do, and a time to reflect'
 group: app-module
-group-order: 1
+group-order: 4
 ---
 
 {% include nav-breadcrumbs.html %}

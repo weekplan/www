@@ -1,15 +1,15 @@
 ---
 layout: page
-title: "Vision"
+title: "Weekly planning"
 navigation: True
 class: post-template
-permalink: '/academy/vision/'
+permalink: '/academy/weekly-planning/'
 comments: true
 categories: []
 tags: []
-description: 'Know where you are heading.'
+description: 'The missing link between your vision and your schedule'
 group: app-module
-group-order: 1
+group-order: 3
 ---
 
 {% include nav-breadcrumbs.html %}

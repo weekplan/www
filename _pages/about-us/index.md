@@ -13,8 +13,6 @@ description: Learn how Week Plan came to be from the founder himself, you will b
 keywords: 
 subtitle: 'The story behind our online weekly planner'
 cover: ''
-group: app-module
-group-order: 2
 ---
 
 
