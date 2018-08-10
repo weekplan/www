@@ -17,5 +17,5 @@ cover: assets/images/uploads/map.jpg
 Bla bla bla
 
 <div class='post-feed'>
-    {% include group-post-list.html group="vision" %}
+    {% include group-post-list.html group="okrs" %}
 </div>

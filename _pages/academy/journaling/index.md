@@ -1,6 +1,6 @@
 ---
 layout: academy-page
-title: "Start journaling"
+title: "Consider journaling"
 crumbtitle: Journaling
 navigation: True
 class: post-template
@@ -17,5 +17,5 @@ cover: assets/images/uploads/journaling.jpg
 Bla bla bla
 
 <div class='post-feed'>
-    {% include group-post-list.html group="vision" %}
+    {% include group-post-list.html group="journaling" %}
 </div>
