@@ -1,6 +1,7 @@
 ---
 layout: academy-page
-title: "Weekly planning"
+title: "Stick to Weekly Planning"
+crumbtitle: Weekly planning
 navigation: True
 class: post-template
 permalink: '/academy/weekly-planning/'

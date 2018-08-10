@@ -1,6 +1,7 @@
 ---
 layout: academy-page
-title: "Vision"
+title: "Clarify your Vision"
+crumbtitle: Vision
 navigation: True
 class: post-template
 permalink: '/academy/vision/'

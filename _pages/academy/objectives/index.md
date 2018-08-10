@@ -1,13 +1,14 @@
 ---
 layout: academy-page
-title: "Objectives and key results"
+title: "Set your Objectives"
+crumbtitle: OKRs
 navigation: True
 class: post-template
 permalink: '/academy/objectives-key-results/'
 comments: true
 categories: []
 tags: []
-description: 'Set the milestones on the way.'
+description: 'Identify the milestones on the way and define how to measure progress.'
 group: app-module
 group-order: 2
 cover: assets/images/uploads/map.jpg

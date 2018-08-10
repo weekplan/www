@@ -1,6 +1,7 @@
 ---
 layout: academy-page
-title: "Journaling"
+title: "Start journaling"
+crumbtitle: Journaling
 navigation: True
 class: post-template
 permalink: '/academy/journaling/'
