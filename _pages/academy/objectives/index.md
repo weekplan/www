@@ -7,9 +7,10 @@ permalink: '/academy/objectives-key-results/'
 comments: true
 categories: []
 tags: []
-description: 'Know how much progress you are making.'
+description: 'Set the milestones on the way.'
 group: app-module
 group-order: 2
+cover: assets/images/uploads/map.jpg
 ---
 
 Bla bla bla

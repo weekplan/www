@@ -7,9 +7,10 @@ permalink: '/academy/weekly-planning/'
 comments: true
 categories: []
 tags: []
-description: 'The missing link between your vision and your schedule'
+description: 'Stay focused on where you are heading as you go.'
 group: app-module
 group-order: 3
+cover: assets/images/uploads/do-with-map.jpg
 ---
 
 Bla bla bla

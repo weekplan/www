@@ -10,6 +10,7 @@ tags: []
 description: 'There is a time to do, and a time to reflect'
 group: app-module
 group-order: 4
+cover: assets/images/uploads/journaling.jpg
 ---
 
 Bla bla bla
