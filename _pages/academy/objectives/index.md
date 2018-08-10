@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: academy-page
 title: "Objectives and key results"
 navigation: True
 class: post-template
@@ -11,8 +11,6 @@ description: 'Know how much progress you are making.'
 group: app-module
 group-order: 2
 ---
-
-{% include nav-breadcrumbs.html %}
 
 Bla bla bla
 

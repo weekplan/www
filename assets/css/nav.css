@@ -5,6 +5,38 @@
     text-decoration: underline;
 }
 
+.nav-siblings {
+    display: flex;
+}
+
+.nav-sibling {
+    flex-grow: 1;
+}
+
+.nav-siblings .nav-sibling a {
+    box-shadow: none;
+}
+
+.nav-siblings .nav-sibling a span {
+    box-shadow: inset 0 -1px 0 #005dff;
+}
+
+.nav-siblings .is-previous a::before {
+    content: '<';
+    margin-right: .5em;
+    color: #aaa;
+}
+
+.nav-siblings .is-next {
+    text-align: right;
+}
+
+.nav-siblings .is-next a::after {
+    content: '>';
+    margin-left: .5em;
+    color: #aaa;
+}
+
 @media only screen and (max-width: 768px) {
     /* For mobile phones: */
     .nav {

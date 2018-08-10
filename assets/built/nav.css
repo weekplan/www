@@ -1,2 +1,2 @@
-.nav .active{font-weight:700;text-decoration:underline}@media only screen and (max-width:768px){.nav{display:none!important}}
+.nav .active{font-weight:700;text-decoration:underline}.nav-siblings{display:-ms-flexbox;display:flex}.nav-sibling{-ms-flex-positive:1;flex-grow:1}.nav-siblings .nav-sibling a{box-shadow:none}.nav-siblings .nav-sibling a span{box-shadow:inset 0 -1px 0 #005dff}.nav-siblings .is-previous a:before{content:'<';margin-right:.5em;color:#aaa}.nav-siblings .is-next{text-align:right}.nav-siblings .is-next a:after{content:'>';margin-left:.5em;color:#aaa}@media only screen and (max-width:768px){.nav{display:none!important}}
 /*# sourceMappingURL=nav.css.map */

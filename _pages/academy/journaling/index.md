@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: academy-page
 title: "Journaling"
 navigation: True
 class: post-template
@@ -11,8 +11,6 @@ description: 'There is a time to do, and a time to reflect'
 group: app-module
 group-order: 4
 ---
-
-{% include nav-breadcrumbs.html %}
 
 Bla bla bla
 

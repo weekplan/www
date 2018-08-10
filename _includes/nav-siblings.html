@@ -1,0 +1,21 @@
+{% assign siblings = site.pages | where: "group", page.group %}
+
+{% assign previousOrder = page.group-order | minus: 1 %}
+{% assign previousPage = siblings | where: "group-order", previousOrder | first %}
+
+{% assign nextOrder = page.group-order | plus: 1 %}
+{% assign nextPage = siblings | where: "group-order", nextOrder | first %}
+
+<div class='nav-siblings'>
+    {% if previousPage %}
+    <div class='nav-sibling is-previous'>
+        <a href='{{previousPage.url}}'><span>{{previousPage.title}}</span></a>
+    </div>
+    {% endif %}
+
+    {% if nextPage %}
+    <div class='nav-sibling is-next'>
+        <a href='{{nextPage.url}}'><span>{{nextPage.title}}</span></a>
+    </div>
+    {% endif %}
+</div>

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: academy-page
 title: "Weekly planning"
 navigation: True
 class: post-template
@@ -11,8 +11,6 @@ description: 'The missing link between your vision and your schedule'
 group: app-module
 group-order: 3
 ---
-
-{% include nav-breadcrumbs.html %}
 
 Bla bla bla
 
