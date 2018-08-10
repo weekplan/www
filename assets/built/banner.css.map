@@ -1,0 +1,1 @@
+{"version":3,"sources":["banner.css"],"names":[],"mappings":"AAEA,QACI,yBAA8B,AAC9B,WAAY,AACZ,YAAa,AACb,kBAAmB,AACnB,kBAAoB,CACvB","file":"banner.css","sourcesContent":["@import 'variables.css';\r\n\r\n.banner {\r\n    background-color: var(--blue);\r\n    color: #fff;\r\n    padding: 1em;\r\n    border-radius: 5px;\r\n    margin-bottom: 40px;\r\n}"],"sourceRoot":"/source/"}

@@ -28,6 +28,20 @@
   box-shadow: none;
 }
 
+.post-feed-intro {
+    font-size: 2.2rem;
+    margin: 0 20px 40px;
+    background: #fff 50%;
+    border-radius: 5px;
+    padding: 25px;
+    flex: 1 1 100%;
+    box-shadow: 8px 14px 38px rgba(39,44,49,.06), 1px 3px 8px rgba(39,44,49,.03);
+}
+
+.post-feed-intro p:last-of-type {
+  margin-bottom: 0;
+}
+
 .post-full-content .post-feed {
   margin-left: -100px;
   margin-right: -100px;

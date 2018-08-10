@@ -1,12 +1,8 @@
 ---
 layout: default
-current: home
+current: academy-homepage
 class: 'home-template'
-navigation: True
-title: Week Plan Academy 
-crumbtitle: Academy
-description: How to align your everyday actions with your vision
-permalink: '/academy/'
+disqus: false
 ---
 
 {% include leading-page-header.html %}
@@ -16,6 +12,10 @@ permalink: '/academy/'
     <div class="inner">
 
         <div class="post-feed">
+
+            <div class="post-feed-intro">
+                {{ content }}
+            </div>
 
             {% include group-post-list.html group="app-module" %}
             
