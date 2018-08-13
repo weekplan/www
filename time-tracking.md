@@ -1,5 +1,5 @@
 ---
-title: Time Tracking
+title: Task Management
 layout: page
 navigation: true
 comments: false
