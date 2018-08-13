@@ -41,7 +41,7 @@ Measure the time it takes on each task or assign time to your or your team’s t
 
 ![](/assets/images/uploads/Time Tracking.png)
 
-**Centralize your important tasks**
+### **Centralize your important tasks**
 
 Having all your key tasks in a single place is essential to have a constant view of your tasks. Arrange them in a list and assign them the priority level. Add all tasks that are not unplanned and important in a parking lot and push them to the priority board, whenever you need to.
 
@@ -62,6 +62,14 @@ Tracking the progress on your task enables you to not only complete your tasks o
 ### **Monitor tasks from your team members**
 
 Monitor the tasks and deliverables of your entire team from a single dashboard. Get instant notification on any update and diagnose any roadblocks to avoid time delay and deadline issues.
+
+###           **Apps for every platform**
+
+![](/assets/images/uploads/All Apps.png)
+
+![](/assets/images/uploads/Testimonials.png)
+
+![](/assets/images/uploads/Clients.png)
 
 #### Become more effective at creating, planning and completing tasks with Week Plan.
 
