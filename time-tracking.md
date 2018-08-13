@@ -53,11 +53,11 @@ Having all your key tasks in a single place is essential to have a constant view
 
 Prioritizing your tasks using high impact tasks helps you to determine what you’re important tasks are and avoid wasting time. Get a clear picture of what’s important and boost your team’s productivity.
 
-**Track the progress on tasks**
+### **Track the progress on tasks**
 
 Tracking the progress on your task enables you to not only complete your tasks on time but with the efficiency required. You can easily view the progress of your entire project tasks in terms of tasks completed, deliverables and time taken.
 
-**Monitor tasks from your team members**
+### **Monitor tasks from your team members**
 
 Monitor the tasks and deliverables of your entire team from a single dashboard. Get instant notification on any update and diagnose any roadblocks to avoid time delay and deadline issues.
 
