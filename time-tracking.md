@@ -47,6 +47,8 @@ Having all your key tasks in a single place is essential to have a constant view
 
 ![](/assets/images/uploads/Centralize your Important Tasks.png)
 
+![](/assets/images/uploads/CTA.png)
+
 ## **Get complete control over each task**
 
 ### **Prioritize your tasks**
@@ -61,8 +63,8 @@ Tracking the progress on your task enables you to not only complete your tasks o
 
 Monitor the tasks and deliverables of your entire team from a single dashboard. Get instant notification on any update and diagnose any roadblocks to avoid time delay and deadline issues.
 
-**FOOTER / Closing CTA text and button**
+#### Become more effective at creating, planning and completing tasks with Week Plan.
 
-Become more effective at creating, planning and completing tasks with Week Plan.
+#### Start organizing your tasks now!
 
-CTA: Start organizing your tasks now!
+![](/assets/images/uploads/CTA-1.png)
