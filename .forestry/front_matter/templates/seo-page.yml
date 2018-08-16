@@ -72,6 +72,7 @@ fields:
   name: tags
   label: tags
 pages:
+- alternative-to-todoist.md
 - time-tracking.md
 - _posts/week-plan-an-alterntive-to-asana.md
 - test.md
