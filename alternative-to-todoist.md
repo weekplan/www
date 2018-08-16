@@ -168,7 +168,7 @@ Waiting for the year to end and to monitor your goals is old technique. Plan and
 
  
 
- **Prioritize your tasks:** Get a clear picture of what’s important and boost your team’s productivity.  
+**Prioritize your tasks:** Get a clear picture of what’s important and boost your team’s productivity.  
 
 **Track the progress on tasks:**  View the progress of your entire project tasks in terms of tasks completed, deliverables and time taken. 
 
