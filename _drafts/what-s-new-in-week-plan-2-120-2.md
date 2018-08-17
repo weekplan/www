@@ -8,10 +8,12 @@ description: What’s New in Week Plan 2.120.2? Renamed Goals to Objectives, Pri
   Changes, and More Awesome Updates.
 subtitle: Renamed Goals to Objectives, Pricing Changes, and More
 author: ''
-cover: ''
+cover: "/assets/images/uploads/announcement2-1.png"
 keywords: ''
 class: ''
-categories: []
+categories:
+- Release Notes
+- Product
 tags: []
 
 ---
