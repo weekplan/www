@@ -7,7 +7,7 @@ date: 2018-05-02 00:00:00 +0000
 description: 'How you can increase your luck. Actionable advice you can start applying today. '
 subtitle: How you can improve your luck by adopting the habits of effective people
 author: gene
-cover: "/assets/images/uploads/cover.jpeg"
+cover: "assets/images/uploads/cover.jpeg"
 keywords: effectiveness, leadership, luck
 class: ''
 categories:

@@ -8,7 +8,7 @@ description: First Things First — How to Master the 3rd Habit of the 7 Habits 
   Effective People
 subtitle: Put First Things First — Mastering the 3rd Habit
 author: ''
-cover: "/assets/images/uploads/master 3rd habit.jpg"
+cover: "assets/images/uploads/master3rdhabit.jpg"
 keywords: ''
 class: ''
 categories:

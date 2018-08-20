@@ -14,7 +14,7 @@ categories:
 tags:
 - leadership
 - effectiveness
-cover: "/assets/images/uploads/pexels-photo-618549.jpeg"
+cover: "assets/images/uploads/pexels-photo-618549.jpeg"
 class: ''
 ---
 The week's best stories on leadership, effectiveness, productivity, team culture, and personal development.

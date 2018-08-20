@@ -8,7 +8,7 @@ description: The week’s best tips and tricks on leadership, effectiveness, pro
   team culture, and personal development.
 subtitle: June 25 to July 1
 author: gene
-cover: "/assets/images/uploads/cover-photo.jpg"
+cover: "assets/images/uploads/cover-photo.jpg"
 keywords: effectiveness, leadership, life hacks
 class: ''
 categories:

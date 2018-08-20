@@ -1,14 +1,14 @@
 ---
-title: 'What’s New in Week Plan 2.120.2? '
+title: "What's new in Week Plan 2.120.2?"
 layout: post
 navigation: true
 comments: true
 date: 2018-08-17 00:00:00 +0000
-description: What’s New in Week Plan 2.120.2? Renamed Goals to Objectives, Pricing
-  Changes, and More Awesome Updates.
-subtitle: Renamed Goals to Objectives, Pricing Changes, and More
+description: New Vision page, pricing
+  changes, and more awesome updates.
+subtitle: Vision page, pricing changes and more
 author: ''
-cover: "/assets/images/uploads/announcement2-1.png"
+cover: "assets/images/uploads/announcement2-1.png"
 keywords: ''
 class: ''
 categories:
@@ -21,37 +21,25 @@ We’ve done a lot of work to make Week Plan the best software to help align you
 
 Each month, our engineering team prepares release notes, detailing high-level descriptions of Week Plan’s new features, enhancements, and bug fixes. Check them out.
 
-# No More Calendar Permissions During Registration
+## Redesigned the Vision page
 
-No more calendar permissions when signing up. Prior to the latest update, users were asked to connect their calendar to Week Plan.
+We are taking Week Planner beyond being a weekly planner. Week Plan takes you from your vision to your day to day stuff. So we refreshed the design of the vision page.
 
-![](/assets/images/uploads/Image 2018-08-14 at 4.03.23 PM.png)Now we’ve made this optional for those who want to use their favourite calendar. Simply connect your calendar from the **Team Settings** option.
+## Changes to pricing
 
-![](/assets/images/uploads/Image 2018-08-14 at 4.05.00 PM.png)
+We are constantly making changes to the prices, sometimes we bring the price down, sometimes up in order the right price point for our ever changing userbase.
 
-# Subtle Changes to the Pricing
+This time prices went up, but users on cheaper plans have been grand-fathered (they stay on the cheaper prices).
 
-We’ve made some changes to the pricing to better reflect the value you’re getting from Week Plan.
+## Removed the Analytics module
 
-![](/assets/images/uploads/Image 2018-08-16 at 1.00.40 PM.png)
+We feel the Analytics module doesn't provide much value the way it is now. So until we make it better by offering insights, we have decided to take it off to simplify the user experience. 
 
-The **Pro** plan costs $2 per user each week, but is billed annually at $104 per year. There’s also an option to pay a monthly fee of $10. With the **Pro** plan, you can choose up to 3 premium features.
+## Align tasks with goals
 
-![](/assets/images/uploads/Image 2018-08-16 at 1.01.47 PM.png)The **Ultimate** plan costs more but has all the premium features of Week Plan. Yearly price is $156. If you choose to pay on a monthly basis, the monthly fee is $16.25.
+You can attach a goal to a task so make it clear what tasks contribute to your goals.
 
-# BigRockAdvisor Appears Only at the Start of the Week
-
-Notice the big blue block that sticks on the left side of your high impact tasks? We call that the **BigRockAdvisor**. It’s there to remind you to [schedule your priorities (HITs)](https://weekplan.net/what-is-essentialism-a-complete-guide-to-get-you-started/).
-
-![](/assets/images/uploads/Image 2018-08-14 at 3.50.33 PM.png)The **BigRockAdvisor** used to stick there all the time, but we think it’s better if we show it to you only at the beginning of each week, for the first two days. Makes sense considering it’s better to plan your week on Mondays or Sundays.
-
-# Renamed Goals to Objectives
-
-We’ve been working on an entirely new feature that will make Week Plan better than ever. We’re  renaming the **Goals feature to Objectives** since we’re adapting the concept of OKRs. **Objectives and Key Results (OKRs)** is a framework for determining and measuring objectives and key results.
-
-![](/assets/images/uploads/Image 2018-08-16 at 3.30.00 PM.png)OKRs have been used by companies like Google, Twitter, LinkedIn, and Uber. We’ll be rolling out this feature soon. So stay tuned.
-
-# Bug Fixes
+## Bug Fixes
 
 Lastly, our release notes will not be complete without the necessary bug fixes. The most notable bug fixes are the following:
 
@@ -66,4 +54,4 @@ Lastly, our release notes will not be complete without the necessary bug fixes. 
 * Fix timer bar issue.
 * Translation fixes.
 
-That’s it! Thank you for using Week Plan. If you have comments, suggestions, and feedback, write them below.
+Thank you for using Week Plan. If you have comments, suggestions, and feedback, write them below.

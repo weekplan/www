@@ -11,7 +11,7 @@ author: gene
 categories:
 - Product
 keywords: updates
-cover: "/assets/images/uploads/announcement2.png"
+cover: "assets/images/uploads/announcement2.png"
 class: ''
 tags: []
 ---

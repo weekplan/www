@@ -8,7 +8,7 @@ description: What’s New in Week Plan 2.113.3? We're introducing Month View, Ne
   Bar, Floating Sidebar, Notifications, and more!
 subtitle: What’s New in Week Plan 2.113.3?
 author: gene
-cover: "/assets/images/covers/announcement2.png"
+cover: "assets/images/covers/announcement2.png"
 keywords: ''
 class: ''
 categories:

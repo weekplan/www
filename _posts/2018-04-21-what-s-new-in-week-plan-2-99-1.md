@@ -8,7 +8,7 @@ description: 'Week Plan 2.99.1 features a reorganized Edit Task module, merged n
   and comments, and lots of bug fixes. '
 subtitle: Reorganized Edit Task Module, Merged Notes and Comments, and More
 author: gene
-cover: "/assets/images/uploads/announcement2.png"
+cover: "assets/images/uploads/announcement2.png"
 keywords: ''
 class: ''
 categories: [Product]

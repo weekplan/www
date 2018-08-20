@@ -4,21 +4,9 @@ layout: page
 navigation: true
 comments: true
 date: 2018-08-17 00:00:00 +0000
-description: ''
-subtitle: ''
-author: ''
-cover: ''
-keywords: ''
-class: ''
-categories: []
-tags: []
-published: false
-
+permalink: '/todoist2/'
+class: post-template
 ---
-# Best Alternative to Todoist
-
- 
-
 Are you looking for a credible alternative to Todoist?
 
 Don’t look further, as Week Plan is the best and most feature rich alternative to Todoist.

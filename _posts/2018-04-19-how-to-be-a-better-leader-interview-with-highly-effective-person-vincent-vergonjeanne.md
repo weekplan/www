@@ -10,7 +10,7 @@ description: 'Lucky Duck Games CEO Vincent Vergonjeanne discusses charisma, lead
   and culture. He also shares some tips and tricks for hiring people, caring for your
   team, and keeping customers engaged. '
 author: gene
-cover: "/assets/images/covers/interview.png"
+cover: "assets/images/covers/interview.png"
 keywords: Charisma, leadership, charisma, teamwork, culture
 class: ''
 categories: []

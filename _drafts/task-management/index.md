@@ -1,18 +1,15 @@
 ---
-title: Task Management
+title: Task management
 layout: page
+permalink: '/task-management'
 navigation: true
 comments: false
-date: ''
+date: 2018-08-17 00:00:00 +0000
 description: ''
 subtitle: ''
-author: ''
-cover: ''
-keywords: ''
-class: ''
+class: post-template
 categories: []
 tags: []
-published: false
 
 ---
 # Week plan has everything your team needs to plan, manage and complete tasks.

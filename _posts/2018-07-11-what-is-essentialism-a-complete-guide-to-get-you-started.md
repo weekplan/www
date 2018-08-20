@@ -8,7 +8,7 @@ description: 'What is Essentialism and How Can It Help You Become a More Effecti
   Person? Check out this actionable guide to get you started. '
 subtitle: What is Essentialism and How Can It Help You Become a More Effective Person
 author: ''
-cover: "/assets/images/uploads/essentialism-man.jpg"
+cover: "assets/images/uploads/essentialism-man.jpg"
 keywords: essentialism, essentials, essentialist
 class: ''
 categories:

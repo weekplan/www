@@ -9,7 +9,7 @@ author: aymeric
 description: Each week the top 5 stories on effectiveness and leadership. This week
   we have the 70% Rule to Eliminating Procrastination, the Regret Minimization Framework,
   the Power of Visualization, and more.
-cover: "/assets/images/uploads/1.jpg"
+cover: "assets/images/uploads/1.jpg"
 keywords: ''
 class: ''
 categories: []
