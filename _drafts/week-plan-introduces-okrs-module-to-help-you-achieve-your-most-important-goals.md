@@ -24,21 +24,28 @@ And it's the reason why our customers love us. We're not just a task management 
 
 Today, we're taking Week Plan (and our customers) to the next level by applying the OKRs methodology. 
 
-We're introducing a new module called OKRs, an abbreviation for Objectives and Key Results, a framework for determining and measuring goals and results. OKRs are used at Google, LinkedIn, Twitter, Airbnb, Spotify, Walmart.
+We're introducing a new module called OKRs, an abbreviation for Objectives and Key Results, a framework for determining and measuring goals and results. 
+
+OKRs are used at Google, LinkedIn, Twitter, Airbnb, Spotify, and Walmart.
 
  "We have always been about helping figure out what matters to you, and often what matters is what makes you progress towards your goals and vision," says Aymeric Gaurat-Apelli, founder of Week Plan. "So we decided to invest more in the goals space, by applying the OKR methodology."
 
 # Introducing OKRs
 
-OKRs was popularized by John Doerr who is widely recognized as one of the most successful venture capitalists of all time. He learned about the concept of OKRs while working at Intel. Doerr introduced OKRs to Google co-founders Larry Page and Sergey Brin. The rest was history. 
+[OKRs was popularized by John Doerr](https://hbr.org/2018/05/how-vc-john-doerr-sets-and-achieves-goals) who is widely recognized as one of the most successful venture capitalists of all time. He learned about the concept of OKRs while working at Intel. 
+
+Doerr [introduced OKRs to Google](https://www.wired.com/story/when-john-doerr-brought-a-gift-to-googles-founders/) co-founders Larry Page and Sergey Brin. The rest was history. 
 
 OKRs are a giant leap from traditional planning and goal setting methods because they are focused on two things: the objective and the results. In other words, what you want to achieve (objective) and how you’ll get it (key results). 
 
-OKRs are a simple yet extremely powerful tool for creating alignment and engagement around big, hairy, audacious goals (BHAG). What separates OKRs from other tools is that they’re frequently tracked and evaluated — usually on a quarterly basis. They're great for teams, organizations, and individuals. 
+OKRs are a simple yet extremely powerful tool for creating alignment and engagement around big, hairy, audacious goals (BHAG). 
 
-**Objectives** are the WHAT. They're qualitative descriptions of what you want to achieve. They're short, inspirational, and engaging. 
+What separates OKRs from other tools is that they’re frequently tracked and evaluated — usually on a quarterly basis. They're great for teams, organizations, and individuals. 
 
-**Key Results** are the HOW. They are the quantitative metrics that measure your progress towards your objective. You should have 2 to 5 key results for every objective. More than that, they would be difficult to track.
+* **Objectives** are the WHAT. They're qualitative descriptions of what you want to achieve. They're short, inspirational, and engaging. 
+
+
+* **Key Results** are the HOW. They are the quantitative metrics that measure your progress towards your objective. You should have 2 to 5 key results for every objective. More than that, they would be difficult to track.
 
 Here’s an example of a good OKR.
 
@@ -54,7 +61,11 @@ Here’s an example of a good OKR.
 
 On Week Plan, head over to the **Objectives** module (formerly Goals) at the top to start writing your OKRs. Next, click **Add objective**.
 
+![](/assets/images/uploads/objectives.png)
+
 When the module opens, write your **Objective**. See the example below. Then, write your **Key Result**s at the bottom of your **Objective**. Remember, keep your key results short and limit them to 3 or 5. More than that and you’ll forget them easily.
+
+![](/assets/images/uploads/key-results.png)
 
 You may include a unit, start value, and target value. A unit can be a currency, percentage, or anything. Start and target values are completely customizable, too. 
 
