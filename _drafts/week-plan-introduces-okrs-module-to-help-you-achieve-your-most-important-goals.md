@@ -49,3 +49,17 @@ Here’s an example of a good OKR.
 1. Improve Net Promoter Score from A to B.
 2. Increase traffic by 100%.
 3. Keep customer acquisition cost under X.
+
+# How to Use the OKRs Module
+
+On Week Plan, head over to the **Objectives** module (formerly Goals) at the top to start writing your OKRs. Next, click **Add objective**.
+
+When the module opens, write your **Objective**. See the example below. Then, write your **Key Result**s at the bottom of your **Objective**. Remember, keep your key results short and limit them to 3 or 5. More than that and you’ll forget them easily.
+
+You may include a unit, start value, and target value. A unit can be a currency, percentage, or anything. Start and target values are completely customizable, too. 
+
+# Other New Features 
+
+Following the previous update, version 2.121.8 brings minor UI bug fixes.
+
+That's it! We hope you'll like the new OKRs module. If you have any questions and suggestions, write your comments below. Thanks for using Week Plan. 
