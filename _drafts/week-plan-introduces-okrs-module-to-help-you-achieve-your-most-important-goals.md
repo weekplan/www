@@ -36,6 +36,16 @@ OKRs are a giant leap from traditional planning and goal setting methods because
 
 OKRs are a simple yet extremely powerful tool for creating alignment and engagement around big, hairy, audacious goals (BHAG). What separates OKRs from other tools is that they’re frequently tracked and evaluated — usually on a quarterly basis. They're great for teams, organizations, and individuals. 
 
- **Objectives** are the WHAT. They're qualitative descriptions of what you want to achieve. They're short, inspirational, and engaging. 
+**Objectives** are the WHAT. They're qualitative descriptions of what you want to achieve. They're short, inspirational, and engaging. 
 
- **Key Results** are the HOW. They are the quantitative metrics that measure your progress towards your objective. You should have 2 to 5 key results for every objective. More than that, they would be difficult to track.
+**Key Results** are the HOW. They are the quantitative metrics that measure your progress towards your objective. You should have 2 to 5 key results for every objective. More than that, they would be difficult to track.
+
+Here’s an example of a good OKR.
+
+**Objective**: Create an Awesome Customer Experience
+
+**Key Results**:
+
+1. Improve Net Promoter Score from A to B.
+2. Increase traffic by 100%.
+3. Keep customer acquisition cost under X.
