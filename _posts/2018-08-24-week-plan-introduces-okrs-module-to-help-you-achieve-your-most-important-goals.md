@@ -30,7 +30,7 @@ OKRs are used at Google, LinkedIn, Twitter, Airbnb, Spotify, and Walmart.
 
  "We have always been about helping figure out what matters to you, and often what matters is what makes you progress towards your goals and vision," says Aymeric Gaurat-Apelli, founder of Week Plan. "So we decided to invest more in the goals space, by applying the OKR methodology."
 
-# Introducing OKRs
+## Introducing OKRs
 
 [OKRs was popularized by John Doerr](https://hbr.org/2018/05/how-vc-john-doerr-sets-and-achieves-goals) who is widely recognized as one of the most successful venture capitalists of all time. He learned about the concept of OKRs while working at Intel. 
 
@@ -57,7 +57,7 @@ Here’s an example of a good OKR.
 2. Increase traffic by 100%.
 3. Keep customer acquisition cost under X.
 
-# How to Use the OKRs Module
+## How to Use the OKRs Module
 
 On Week Plan, head over to the **Objectives** module (formerly Goals) at the top to start writing your OKRs. Next, click **Add objective**.
 
@@ -69,7 +69,7 @@ When the module opens, write your **Objective**. See the example below. Then, wr
 
 You may include a unit, start value, and target value. A unit can be a currency, percentage, or anything. Start and target values are completely customizable, too. 
 
-# Other New Features 
+## Other New Features 
 
 Following the previous update, version 2.121.8 brings minor UI bug fixes.
 
