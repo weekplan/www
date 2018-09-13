@@ -2,7 +2,7 @@
 layout: post
 title: How to Stay Productive Working at Home
 date: 2013-04-24 00:00:00 +0000
-author: jessica
+author: ''
 wordpress_id: 448
 navigation: true
 class: post-template
@@ -10,6 +10,7 @@ comments: true
 categories:
 - Time management
 tags: []
+cover: "/assets/images/uploads/work-from-home.jpg"
 
 ---
 Working from home is incredibly satisfying. You get to figure out your own schedule, you don't have to be surprised by an angry or irritating boss at any given moment, and you can sit around in your pajamas and work in the most comfortable surroundings available.
