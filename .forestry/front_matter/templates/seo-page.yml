@@ -72,6 +72,7 @@ fields:
   name: tags
   label: tags
 pages:
+- Vision.md
 - _posts/2013-04-24-how-to-stay-productive-working-at-home.md
 - _posts/2018-08-24-week-plan-introduces-okrs-module-to-help-you-achieve-your-most-important-goals.md
 - _posts/2018-08-24-week-plan-releases-faster-android-app.md
