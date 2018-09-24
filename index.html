@@ -116,16 +116,7 @@ into the {body} of the default.hbs template -->
         </div>
 </div>
 
-<div class='home-socialproof outer'>
-    <div class='inner'>
-        <div class='socialproof-number'>
-            420K+ users
-        </div>
-        <img src='assets/images/logos/MIT.svg' />
-        <img src='assets/images/logos/NASA.svg' />
-        <img src='assets/images/logos/franklin-covey.svg' />
-    </div>
-</div>
+{% include social-proof.html %}
     
 <div class='home-section outer is-grey'>
         <div class='inner'>
@@ -159,11 +150,4 @@ into the {body} of the default.hbs template -->
         </div>
     </div>
     
-    
-<div class='home-secondary-call-to-action home-section outer is-blue'>
-
-    <div class='inner'>
-        <a href='https://next.weekplan.net' class='button button-inverse huge'>Start my free trial</a>
-    </div>
-</div>
-
+{% include call-to-action.html %}
