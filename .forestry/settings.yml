@@ -9,10 +9,10 @@ sections:
   create: all
   path: _pages
 - type: jekyll-posts
-  label: Posts
+  label: Blog posts
   create: all
 - type: jekyll-pages
-  label: Root pages
+  label: Other pages
   create: all
 upload_dir: assets/images/uploads
 public_path: "/assets/images/uploads"

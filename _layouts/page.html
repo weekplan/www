@@ -19,28 +19,7 @@ into the {body} of the default.hbs template -->
 <!-- Everything inside the #post tags pulls data from the post -->
 <!-- #post -->
 
-<main id="site-main" class="site-main outer" role="main">
-    <div class="inner">
-
-        <article class="post-full {{ page.subclass }} {% unless page.cover and page.cover.size > 0 %}no-image{% endunless %}">
-
-            <header class="post-full-header">
-                <h1 class="post-full-title">{{ page.title }}</h1>
-                {% if page.subtitle %}<h2 class="site-description">{{ page.subtitle }}</h2>{% endif %}
-            </header>
-
-            {% if page.cover and page.cover.size > 0 %}
-            <figure class="post-full-image" style="background-image: url({% if page.cover contains '/assets' %}{% else %}{{ site.baseurl }}{% endif %}{{ page.cover }})"></figure>
-            {% endif %}
-
-            <section class="post-full-content">
-                {{ content }}
-            </section>
-
-        </article>
-
-    </div>
-</main>
+{% include main-page-content.html content=content %}
 
 <!-- /post -->
 

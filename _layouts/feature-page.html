@@ -1,0 +1,18 @@
+---
+layout: default
+current: feature-page
+class: 'home-template'
+disqus: false
+---
+
+<header class="site-header outer">
+    <div class="inner">
+        {% include site-nav.html %}
+    </div>
+</header>
+
+{% include main-page-content.html content=content %}
+
+{% include social-proof.html %}
+
+{% include call-to-action.html %}

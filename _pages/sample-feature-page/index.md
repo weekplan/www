@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: feature-page
 title: Time tracking
 date: 2015-10-08 10:30
 author: aymeric
@@ -9,16 +9,5 @@ class: page-template
 comments: true
 ---
 
-<header class="site-header outer">
-    <div class="inner">
-        {% include site-nav.html %}
-    </div>
-</header>
 
 Hello world
-
-{% include call-to-action.html %}
-
-{% include social-proof.html %}
-
-{% include call-to-action.html %}
