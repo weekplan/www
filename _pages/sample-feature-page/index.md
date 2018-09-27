@@ -14,6 +14,8 @@ published: false
 
 ### **High Impact Tasks**
 
+![](/assets/images/uploads/High Impact Tasks-1.png)
+
 Never lose sight of your most important tasks. Week Plan helps you integrate your high impact tasks into your schedule easily, so your team can focus on what matters.
 
 ### **Add Sub Tasks**
@@ -24,7 +26,6 @@ Every big and high impact task start small. Subtasks help you create an organize
 
 Save tons of time by setting up repeating tasks. Add recurring tasks like weekly meetings and reports — they’re automatically added to the schedule.
 
-  
 \### **Track Time on Each Task**
 
 Measure the time it took you to finish a task or allocate time to your team’s tasks with the built-in time tracker.
