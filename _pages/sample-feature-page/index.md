@@ -6,7 +6,7 @@ author: aymeric
 navigation: true
 permalink: "/task-management"
 class: page-template
-comments: true
+comments: false
 
 ---
 # Week Plan has everything your team needs to plan, manage and complete tasks.
