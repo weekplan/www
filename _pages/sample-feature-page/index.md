@@ -45,7 +45,7 @@ Having all your tasks in one place is critical. Arrange your tasks in a list or 
 
 ### **Prioritize Your Tasks**
 
-Prioritize tasks by turning them into high impact tasks. Stop wasting time on unimportant stuff. Get a clear picture of what’s important and boost your team’s productivity. 
+Prioritize tasks by turning them into high impact tasks. Stop wasting time on unimportant stuff. Get a clear picture of what’s important and boost your team’s productivity.
 
 ### **Track the Progress on Tasks**
 
@@ -56,5 +56,3 @@ Tracking the progress on your task enables you to not only complete your tasks o
 Monitor the tasks and deliverables of your entire team from a single dashboard. Get instant notification on any update and diagnose any roadblocks to avoid time delay and deadline issues.
 
 ### **Available on all top platforms![](/assets/images/uploads/All Apps.png)**
-
-### Become more effective at creating, planning and completing tasks with Week Plan.  
