@@ -7,7 +7,6 @@ navigation: true
 permalink: "/task-management-2"
 class: page-template
 comments: true
-published: false
 
 ---
 # Week Plan has everything your team needs to plan, manage and complete tasks.
