@@ -44,4 +44,5 @@ fields:
   hidden: false
   default: ''
 pages:
+- _pages/sample-feature-page/time-tacking-on-tasks.md
 - _pages/sample-feature-page/Task-Management.md
