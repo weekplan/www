@@ -1,5 +1,5 @@
 ---
-title: Task Management
+title: Weekly Task Planner for Teams
 date: 2018-09-26 00:00:00 +0000
 layout: feature-page
 author: aymeric
@@ -32,8 +32,7 @@ Forget asking each team member about their tasks for the week. Within a single g
 
 ### **Prioritize Your Week**
 
-![](/assets/images/uploads/Priortize Tasks.png)
-
+![](/assets/images/uploads/Priortize Tasks.png)  
 Week Plan lets you structure your weekly tasks based on priority. This ensures that you focus your week on the most important tasks.
 
  
@@ -51,3 +50,7 @@ Keeping all the key weekly tasks in your priority list enables you to utilize yo
 ### **Manage your team’s weekly planner**
 
 Having full control over your team’s week schedule allows you to manage the work in an efficient manner. You can easily assign tasks and track progress.                             
+
+#### **Available on all top platforms**
+
+![](/assets/images/uploads/All Apps-1.png)
