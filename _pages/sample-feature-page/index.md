@@ -4,7 +4,7 @@ title: Task Management
 date: 2015-10-08 00:00:00 +0000
 author: aymeric
 navigation: true
-permalink: "/task-management-2"
+permalink: "/task-management"
 class: page-template
 comments: true
 
