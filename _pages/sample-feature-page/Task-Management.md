@@ -7,6 +7,5 @@ navigation: false
 class: ''
 comments: false
 permalink: "/task-management-3"
-published: false
 
 ---
