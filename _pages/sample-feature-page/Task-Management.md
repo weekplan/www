@@ -6,7 +6,7 @@ author: aymeric
 navigation: true
 class: page-template
 comments: false
-permalink: "/task-management-3"
+permalink: "/weekly-task-manager"
 
 ---
 # The best weekly task planner and manager for teams!
