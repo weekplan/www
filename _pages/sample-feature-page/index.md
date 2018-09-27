@@ -1,10 +1,10 @@
 ---
 layout: feature-page
-title: Time tracking
+title: Task Management
 date: 2015-10-08 00:00:00 +0000
 author: aymeric
 navigation: true
-permalink: "/sample-feature-page/"
+permalink: "/task-management-2"
 class: page-template
 comments: true
 published: false
