@@ -12,7 +12,6 @@ description: Know where you are heading.
 group: app-module
 group-order: 1
 cover: "/assets/images/uploads/2.png"
-published: false
 
 ---
 ## What is Vision
@@ -35,46 +34,37 @@ Vision gives you clarity for the future while directing your attention in the pr
 
 # The Purpose of Vision
 
-It’s one thing to want something and it’s another to have a vision. Simply wishing for success to come into your life isn’t enough. 
+It’s one thing to want something and it’s another to have a vision. Simply wishing for success to come into your life isn’t enough.
 
 You need to have a vision that inspires you to achieve something greater than what you are and what you’ve accomplished. This is the purpose of vision — to paint a picture of the future that creates passion.
 
-The world’s most successful people have clear, written vision statements that keep them focused on what truly matters. This is why it’s necessary to have a vision for your life. 
+The world’s most successful people have clear, written vision statements that keep them focused on what truly matters. This is why it’s necessary to have a vision for your life.
 
-Consider this vision statement by Sir Richard Branson: 
+Consider this vision statement by Sir Richard Branson:
 
 > “To have fun in my journey through life and learn from my mistakes.”
 
-And Oprah Winfrey’s vision statement reads: 
+And Oprah Winfrey’s vision statement reads:
 
 > “To be a teacher. And to be known for inspiring my students to be more than they thought they could be.”
 
-Writing a personal vision statement allows you to focus on your vision, future, and values. Whatever your vision is, you need to put it into writing. In the next sections, we’ll show you how to write a personal vision statement for you and your business. 
+Writing a personal vision statement allows you to focus on your vision, future, and values. Whatever your vision is, you need to put it into writing. In the next sections, we’ll show you how to write a personal vision statement for you and your business.
 
 # How to Clarify Your Vision
 
 To clarify your vision, answer the following questions below.
 
-1. **Identify your purpose in life.** 
-
-* What is your why? 
-* What are you gifts? 
-* What energizes you? 
-* What are you passionate about? 
-
-2. **Know where you’re going.   
-   **How do you see yourself 5, 10, 20 years from now? 
-
-   What is your ideal future?
-3. **Determine your core values.** 
-   * What       principles do you need to have in order to achieve your goals? 
-   * What       principles or standards of behavior do you need to learn to get there?
-
-* 
-
-  Determine your core values. 
-  * What       principles do you need to have in order to achieve your goals? 
-  * What       principles or standards of behavior do you need to learn to get there?
+1. Identify your purpose in life.
+   * What is your why?
+   * What are you gifts?
+   * What energizes you?
+   * What are you passionate about?
+2. Know where you’re going.
+   * How do you see yourself 5, 10, 20 years from now?
+   * What is your ideal future?
+3. Determine your core values.
+   * What principles do you need to have in order to achieve your goals?
+   * What principles or standards of behavior do you need to learn to get there?
 
 <div class='post-feed'>
 {% include group-post-list.html group="vision" %}
