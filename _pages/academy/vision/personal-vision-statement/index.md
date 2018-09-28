@@ -1,18 +1,18 @@
 ---
 layout: academy-page
-title: Personal vision statement
-date: 2014-04-22 12:02
+title: BHAG
+date: 2014-04-22 00:00:00 +0000
 author: aymeric
-navigation: True
-permalink: /academy/vision/personal-vision-statement/
+navigation: true
+permalink: "/academy/vision/personal-vision-statement/"
 class: post-template
 comments: true
 categories: []
 tags: []
-group: 'vision'
-group-order: 1
----
+group: vision
+group-order: 2
 
+---
 ## What is a Personal Vision Statement
 
 A personal vision statement is a brief statement that outlines your vision for your life. It’s mostly written and, in some cases, expressed in speech. 
