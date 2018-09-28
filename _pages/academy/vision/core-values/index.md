@@ -11,7 +11,6 @@ categories: []
 tags: []
 group: vision
 group-order: 3
-published: false
 
 ---
 ![](/assets/images/uploads/6.png)
