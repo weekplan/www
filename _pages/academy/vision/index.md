@@ -11,7 +11,7 @@ tags: []
 description: Know where you are heading.
 group: app-module
 group-order: 1
-cover: assets/images/uploads/compass.jpg
+cover: "/assets/images/uploads/2.png"
 
 ---
 ## What is Vision
