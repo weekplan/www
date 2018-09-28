@@ -7,7 +7,6 @@ navigation: true
 class: page-template
 comments: false
 permalink: "/tasks-time-tracking"
-published: false
 
 ---
 # Setup and Track time spent on each task, project, and goal of your entire team
