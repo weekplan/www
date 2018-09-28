@@ -1,6 +1,6 @@
 ---
 layout: academy-page
-title: What Is Vision?
+title: Clarify Your Vision
 crumbtitle: Vision
 navigation: true
 class: post-template
