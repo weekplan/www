@@ -12,8 +12,6 @@ published: false
 ---
 ## Cultivate team collaboration and let people do great things together.
 
- 
-
 ### **Team Tasks and Goals**
 
 ![](/assets/images/uploads/Team Task Collaboration.png)
@@ -29,7 +27,7 @@ Communication is the key to completing tasks on time. With Week Plan, your entir
 ### **Activity Feed to stay on top of what’s happening across the team**
 
 ![](/assets/images/uploads/Activity Feed.png)  
-Activity feed enables you to keep in touch with all the significant details regarding your team’s progress across any task, project, or goal.   
+Activity feed enables you to keep in touch with all the significant details regarding your team’s progress across any task, project, or goal.
 
 ### **Add as many team members you like**
 
@@ -48,20 +46,16 @@ Creating multiple teams is essential for companies working on different projects
 
 Task calendar lets you view all of your team’s weekly tasks. Get all team in sync with key tasks for the week. Foster team growth by aligning your team towards collective growth.
 
-**See tasks of all teams from a single dashboard**
+## **Bring your team together towards a collective goal and achieve more, together!**
+
+### **See tasks of all teams from a single dashboard**
 
 No matter how small or large your team is and how many tasks they have to achieve, you can view tasks from your entire team in a single dashboard.
 
- 
-
-**Motivate the team collectively towards a goal/mission**
+### **Motivate the team collectively towards a goal/mission**
 
 Team motivation plays an important role in accomplishing goals. With Week Plan’s Weekly Journal, your team members can share their insights and feedback that will keep them glued together towards a common goal.
 
-**Easily share progress and deliverables with the team**
+### **Easily share progress and deliverables with the team**
 
 No more emailing updates or “Dropbox-ing” deliverables with the team. Week Plan gives you a central place to share the team progress as well as any deliverables that comes along.
-
-**4 - FOOTER**
-
-Bring your team together towards a collective goal and achieve more.
