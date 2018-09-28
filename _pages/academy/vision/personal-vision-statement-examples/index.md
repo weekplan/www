@@ -1,18 +1,19 @@
 ---
 layout: academy-page
 title: Personal vision statement examples
-date: 2014-04-22 12:02
+date: 2014-04-22 00:00:00 +0000
 author: aymeric
-navigation: True
-permalink: /academy/vision/personal-vision-statement-examples/
+navigation: true
+permalink: "/academy/vision/personal-vision-statement-examples/"
 class: post-template
 comments: true
 categories: []
 tags: []
-group: 'vision'
+group: vision
 group-order: 2
----
+published: false
 
+---
 Writing your personal vision statement isn’t easy as A, B, and C. You need to take everything — identifying your 3 elements of vision and answering the deep questions — and encapsulate them in a piece of writing. 
 
 Since it’s unlikely you’ll get it down right on your first try, write as many drafts as you can until you’re comfortable with it. Write your vision statement first, and refine it later. Here are a few examples of personal vision statements:
@@ -45,4 +46,4 @@ Since it’s unlikely you’ll get it down right on your first try, write as man
 “To accelerate the world’s transition to sustainable energy.”
 
 ## IKEA
-“Our vision is to create a better everyday life for many people.”   
+“Our vision is to create a better everyday life for many people.”
