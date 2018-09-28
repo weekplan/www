@@ -11,7 +11,6 @@ categories: []
 tags: []
 group: vision
 group-order: 2
-published: false
 
 ---
 Writing your personal vision statement isn’t easy as A, B, and C. You need to take everything — identifying your 3 elements of vision and answering the deep questions — and encapsulate them in a piece of writing. 
