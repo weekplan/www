@@ -12,6 +12,7 @@ description: Know where you are heading.
 group: app-module
 group-order: 1
 cover: "/assets/images/uploads/2.png"
+published: false
 
 ---
 ## What is Vision
