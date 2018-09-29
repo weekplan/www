@@ -52,6 +52,8 @@ And Oprah Winfrey’s vision statement reads:
 
 Writing a personal vision statement allows you to focus on your vision, future, and values. Whatever your vision is, you need to put it into writing. In the next sections, we’ll show you how to write a personal vision statement for you and your business.
 
+{% include youtube.html id="C1yPpShOH-s" %}
+
 # HOW TO CLARIFY YOUR VISION
 
 To clarify your vision, answer the following questions below.
