@@ -1,7 +1,7 @@
 ---
 layout: academy-page
 title: Start Weekly Planning
-crumbtitle: Weekly planning
+crumbtitle: Weekly Planning
 navigation: true
 class: post-template
 permalink: "/academy/weekly-planning/"
