@@ -13,19 +13,17 @@ group: vision
 group-order: 1
 
 ---
-![](/assets/images/uploads/6.png)
+# ![](/assets/images/uploads/6.png)WHAT ARE CORE VALUES
 
-## WHAT ARE CORE VALUES
+Core values are the principles that serve as your guiding philosophy. People with values have greater purpose and fulfilment in their lives.
 
-Core values are the principles that serve as your guiding philosophy. People with values have greater purpose and fulfilment in their lives. 
-
-This is why it’s important to identify your core values. 
+This is why it’s important to identify your core values.
 
 According to Zappos CEO Tony Hsieh:
 
 > “Your personal core values define who you are, and a company’s core values ultimately define the company’s character and brand. For individuals, character is destiny. For organizations, culture is destiny.”
 
-As the third element of vision, core values shape your behavior and decisions, guiding you to your chosen path. 
+As the third element of vision, core values shape your behavior and decisions, guiding you to your chosen path.
 
 To determine your values, you need to go through a process of self-discovery. Thankfully, you’ve already done this in the previous sections.
 
@@ -46,7 +44,7 @@ To determine your values, you need to go through a process of self-discovery. Th
 * Business Strategies
 * Competencies
 
-## HOW TO IDENTIFY YOUR CORE VALUES
+# HOW TO IDENTIFY YOUR CORE VALUES
 
 When identifying your core values, it’s best to come up with a list of characteristics that represent your vision, goals, and priorities.
 
@@ -54,7 +52,7 @@ Although there’s no limit to how many values you can pick, remember to keep yo
 
 More importantly, core values aren’t something that you just pick because you want them. Values are something that you discover through reflection and introspection .
 
-## CORE VALUES EXAMPLES
+# CORE VALUES EXAMPLES
 
 Below is a list of core values that are commonly used by leaders and companies.
 
