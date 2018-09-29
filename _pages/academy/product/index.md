@@ -2,18 +2,18 @@
 layout: academy-page
 title: Use Week Plan
 crumbtitle: Week Plan the web app
-navigation: True
+navigation: true
 class: post-template
-permalink: '/academy/weekplan/'
+permalink: "/academy/weekplan/"
 comments: true
 categories: []
 tags: []
-description: 'Master the tool that will take you there.'
+description: Master the tool that will take you there.
 group: app-module
 group-order: 5
-cover: assets/images/uploads/youtube-banner.png
----
+cover: "/assets/images/uploads/5.png"
 
+---
 Bla bla bla
 
 <div class='post-feed'>
