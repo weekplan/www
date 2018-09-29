@@ -72,6 +72,7 @@ fields:
   name: tags
   label: tags
 pages:
+- _pages/academy/vision/big-hairy-audacious-goals/big,-hairy,-and-audacious-goals.md
 - _posts/2018-08-24-week-plan-releases-faster-android-app.md
 - Vision.md
 - _posts/2013-04-24-how-to-stay-productive-working-at-home.md
