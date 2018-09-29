@@ -13,7 +13,7 @@ group: vision
 group-order: 2
 
 ---
-## WHAT IS A BHAG
+# WHAT IS A BHAG
 
 BHAG stands for Big, Hairy, Audacious Goals. The term was introduced best-selling author Jim Collins in his book titled “Good to Great, Built to Last.”
 
@@ -29,9 +29,7 @@ According to Collins, BHAGs can be almost impossible to achieve without real com
 
 However, BHAGs are what makes a company great. A BHAG is what distinguishes a great company from an average one.
 
-{% include youtube.html id="fPtZc_vpFds" %}
-
-## HOW CAN BHAGS HELP YOU
+# HOW CAN BHAGS HELP YOU
 
 Setting Big, Hairy, Audacious Goals for you and your business can change how you think and act. It boosts your confidence, sparks passion, and breaks limitations within yourself and your team.
 
@@ -54,6 +52,8 @@ It’s worth noting that BHAGs are more than just goals because they’re often 
 * Encourages you to unleash your full potential
 * Achieves what you consider to be impossible
 
+{% include youtube.html id="fPtZc_vpFds" %}
+
 # 4 TYPES OF BHAGS
 
 1. **Target Oriented** — BHAGs that have clear quantitative and qualitative goals.
@@ -68,3 +68,16 @@ It’s worth noting that BHAGs are more than just goals because they’re often 
 3. They have a long time frame — 10 to 30 years.
 4. They are clear, compelling, and easy to grasp.
 5. They reflect your core values and core purpose.
+
+# EXAMPLES OF BHAGS
+
+# HOW TO CREATE YOUR BHAGS
+
+Here are a few simple steps to create your own Big, Hairy, Audacious Goals.
+
+1. **Think of a goal** — The first step is to think of a goal. Start with a clear, simple goal that reflects your vision, purpose, and core values.
+2. **Make it big** — Now that you’ve identified a goal, it’s time to make it big. Expand the reach of your objective. Make it bigger — the kind of goal that will get you jumping out of the bed each morning.
+3. **Make it hairy** — Make sure that your goal is hairy, meaning alarming and difficult. Why? Because if your goal isn’t hard, then it’s not a BHAG. And most likely, your goal won’t transform your company into a great one. 
+4. **Make it audacious** — Your goal should be bold and fearless. And it must be loud enough for everyone on your team to hear. 
+5. **Test it** — The next step is to test your goal using the 5 criteria for an effective BHAG. Is it clear, compelling, and long-term? 
+6. **Take action** — It’s time to act on your goal. Remember that physical creation follows mental creation. This means that to achieve your goal, you need to think (mental) and act (physical).
