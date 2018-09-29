@@ -71,6 +71,8 @@ It’s worth noting that BHAGs are more than just goals because they’re often 
 
 # EXAMPLES OF BHAGS
 
+![](/assets/images/uploads/bhags-companies.png)
+
 # HOW TO CREATE YOUR BHAGS
 
 Here are a few simple steps to create your own Big, Hairy, Audacious Goals.
