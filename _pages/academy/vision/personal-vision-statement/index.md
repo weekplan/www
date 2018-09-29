@@ -29,6 +29,8 @@ According to Collins, BHAGs can be almost impossible to achieve without real com
 
 However, BHAGs are what makes a company great. A BHAG is what distinguishes a great company from an average one.
 
+{% include youtube.html id="fPtZc_vpFds" %}
+
 ## HOW CAN BHAGS HELP YOU
 
 Setting Big, Hairy, Audacious Goals for you and your business can change how you think and act. It boosts your confidence, sparks passion, and breaks limitations within yourself and your team.
