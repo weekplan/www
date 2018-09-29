@@ -40,7 +40,7 @@ It’s one thing to want something and it’s another to have a vision. Simply w
 
 You need to have a vision that inspires you to achieve something greater than what you are and what you’ve accomplished. This is the purpose of vision — to paint a picture of the future that creates passion.
 
-The world’s most successful people have clear, written vision statements that keep them focused on what truly matters. This is why it’s necessary to have a vision for your life.
+The world’s most successful people have clear vision statements that keep them focused on what truly matters. This is why it’s necessary to have a vision for your life.
 
 Consider this vision statement by Sir Richard Branson:
 
@@ -50,7 +50,9 @@ And Oprah Winfrey’s vision statement reads:
 
 > “To be a teacher. And to be known for inspiring my students to be more than they thought they could be.”
 
-Writing a personal vision statement allows you to focus on your vision, future, and values. Whatever your vision is, you need to put it into writing. In the next sections, we’ll show you how to write a personal vision statement for you and your business.
+Having a vision statement allows you to focus on your vision, future, and values. Whatever your vision is, you need to put it into writing. 
+
+In the next sections, we’ll show you how to write a mission statement for you and your business.
 
 {% include youtube.html id="C1yPpShOH-s" %}
 
@@ -69,6 +71,8 @@ To clarify your vision, answer the following questions below.
 3. **Determine your core values.**
    * What principles do you need to have in order to achieve your goals?
    * What principles or standards of behavior do you need to learn to get there?
+
+{% include youtube.html id="FotBcm5zw1I" %}
 
 <div class='post-feed'>
 {% include group-post-list.html group="vision" %}
