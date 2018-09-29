@@ -1,6 +1,6 @@
 ---
 layout: academy-page
-title: Consider journaling
+title: Consider Journaling
 crumbtitle: Journaling
 navigation: true
 class: post-template
