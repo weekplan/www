@@ -13,13 +13,13 @@ group: vision
 group-order: 2
 
 ---
-# WHAT IS A BHAG
+# ![](/assets/images/uploads/8.png)WHAT IS A BHAG
 
 BHAG stands for Big, Hairy, Audacious Goals. The term was introduced best-selling author Jim Collins in his book titled “Good to Great, Built to Last.”
 
 Collins wanted to create a phrase that powerfully described what it means to have ambitious long-term goals that convey boldness, excitement, and energy. The rest was history.
 
-A BHAG is a tool that fuels companies and individuals to set ambitious and emotionally-compelling goals. 
+A BHAG is a tool that fuels companies and individuals to set ambitious and emotionally-compelling goals.
 
 ![](/assets/images/uploads/bhag.png)
 
@@ -77,7 +77,7 @@ Here are a few simple steps to create your own Big, Hairy, Audacious Goals.
 
 1. **Think of a goal** — The first step is to think of a goal. Start with a clear, simple goal that reflects your vision, purpose, and core values.
 2. **Make it big** — Now that you’ve identified a goal, it’s time to make it big. Expand the reach of your objective. Make it bigger — the kind of goal that will get you jumping out of the bed each morning.
-3. **Make it hairy** — Make sure that your goal is hairy, meaning alarming and difficult. Why? Because if your goal isn’t hard, then it’s not a BHAG. And most likely, your goal won’t transform your company into a great one. 
-4. **Make it audacious** — Your goal should be bold and fearless. And it must be loud enough for everyone on your team to hear. 
-5. **Test it** — The next step is to test your goal using the 5 criteria for an effective BHAG. Is it clear, compelling, and long-term? 
+3. **Make it hairy** — Make sure that your goal is hairy, meaning alarming and difficult. Why? Because if your goal isn’t hard, then it’s not a BHAG. And most likely, your goal won’t transform your company into a great one.
+4. **Make it audacious** — Your goal should be bold and fearless. And it must be loud enough for everyone on your team to hear.
+5. **Test it** — The next step is to test your goal using the 5 criteria for an effective BHAG. Is it clear, compelling, and long-term?
 6. **Take action** — It’s time to act on your goal. Remember that physical creation follows mental creation. This means that to achieve your goal, you need to think (mental) and act (physical).
