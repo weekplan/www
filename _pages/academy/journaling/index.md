@@ -1,19 +1,19 @@
 ---
 layout: academy-page
-title: "Consider journaling"
+title: Consider journaling
 crumbtitle: Journaling
-navigation: True
+navigation: true
 class: post-template
-permalink: '/academy/journaling/'
+permalink: "/academy/journaling/"
 comments: true
 categories: []
 tags: []
-description: 'There is a time to do, and a time to reflect'
+description: There is a time to do, and a time to reflect
 group: app-module
 group-order: 4
-cover: assets/images/uploads/journaling.jpg
----
+cover: "/assets/images/uploads/1.png"
 
+---
 Bla bla bla
 
 <div class='post-feed'>
