@@ -22,7 +22,9 @@ Think of vision as your North Star, guiding you every step of the way and provid
 
 Vision gives you clarity for the future while directing your attention in the present. On the contrary, the lack of vision prevents you from achieving success or significance in life.
 
-“If you have a clear vision of where you want to go, you are not as easily distracted by the many possibilities and agendas that otherwise divert you,” says best-selling author Timothy Gallwey.
+> "If you have a clear vision of where you want to go, you are not as easily distracted by the many possibilities and agendas that otherwise divert you." - Timothy Gallwey.
+
+{% include youtube.html id="RzFFEtxqQYo" %}
 
 ## 3 ELEMENTS OF VISION
 
