@@ -13,7 +13,7 @@ group: vision
 group-order: 1
 
 ---
-# ![](/assets/images/uploads/6.png)WHAT ARE CORE VALUES
+# ![](/assets/images/uploads/6-2.png)WHAT ARE CORE VALUES
 
 Core values are the principles that serve as your guiding philosophy. People with values have greater purpose and fulfilment in their lives.
 
