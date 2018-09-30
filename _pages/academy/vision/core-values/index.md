@@ -50,7 +50,9 @@ When identifying your core values, it’s best to come up with a list of charact
 
 Although there’s no limit to how many values you can pick, remember to keep your list short — not more than five or six values.
 
-More importantly, core values aren’t something that you just pick because you want them. Values are something that you discover through reflection and introspection .
+More importantly, core values aren’t something that you just pick because you want them. Values are something that you discover through reflection and introspection.
+
+{% include youtube.html id="Lr48dLAqRA8" %}
 
 # CORE VALUES EXAMPLES
 
