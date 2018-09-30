@@ -90,3 +90,5 @@ The vision statement is future-oriented and it answers the question, “What do 
 * It describes how you intend to achieve your vision.
 * It answers the question, “How do I fulfill my long-term goals?”
 * It’s present-oriented.
+
+{% include youtube.html id="b2MyaR0gMo0" %}
