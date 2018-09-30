@@ -47,6 +47,8 @@ It’s a compliment to the giant retailer’s vision statement:
 
 > “To be Earth’s most customer-centric company, where customers can find and discover anything they might want to buy online.”
 
+{% include youtube.html id="LJhG3HZ7b4o" %}
+
 # EXAMPLES OF MISSION STATEMENTS
 
 Facebook: “To give people the power to share and make the world more open and connected.”
