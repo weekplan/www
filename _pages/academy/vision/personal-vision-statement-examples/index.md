@@ -13,7 +13,7 @@ group: vision
 group-order: 3
 
 ---
-# ![](/assets/images/uploads/11.png)WHAT IS A MISSION STATEMENT
+# ![](/assets/images/uploads/11-1.png)WHAT IS A MISSION STATEMENT
 
 Simply put, a mission statement is a short paragraph or sentence that highlights how you’ll achieve your vision.
 
