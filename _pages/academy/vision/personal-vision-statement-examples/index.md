@@ -15,21 +15,23 @@ group-order: 3
 ---
 # ![](/assets/images/uploads/11.png)WHAT IS A MISSION STATEMENT
 
-Simply put, a mission statement is a short paragraph or sentence that highlights how you’ll achieve your vision. 
+Simply put, a mission statement is a short paragraph or sentence that highlights how you’ll achieve your vision.
 
-Mission is the means to the end (your vision). 
+Mission is the means to the end (your vision).
 
 It’s also a strategic objective for achieving your BHAG (Big, Hairy, Audacious Goals).
 
-If vision is about the future, mission is about the present state — actions that contribute to the fulfilment of your goals. 
+If vision is about the future, mission is about the present state — actions that contribute to the fulfilment of your goals.
 
-And if vision is the dreaming phase, mission is the doing phase. Vision is the why. Mission is the how. 
+And if vision is the dreaming phase, mission is the doing phase. Vision is the why. Mission is the how.
+
+{% include youtube.html id="aqzGpkBpDUo" %}
 
 # HOW TO WRITE A MISSION STATEMENT
 
-A mission statement builds on your vision, core values, and BHAGs. Having a vision is enough. But creating a mission statement will take you farther. 
+A mission statement builds on your vision, core values, and BHAGs. Having a vision is enough. But creating a mission statement will take you farther.
 
-A good mission statement will answer the What, Who, and How. 
+A good mission statement will answer the What, Who, and How.
 
 * **WHAT** you will do (mission)
 * **WHO** will benefit your mission
@@ -37,11 +39,11 @@ A good mission statement will answer the What, Who, and How.
 
 According to legendary management guru Peter Drucker, “The mission statement has to express the contribution the enterprise plans to make to society, to economy, to the customer.”
 
-Consider Amazon’s mission statement: 
+Consider Amazon’s mission statement:
 
 > “We strive to offer our customers the lowest possible prices, the best available selection, and the utmost convenience.”
 
-It’s a compliment to the giant retailer’s vision statement: 
+It’s a compliment to the giant retailer’s vision statement:
 
 > “To be Earth’s most customer-centric company, where customers can find and discover anything they might want to buy online.”
 
@@ -61,17 +63,17 @@ Tesla: “To accelerate the world’s transition to sustainable energy.”
 
 IKEA: “To create a better everyday life for many people.”
 
-Oracle: “We help you simplify your IT environment so that you can free up money, time and resources to invest in innovation. We do this by providing a comprehensive and fully integrated stack of cloud applications, platform services and engineered systems.” 
+Oracle: “We help you simplify your IT environment so that you can free up money, time and resources to invest in innovation. We do this by providing a comprehensive and fully integrated stack of cloud applications, platform services and engineered systems.”
 
-StarBucks: “To inspire and nurture the human spirit — one person, one cup and one neighborhood at a time.” 
+StarBucks: “To inspire and nurture the human spirit — one person, one cup and one neighborhood at a time.”
 
-WeWork: “Create a world where people work to make a life, not just a living.” 
+WeWork: “Create a world where people work to make a life, not just a living.”
 
-Zappos: “To provide the best customer service possible. Deliver “WOW” through service.” 
+Zappos: “To provide the best customer service possible. Deliver “WOW” through service.”
 
 # DIFFERENCE BETWEEN A VISION STATEMENT AND A MISSION STATEMENT
 
-A vision statement is slightly different from a mission statement. Vision and mission are separate concepts. However, they are interdependent. 
+A vision statement is slightly different from a mission statement. Vision and mission are separate concepts. However, they are interdependent.
 
 The vision statement is future-oriented and it answers the question, “What do I want to be?” On the other hand, a mission statement is present-oriented and it complements the vision statement.
 
