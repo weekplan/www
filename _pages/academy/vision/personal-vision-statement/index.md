@@ -13,7 +13,7 @@ group: vision
 group-order: 2
 
 ---
-# ![](/assets/images/uploads/8.png)WHAT IS A BHAG
+# ![](/assets/images/uploads/8-1.png)WHAT IS A BHAG
 
 BHAG stands for Big, Hairy, Audacious Goals. The term was introduced best-selling author Jim Collins in his book titled “Good to Great, Built to Last.”
 
@@ -28,6 +28,8 @@ In a nutshell, BHAGs are long-term objectives that, when achieved, will change t
 According to Collins, BHAGs can be almost impossible to achieve without real commitment and hard work. They’re also bigger, bolder, and loud. It’s like putting man on Mars.
 
 However, BHAGs are what makes a company great. A BHAG is what distinguishes a great company from an average one.
+
+{% include youtube.html id="sXbxzkDJOzo" %}
 
 # HOW CAN BHAGS HELP YOU
 
