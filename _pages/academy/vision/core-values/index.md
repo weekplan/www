@@ -44,6 +44,8 @@ To determine your values, you need to go through a process of self-discovery. Th
 * Business Strategies
 * Competencies
 
+{% include youtube.html id="gH3qezU-9oI" %}
+
 # HOW TO IDENTIFY YOUR CORE VALUES
 
 When identifying your core values, it’s best to come up with a list of characteristics that represent your vision, goals, and priorities.
