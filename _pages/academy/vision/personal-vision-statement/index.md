@@ -74,7 +74,7 @@ It’s worth noting that BHAGs are more than just goals because they’re often 
 
 # EXAMPLES OF BHAGS
 
-![](/assets/images/uploads/bhags-companies.png)
+![](/assets/images/uploads/core-values-infographics.jpg)
 
 # HOW TO CREATE YOUR BHAGS
 
