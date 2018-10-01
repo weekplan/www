@@ -48,6 +48,8 @@ We are nowhere near perfect, we make mistakes and we sometimes think and feel th
 
 There, you can be yourself. Say whatever you want to say. Be whoever you want to be, and no one will judge you for it.
 
+{% include youtube.html id="LfxwCKin5Bg" %}
+
 # Benefits of Writing a Journal
 
 There are definitely several benefits journaling can provide you. Here are some:
