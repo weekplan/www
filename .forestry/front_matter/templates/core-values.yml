@@ -67,6 +67,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- _pages/academy/weekly-planning/4-quadrants-of-time-management.md
 - _pages/academy/objectives/putting-everything-together.md
 - _pages/academy/objectives/what-makes-a-good-key-result.md
 - _pages/academy/objectives/a-good-objective.md
