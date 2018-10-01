@@ -93,3 +93,5 @@ Social media, online games, on-demand music, sand videos are perfect examples of
 Go to some place where there is no Internet. You’ll be amazed at how effective this strategy is.
 
 All of these tactics are effective in helping you stay more focused. Use them consistently until such time that doing them becomes spontaneous like breathing. Finally, make them _good habits that die hard_.
+
+<div class='post-feed'> {% include group-post-list.html group="weekly-planning" %} </div>
