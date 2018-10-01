@@ -7,7 +7,7 @@ class: post-template
 comments: true
 categories: []
 tags: []
-cover: ''
+cover: "/assets/images/uploads/12.png"
 permalink: "/academy/objectives-key-results/okrs-vs-goals"
 description: ''
 crumbtitle: OKRs vs Goals
