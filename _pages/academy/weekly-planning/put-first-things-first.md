@@ -24,13 +24,13 @@ There are different tools to help you put things first. But perhaps the best met
 
 The matrix was later popularized by the late Stephen Covey in his best-selling book “The 7 Habits of Highly Effective People.” 
 
+{% include youtube.html id="kC-bjn0L_dI" %}
+
 Covey integrated ways to resolve professional and personal difficulties, thus the division of daily activities into four quadrants.
 
 He incorporated this concept into what he called the third habit, which means to put things first. 
 
 Putting first things first encourages you to adopt a way of life where life should be celebrated without compromising your responsibilities.
-
-{% include youtube.html id="kC-bjn0L_dI" %}
 
 # What is the 3rd Habit
 
