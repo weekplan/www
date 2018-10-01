@@ -1,6 +1,6 @@
 ---
 title: OKRs vs Goals
-date: 2018-10-01 00:00:00 +0000
+date: 2018-10-01 12:28:32 +1000
 layout: academy-page
 navigation: true
 class: post-template
@@ -45,9 +45,3 @@ In this way, we are able to see if the goals are reached or not by checking whet
 Goals are reached effectively by following and checking on the OKR approach.
 
 Consequently, these two go hand in hand.
-
-<div class='post-feed'>
-
-{% include group-post-list.html group="okrs" %}
-
-</div>
