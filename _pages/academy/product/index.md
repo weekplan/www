@@ -14,8 +14,8 @@ group-order: 5
 cover: "/assets/images/uploads/5.png"
 
 ---
-Bla bla bla
+Sorry, but this page under construction. We're working on it.
 
 <div class='post-feed'>
-    {% include group-post-list.html group="product-help" %}
+{% include group-post-list.html group="product-help" %}
 </div>
