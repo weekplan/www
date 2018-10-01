@@ -28,7 +28,7 @@ This framework is governed by a number of rules and strategies and has been effe
 
 OKRs is a favorite tool for setting expectations and measuring results at organizations. Over the years, its process has now been more or less standardized.
 
-So what 
+So, what are OKRs? In a nutshell:
 
 An **Objective** is a description of a goal to be achieved in the future. It sets a clear direction and provides motivation. It’s also similar to a destination on a map.
 
