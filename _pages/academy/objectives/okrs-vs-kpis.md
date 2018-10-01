@@ -28,6 +28,8 @@ In other words: OKR and KPI work perfectly together.
 
 KPIs help monitor performance and identify problems and areas for improvement; OKRs help solve problems, improve processes, and drive innovation. You’ll need both.
 
+{% include youtube.html id="tttoOmnwhPw" %}
+
 Here is an example:
 
 Let’s say you want to measure the success of your support team. You could create a KPI that measures the average reply time for incoming support ticket calls. If you agree with Support that the average reply time should be 30 minutes or less, you’ll be able to instantly see whether your target is met.
@@ -39,8 +41,6 @@ But what if the KPI indicates the average reply time currently is 48 minutes? Yo
 How would you know you’ve improved it or not? Well, if the average reply time drops from 48 to 30 minutes. So that would be your Key Result. 
 
 What will you do to make that happen? You may want to hire an extra support manager, streamline processes or implement another approach or initiative.
-
-{% include youtube.html id="tttoOmnwhPw" %}
 
 <div class='post-feed'>
 
