@@ -20,11 +20,15 @@ So it’s but crucial to find ways to look for more possibilities and measure on
 
 # INTRODUCING OKRS
 
-Objectives and Key Results or OKRs is a popular approach in setting goals, implementing plans of action, and monitoring output. This applies widely to individuals (employees), teams, and companies.
+Objectives and Key Results or OKRs is a popular approach in setting goals, implementing plans of action, and monitoring output. 
+
+OKRs apply widely to individuals (employees), teams, and companies.
 
 This framework is governed by a number of rules and strategies and has been effectively used by companies, particularly, in organizing employees to achieving their shared goals.
 
 OKRs is a favorite tool for setting expectations and measuring results at organizations. Over the years, its process has now been more or less standardized.
+
+So what 
 
 An **Objective** is a description of a goal to be achieved in the future. It sets a clear direction and provides motivation. It’s also similar to a destination on a map.
 
