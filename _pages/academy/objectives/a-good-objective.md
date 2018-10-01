@@ -1,17 +1,17 @@
 ---
-title: A Good Objective
+title: What Makes a Good Objective
 date: 2018-10-01 00:00:00 +0000
-layout: ''
+layout: academy-page
 cover: "/assets/images/uploads/16.png"
-author: ''
-navigation: false
-class: ''
-comments: false
+author: aymeric
+navigation: true
+class: post-template
+comments: true
 categories: []
 tags: []
-group: ''
-group-order: ''
-published: false
+permalink: "/academy/objectives-key-results/what-makes-a-good-objective"
+group: okrs
+group-order: 4
 
 ---
 # WHAT MAKES A GOOD OBJECTIVE
