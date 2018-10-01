@@ -85,48 +85,6 @@ More than usual, **OKRs** are interchanged with several goal-setting frameworks 
 
 {% include youtube.html id="L4N1q4RNi9I" %}
 
-# OKR VS BALANCED SCORECARD
-
-The Balanced Scorecard has long been used as a strategic management framework used by companies across the world.
-
-While it’s still a popular framework, the Balanced Scorecard has faced competition from other frameworks in recent years.
-
-OKRs have been gaining usage and popularity as well. Usually, they may contain more initiatives for each objective, as well as more goals.
-
-Using a science, the two share a lot of similarities. Both are focused on objectives—broad goals designed to propel the organization forward—and metrics (called [Key Results](https://www.perdoo.com/blog/set-key-results/) in the OKRs field and measures in the BSC) that gauge your success in achieving the objective.
-
-The biggest difference between the two is cadence. When creating Balanced Scorecards, most companies will draft objectives and measures that are designed to stay in place for at least one year, but often longer.
-
-With OKRs, however, most organizations change their Objectives and Key Results each quarter, focusing on what can create the most value in the next 90 days.
-
-Another key difference relates to parameters. When constructing a Balanced Scorecard, organizations create objectives and measures in four distinct, yet related perspectives of performance: Financial, Customer, Internal Processes, and Learning & Growth.
-
-OKRs on the other hand, do not rely on the use of perspectives.
-
-Both tools are valuable in their own right, OKRs are more of an advantage having a shorter cadence. Since things are changing faster than ever, and thus it’s vital we have metrics that allow us to be agile in our approach, OKRs thrive more into this setting.
-
-Having said that, the four-perspective model of the Balanced Scorecard also provides substantial benefits: it forces an organization to think holistically about their business and how the objectives and measures spanning the four perspectives weave together to tell their unique strategic story.
-
-# WHAT MAKES A GOOD OBJECTIVE
-
-First, the **Objective** should help in achieving the company goals and should be aligned with the corporate strategy or its vision.
-
-You start by defining 3 to 5 objectives of the company, team or personal levels. Based on the earlier information, objectives should be qualitative, time-bound, and actionable by the person or team.
-
-·      **Qualitative and Inspirational** - The objective is designed to get people jumping out of bed in the morning with excitement. And while CEOs and VCs may jump out of bed in the morning with joy over a 3% gain in conversion, most mere mortals get excited by a sense of meaning and progress. Use the language of your team. If they want to own it or kill it, use that wording.
-
-·      **Time Bound** - The goal/s should be doable in a month, a quarter.  You want it to be a clear sprint toward a goal.
-
-·      **Actionable by the Team Independently** - This is less a problem for start-ups, but bigger companies often struggle because of interdependence. Your Objective has to be truly yours, and you can’t have the excuse of “marketing didn’t market it.”
-
-Following the rules, here we have a few examples.
-
-·       If we take this objective ‘’Make our web application better,‘’ this objective is not definite. To make it effective, you should be specific on what you want to improve on. You can write another form of this objective to ‘’Reduce the time spent by our client to setup their account to 2 minutes’’, which is significantly more specific and distinct.
-
-·       Instead of saying “Improve marketing team”, you can do better by saying “Improve marketers ability for writing article entries and social media posts ” so you can create several strategies later on.
-
-·       To make the objective measurable,  “Make a lot of money” can be translated “Grow revenue by 15%” so that the key results have metrics put into place. It would be easier to compare the outcome by checking on the objectives first.
-
 # WHAT MAKES A GOOD KEY RESULT
 
 So, what makes a good Key Result? Under each Objective, define measurable outcomes.
