@@ -67,9 +67,9 @@ fields:
   hidden: false
   default: ''
 pages:
+- _pages/academy/journaling/what-is-cogitorama.md
 - _pages/academy/journaling/how-to-start-writing-your-journal.md
 - _pages/academy/journaling/questions-to-fire-up-the-journaling-habit.md
-- _pages/academy/journaling/what-is-cogitorama.md
 - _pages/academy/weekly-planning/how-to-stay-focused.md
 - _pages/academy/weekly-planning/put-first-things-first.md
 - _pages/academy/weekly-planning/4-quadrants-of-time-management.md
