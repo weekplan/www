@@ -16,17 +16,17 @@ group-order: 1
 ---
 # Questions to Fire Up Your Journaling Habit
 
-When people start writing their journals, they usually don’t know how to start, or what to write about. 
+When people start writing their journals, they usually don’t know how to start, or what to write about.
 
-It’s okay. 
+It’s okay.
 
-One does not need to be a writer to start journaling. You only need a pen and paper. 
+One does not need to be a writer to start journaling. You only need a pen and paper.
 
-And, more important, you need to start. 
+And, more important, you need to start.
 
 That’s the key: start.
 
-To build the habit of journaling, you need to start writing. Don’t worry about the grammar and spelling errors. 
+To build the habit of journaling, you need to start writing. Don’t worry about the grammar and spelling errors.
 
 What’s important is that you’re documenting your life. What matters is that you’re building the habit.
 
@@ -41,5 +41,3 @@ Writing journals can be easier by asking yourself a few questions. Here are some
 7. **What did I accomplish today?** I had one-on-one meetings with my employees. That’s always on my journal because for someone who’s always busy, it’s a big accomplishment. See that? You can write anything you did that you felt proud of, how absurd it may sound.
 8. **Did I fail at anything and what lesson did I learn?** Failure is always part of us, it helps in molding us into a better person, what did you fail on today? What did you learn from it? How can you apply what you learned in the future?
 9. **Did I gain any insights into myself or someone else?** It’s amusing how different we can see something after we all write it down and take a gasp at the overview of everything.
-
-<div class='post-feed'> {% include group-post-list.html group="journaling" %} </div>
