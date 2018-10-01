@@ -134,6 +134,8 @@ Use them consistently until such time that doing them becomes spontaneous like b
 
 Finally, make them _good habits that die hard_.
 
+{% include youtube.html id="WhbYBb0huMs" %}
+
 <div class='post-feed'>
 
 {% include group-post-list.html group="app-module" %}
