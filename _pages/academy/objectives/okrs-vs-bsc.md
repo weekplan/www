@@ -30,20 +30,14 @@ The biggest difference between the two is cadence. When creating Balanced Scorec
 
 With OKRs, however, most organizations change their Objectives and Key Results each quarter, focusing on what can create the most value in the next 90 days.
 
-Another key difference relates to parameters. 
+Another key difference relates to parameters.
 
 When constructing a Balanced Scorecard, organizations create objectives and measures in four distinct, yet related perspectives of performance: Financial, Customer, Internal Processes, and Learning & Growth.
 
 OKRs on the other hand, do not rely on the use of perspectives.
 
-Both tools are valuable in their own right, OKRs are more of an advantage having a shorter cadence. 
+Both tools are valuable in their own right, OKRs are more of an advantage having a shorter cadence.
 
 Since things are changing faster than ever, and thus it’s vital we have metrics that allow us to be agile in our approach, OKRs thrive more into this setting.
 
 Having said that, the four-perspective model of the Balanced Scorecard also provides substantial benefits: it forces an organization to think holistically about their business and how the objectives and measures spanning the four perspectives weave together to tell their unique strategic story.
-
-<div class='post-feed'>
-
-{% include group-post-list.html group="okrs" %}
-
-</div>
