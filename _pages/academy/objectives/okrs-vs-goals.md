@@ -28,6 +28,8 @@ On the other hand, the OKR approach allows very descriptive details on how to ac
 
 With an OKR, your Key Results can reflect a number of important metrics that you'll be setting targets for in order to achieve your Objective.
 
+{% include youtube.html id="IDob4Keokb8" %}
+
 Let’s discuss a few examples.
 
 A sales agent’s target is revenue of $30,000. That is the goal. Following the OKR framework, we divide this goal into two important components: a direction (grow revenue) and a target ($30,000).
@@ -43,8 +45,6 @@ In this way, we are able to see if the goals are reached or not by checking whet
 Goals are reached effectively by following and checking on the OKR approach.
 
 Consequently, these two go hand in hand.
-
-{% include youtube.html id="IDob4Keokb8" %}
 
 <div class='post-feed'>
 
