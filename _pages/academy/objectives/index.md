@@ -14,9 +14,7 @@ group-order: 2
 cover: "/assets/images/uploads/4.png"
 
 ---
-Goal setting methods have significantly increased in number and relevance over the past couple of years, thanks to the emergence of new companies and organizations pushing to thrive in this competitive world.
-
-So it’s but crucial to find ways to look for more possibilities and measure on your work on a regular basis. 
+Goal setting methods have increased in number and relevance over the past couple of years, thanks to the emergence of new companies and organizations pushing to thrive in this competitive world. That's why it’s crucial to find new ways to measure your work on a regular basis. 
 
 # INTRODUCING OKRS
 
