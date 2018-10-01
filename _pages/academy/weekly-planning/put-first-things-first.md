@@ -16,25 +16,25 @@ group-order: 2
 ---
 # Put First Things First
 
-Put first things first ­— a phrase that’s easier said than done. In this busy world, it’s very easy to lose sight of your goals. 
+Put first things first ­— a phrase that’s easier said than done. In this busy world, it’s very easy to lose sight of your goals.
 
 And because it’s impossible to have just one task on your list, you need to keep your ducks in a row. So, how do you do this?
 
-There are different tools to help you put things first. But perhaps the best method is the Eisenhower Matrix. 
+There are different tools to help you put things first. But perhaps the best method is the Eisenhower Matrix.
 
-The matrix was later popularized by the late Stephen Covey in his best-selling book “The 7 Habits of Highly Effective People.” 
+The matrix was later popularized by the late Stephen Covey in his best-selling book “The 7 Habits of Highly Effective People.”
 
 {% include youtube.html id="kC-bjn0L_dI" %}
 
 Covey integrated ways to resolve professional and personal difficulties, thus the division of daily activities into four quadrants.
 
-He incorporated this concept into what he called the third habit, which means to put things first. 
+He incorporated this concept into what he called the third habit, which means to put things first.
 
 Putting first things first encourages you to adopt a way of life where life should be celebrated without compromising your responsibilities.
 
-# What is the 3rd Habit
+# What is the Third Habit
 
-To fully understand the third habit, you need to revisit Stephen Covey’s first and second habits. 
+To fully understand the third habit, you need to revisit Stephen Covey’s first and second habits.
 
 {% include youtube.html id="sH6OFrHA7rU" %}
 
@@ -68,17 +68,17 @@ To illustrate, here’s a run through of a day with the “first things first”
 * I want to improve my physical health
 * I want to become the best version of myself
 
-2. After determining your goals, you start your day with the “big rocks” in mind. Following our example above, you will:
+1. After determining your goals, you start your day with the “big rocks” in mind. Following our example above, you will:
 
 * Practice meditation after waking up. Starting your day right will determine how the rest of your day will go. Meditation creates calmness and clarity, which makes you more productive.
 * After meditating, it’s time to do some exercises to improve your physical health. This is important for you to feel alert and active throughout the day.
 * To become the best version of yourself, you’d want to dress up accordingly and present yourself neatly. This boosts your confidence and self-esteem.
 
-The simple example shows how the small rocks will adjust if you prioritize your big rocks first. 
+The simple example shows how the small rocks will adjust if you prioritize your big rocks first.
 
 This means focusing on your Q2 tasks ­— tasks that are important but not urgent — rather than the urgent and important tasks (Q1).
 
-The irony of this is when you don’t follow through on your Q2 tasks, they would eventually turn into Q1 tasks. 
+The irony of this is when you don’t follow through on your Q2 tasks, they would eventually turn into Q1 tasks.
 
 For instance, if you forget to exercise regularly, sooner or later you’ll feel unhealthy until an emergency situation will force you to try exercising again.
 
