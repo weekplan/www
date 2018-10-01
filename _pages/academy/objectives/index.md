@@ -32,13 +32,17 @@ OKRs is a favorite tool for setting expectations and measuring results at organi
 
 So, what are OKRs? In a nutshell:
 
-![](/assets/images/uploads/okrs.jpg)An **Objective** is a description of a goal to be achieved in the future. It sets a clear direction and provides motivation. It’s also similar to a destination on a map.
+![](/assets/images/uploads/okrs.jpg)An **Objective** is a description of a goal to be achieved in the future. It sets a clear direction and provides motivation. It’s similar to a destination on a map.
 
-A **Key Result** is a metric with a starting value and a target value that measures progress towards an **Objective**. A **Key Result** is like a signpost with a distance that shows how close you are to your **Objective**.
+A **Key Result** is a metric with a starting value and a target value that measures progress towards an **Objective**. 
+
+A **Key Result** is like a signpost with a distance that shows how close you are to your **Objective**.
 
 The **Objective** is qualitative, and the **Key Results** are quantitative.
 
-The **Objective** sets a goal for a period of time, for example, a quarter. The **Key Results** then measure if the **Objective** has been met at the end of the time frame.
+The **Objective** sets a goal for a period of time, for example, a quarter. 
+
+The **Key Results** then measure if the **Objective** has been met at the end of the time frame.
 
 # HISTORY
 
