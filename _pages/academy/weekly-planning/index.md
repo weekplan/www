@@ -58,19 +58,16 @@ Consistently planning your activities for the week can be a challenge, but with 
 
 There are different ways to plan your week. But here are a few strategies, taken from experts, that will help you get started.
 
-1\.    Get ahead. Plan your week before it starts. This is really effective, it lets you see how your week would be like and it helps you prepare your mind for it. It also gives you ample time to actually prepare for certain events, like that dinner date on Friday. Getting ahead lets you know what should be done at certain periods of time and lets you focus more on the task at the moment.
-
-2\.    Schedule everything on your calendar. This is a quick way to organize your life. One look at your calendar lets you know what’s scheduled for each day in your week.
-
-3\.    Know your top priorities. It may be that business proposal you’re thinking of, or that book you want to finish. Knowing your priorities lets you focus on important tasks, making you not just productive, but effective.
-
-4\.    Have a checklist for everything, and that means everything. Every single thing you need to do that week. It can be detailed, or not. It all depends on you and how you organize your weekly plan. This gives you a view of the tasks at hand, allowing you to arrange them accordingly.
-
-5\.    Plan mellow times. Take into consideration the time needed in between. Don’t try to stress yourself up. Add 15 minutes to that travel time, you’d never know how traffic will get. Add another 10 minutes or more for that meeting; you might want to catch up on people you know after. Just make enough time for everything. Avoid rushing yourself.
-
-6\.    Give time for unplanned events. You never know what’s coming up tomorrow. You might run out of peanut butter and would need to go to the store. This can sometimes be stressful especially if you’re busy. So it would be very helpful to be able to reserve time for these things.
+1. **Get ahead**. Plan your week before it starts. This is really effective, it lets you see how your week would be like and it helps you prepare your mind for it. It also gives you ample time to actually prepare for certain events, like that dinner date on Friday. Getting ahead lets you know what should be done at certain periods of time and lets you focus more on the task at the moment.
+2. **Schedule everything on your calendar**. This is a quick way to organize your life. One look at your calendar lets you know what’s scheduled for each day in your week.
+3. **Know your top priorities.** It may be that business proposal you’re thinking of, or that book you want to finish. Knowing your priorities lets you focus on important tasks, making you not just productive, but effective.
+4. **Have a checklist for everything, and that means everything**. Every single thing you need to do that week. It can be detailed, or not. It all depends on you and how you organize your weekly plan. This gives you a view of the tasks at hand, allowing you to arrange them accordingly.
+5. **Plan mellow times.** Take into consideration the time needed in between. Don’t try to stress yourself up. Add 15 minutes to that travel time, you’d never know how traffic will get. Add another 10 minutes or more for that meeting; you might want to catch up on people you know after. Just make enough time for everything. Avoid rushing yourself.
+6. **Give time for unplanned events.** You never know what’s coming up tomorrow. You might run out of peanut butter and would need to go to the store. This can sometimes be stressful especially if you’re busy. So it would be very helpful to be able to reserve time for these things.
 
 The best part of weekly planning is that it reduces stress. Knowing what needs to be done at certain times eliminates worry, like did you forget anything that you should be doing? It’s all the little things.
+
+{% include youtube.html id="KNxLNY6yxRI" %}
 
 # The 4 Quadrants of Time Management
 
