@@ -86,3 +86,9 @@ Here are a few simple steps to create your own Big, Hairy, Audacious Goals.
 4. **Make it audacious** — Your goal should be bold and fearless. And it must be loud enough for everyone on your team to hear.
 5. **Test it** — The next step is to test your goal using the 5 criteria for an effective BHAG. Is it clear, compelling, and long-term?
 6. **Take action** — It’s time to act on your goal. Remember that physical creation follows mental creation. This means that to achieve your goal, you need to think (mental) and act (physical).
+
+<div class='post-feed'> 
+
+{% include group-post-list.html group="okrs" %} 
+
+</div>
