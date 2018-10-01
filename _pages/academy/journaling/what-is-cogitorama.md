@@ -16,11 +16,11 @@ group-order: 3
 ---
 # What is Cogitorama
 
-If you find journaling to be a little complicated and hard, then there’s a better option for you. 
+If you find journaling to be a little complicated and hard, then there’s a better option for you.
 
 Enter Cogiteroma, a different way to increase your self-awareness. It’s more like the Twitter of journaling.
 
-Cogitoroma was created Aymeric Gaurat-Apelli, a software engineer turned entrepreneur who founded Week Plan. 
+Cogitoroma was created Aymeric Gaurat-Apelli, a software engineer turned entrepreneur who founded Week Plan.
 
 According to Aymeric, the concept of Cogitoroma was born when found himself too lazy to write journal entries as a student.
 
@@ -34,8 +34,12 @@ Or, if you’re feeling a bit overwhelmed, you would write: -overwhelmed -stress
 
 If you notice, each keyword has a plus (+) and minus (-) sign. They describe how each keyword impacts you, whether positively or negatively. Get it? It’s quite simple. And it’s much easier than writing an entire journal.
 
-The point of cogitorama is to remove the pressure of having to write a journal. 
+The point of cogitorama is to remove the pressure of having to write a journal.
 
 With it, you can document your day in a minute. No need to spend hours thinking about what to write. Try it.
 
-<div class='post-feed'> {% include group-post-list.html group="journaling" %} </div>
+<div class='post-feed'>
+
+{% include group-post-list.html group="app-module" %}
+
+</div>
