@@ -73,11 +73,11 @@ Lastly, OKRs aren’t time-consuming to implement and follow through. For a coup
 
 To review:
 
-### What is an Objective?
+# WHAT IS AN OBJECTIVE
 
 An **Objective** describes the goal you need to achieve within a target date. It can be a personal goal, a team target, or a company’s vision and mission. Essentially, it jumpstarts the direction you are taking.
 
-### What are Key Results?
+# WHAT ARE KEY RESULTS
 
 **Key results** take all that inspirational language and quantify it. You set them by asking simple questions like, “How do we know if we have met our objective?”
 
