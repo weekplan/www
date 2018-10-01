@@ -68,54 +68,6 @@ The best part of weekly planning is that it reduces stress. Knowing what needs t
 
 {% include youtube.html id="7aBZWrrGKZI" %}
 
-# The 4 Quadrants of Time Management
-
-People do things differently, but do you know what most of us have in common? We do the most urgent things first, not considering if it’s the most important. You may say yes, it’s normal because that is how things are usually done. Truth is you’re wrong. Here’s why: There are classifications in everything you do in life. First is the urgency of the matter (urgent or not urgent) and second, by its importance (important or not important). We can then create these quadrants:
-
-**First are matters that are Important and Urgent**. These are things such as crises, emergencies or deadlines. Remember that business proposal you worked overtime because it’s due the next day? This is an example of a matter that should be done right now. But it was stressful, right? But remember it was given weeks before the deadline? This is to point out how important matters should be addressed before they become urgent to avoid stress and conflicts.
-
-**The second are matters that are Important but Not Urgent.** This is where you should focus and spend your time on. It is all about planning. Addressing these matters helps you do the task more effectively. And in doing so, you actually learn more out of those tasks. This is a quadrant of opportunities, opportunity to learn, to improve yourself or your relationship with people and seeing what’s in store for you.
-
-**Third are matters that are Not Important but Urgent**. This is where most of us sit. We tend to focus on matters that are urgent without thinking if it’s important. The problem with this is we lose track of the important matters. That phone call amidst your date with your wife, it deviates you from what you should be prioritizing at the moment. It affects your priorities just because it’s urgent.
-
-**Lastly are matters that are Not Important and Not Urgent.** Obviously, these are what they call time wasters. Thus, these are mostly matters you shouldn’t spend so much time on, like that mindless Facebook-scrolling or you binge-watching movies. These matters aren’t really that helpful to you so it would be useful to limit your time on these things.
-
-This decision matrix, also known as the 4 Quadrants of Time Management, is the brainchild of Dwight Eisenhower, the decorated army general and President of the United States. He said we should identify ourselves with several roles. You can be a husband, a mother, a daughter or a businessman.
-
-These roles can change though. They depend on what you consider as a priority. These priorities would serve as guides for the tasks at hand for each role. Let’s say your priority as of the moment is being a mother, you then spend more time taking care of your children.
-
-Additionally, other roles would need to cope up with the change in priority. Your awareness for each role and your priority lets you balance everything.
-
-All in all, Eisenhower’s purpose for the matrix is to achieve real progress in life. Life isn’t just about being an employee or a boss. It’s a mix of everything. By ensuring harmony between the roles, we can achieve our goals.
-
-# Put First Things First
-
-## Stephen Covey and the Eisenhower Matrix
-
-Put first things first ­— a phrase that’s easier said than done. In this busy world, it’s very easy to lose sight of your goals. And because it’s impossible to have just one task on your list, you need to keep your ducks in a row. So, how do you do this?
-
-There are different tools to help you put things first. But perhaps the best method is the Time Management Matrix, also known as the Eisenhower Matrix. It was created by the 34th President of the United States, Dwight D. Eisenhower.
-
-The matrix was later popularized by the late Stephen Covey in his best-selling book “The 7 Habits of Highly Effective People.” Covey integrated ways to resolve professional and personal difficulties, thus the division of daily activities into four quadrants.
-
-With this matrix, you will be able to identify urgent versus non-urgent and important versus non-important tasks. In other words, it lets you see the bigger picture, giving you the opportunity to prioritize what to do first and focus on the more important things in life, like personal growth and relationships.
-
-Covey incorporated this concept into what he called the third habit, which means to put things first. Putting first things first encourages you to adopt a way of life where life should be celebrated without compromising your responsibilities.
-
-## What is the 3rd Habit
-
-To fully understand the third habit, you need to revisit Stephen Covey’s first and second habits. The first habit talks about being proactive. Going after what you want in life. Being responsible for your behavior, result and growth. Knowing that you are accountable for the things you do.
-
-The second habit is, to begin with the end in mind. This means being able to envision the things you want in life. Like a building that needs a blueprint, you also need to contemplate on the things that you want to achieve.
-
-Now, this is where the third habit comes in. Putting first things first perfectly complements Habit 1 (be proactive) and Habit 2 (begin with an end in mind).
-
-So, what does Habit 3 mean? It means to act on your ideas, vision, and goals. Now that you have established a vision and taken responsibility for your life, it’s time to act.
-
-However, the third habit is not focused on a single goal. On the contrary, it’s geared toward long-term goals that reap tremendous benefits.
-
-Habit 3 is said to be the key to fulfillment. If you put more weight on the things that matter and make it a habit to live a life of value, you will have achieved greatness.
-
 # How to Move from Quadrant 1 to Quadrant 2
 
 ## How to Put First Things First
@@ -147,56 +99,6 @@ The simple example shows how the small rocks will adjust if you prioritize your 
 The irony of this is when you don’t follow through on your Q2 tasks, they would eventually turn into Q1 tasks. For instance, if you forget to exercise regularly, sooner or later you’ll feel unhealthy until an emergency situation will force you to try exercising again.
 
 Unless you want a constant crisis in your life, you must make it a habit to move quadrant 1 tasks to quadrant 2 tasks. Such is the importance of prioritizing your tasks.
-
-## How to Use the Eisenhower Matrix
-
-As mentioned, the Eisenhower Matrix is a tool to strategize, prioritize and simplify activities of daily living. It is divided into 4 quadrants which are measured according to urgency and importance. To review:
-
-·       Quadrant 1: Urgent and Important. This quadrant entails you to list down the things that need to be done immediately.
-
-·       Quadrant 2: Not Urgent but Important. This quadrant should be given more importance compared to the other three. This quadrant involves your core values and relationships. This also includes your long-term goals.
-
-·       Quadrant 3: Urgent but Not Important. These are tasks that you can delegate to someone else.
-
-·       Quadrant 4: Non-Urgent and Not Important. Here you will find activities that you can eliminate because they are complete time-wasters.
-
-Using the Eisenhower Matrix, you can now prioritize your tasks according to importance and urgency. Remember to focus on doing more Q2 tasks while limiting Q1 tasks.
-
-·       Quadrant 1: Do
-
-o   Tackling pain points and bottlenecks.
-
-o   Getting out of crisis or emergency situations.
-
-o   Finishing important and urgent tasks that will make or break you.
-
-·       Quadrant 2: Decide
-
-o   Committing yourself to daily meditation.
-
-o   Disciplining yourself to go to the gym every day.
-
-o   Saving 10% of your income every month to achieve financial independence.
-
-·       Quadrant 3: Delegate
-
-o   Answering calls or emails or inquiries on social media.
-
-o   Washing your car.
-
-o   Repetitive tasks.
-
-·       Quadrant 4: Delete
-
-o   Social media
-
-o   Watching TV
-
-o   Playing games.
-
-Based on the examples, you’ll see that quadrant 1 requires your immediate action. Meanwhile, quadrant 2 requires some planning and scheduling. Quadrant 3 tasks can be delegated while quadrant 4 tasks should be eliminated.
-
-If you follow this matrix on a weekly or daily basis, you’ll be able to sort through all your responsibilities and achieve what you really want.
 
 # Strategies to Stay More Focused
 
