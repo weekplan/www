@@ -93,3 +93,9 @@ The vision statement is future-oriented and it answers the question, “What do 
 * It’s present-oriented.
 
 {% include youtube.html id="b2MyaR0gMo0" %}
+
+<div class='post-feed'> 
+
+{% include group-post-list.html group="vision" %} 
+
+</div>
