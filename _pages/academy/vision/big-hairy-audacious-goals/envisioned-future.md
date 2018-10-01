@@ -1,12 +1,12 @@
 ---
 title: Envisioned Future
-layout: page
+layout: academy-page
 navigation: true
 comments: true
 date: 2018-09-30 00:00:00 +0000
 description: ''
 subtitle: ''
-author: ''
+author: aymeric
 cover: "/assets/images/uploads/10.png"
 keywords: ''
 class: ''
