@@ -44,5 +44,3 @@ Here are some steps to help you start journaling today.
  8. **Know when to stop**. Yah, I admit, this is where I struggle sometimes. But it can be too exhausting when you don’t know how to stop. That’s why you should bear in mind to put a limit when you’re writing. It can be how many pages, or how many sentences. It’s all up to you.
  9. **Reread what you’ve written, if you can.** Rereading your journal gives you an insight into your own thoughts and feelings. It rewires your initial reaction on the matters at hand and can help you with your decision making.
 10. **Keep writing. Keep going. Don’t stop.** Writing is a little hard at the beginning. There are times when you don’t know what to say or where to start. But it always gets easier the next time. You’ll eventually feel how calming it can be.
-
-<div class='post-feed'> {% include group-post-list.html group="journaling" %} </div>
