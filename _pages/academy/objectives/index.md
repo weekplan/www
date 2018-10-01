@@ -64,57 +64,26 @@ OKRs also enables employees to have a sense of pride and responsibility, knowing
 
 Lastly, OKRs aren’t time-consuming to implement and follow through. For a couple of hours each quarter, you are able to check your performance and assess your progress. So, it’s very easy to use.
 
+* Creates an organized dissemination of the companies’ goals to its employees.
+* Connects the higher management to its employees, enabling teamwork across the board.
+* Improves the employees’ focus, determination, and helps them assess their own work and align it with the company’s mission and vision.
+* Allows employees to have a sense of pride and responsibility, knowing that they are part of something huge.
+* Isn't time-consuming to implement and follow through.
+* Very easy to use.
+
 To review:
 
-**What is an Objective?**
+### What is an Objective?
 
 An **Objective** describes the goal you need to achieve within a target date. It can be a personal goal, a team target, or a company’s vision and mission. Essentially, it jumpstarts the direction you are taking.
 
-**What are Key Results?**
+### What are Key Results?
 
 **Key results** take all that inspirational language and quantify it. You set them by asking simple questions like, “How do we know if we have met our objective?”
 
 More than usual, **OKRs** are interchanged with several goal-setting frameworks which are alike in a lot of ways.
 
 {% include youtube.html id="L4N1q4RNi9I" %}
-
-# OKR VS GOALS
-
-An OKR is very similar to a goal, but very minor differences. Goals are usually nonspecific. They are encompassing. They drive you in a direction but without clear details and metrics on how to go about it.
-
-It’s like planning to go to a country but without clear details on the date and daily itinerary.
-
-The OKR approach allows very descriptive details on how to achieve the goals. Converting goals into OKRs is recommended for a few reasons.
-
-With an OKR, your Key Results can reflect a number of important metrics that you'll be setting targets for in order to achieve your Objective.
-
-Let’s discuss a few examples.
-
-A sales agent’s target is revenue of $30,000. That is the goal. Following the OKR framework, we divide this goal into two important components: a direction (grow revenue) and a target ($30,000). Your goals are specific, but you can split it into two that answers the questions “where do I want to go?” and “how will I know I’m getting there?”
-
-Another example of a goal is an increase in the number of restaurant branches in the metro. Using the OKR approach, the objective is an increase of restos in the metro. Our key results would be opening of 4 branches in the next 2 years.
-
-In this way, we are able to see if the goals are reached or not by checking whether the key results are met or not. Goals are reached effectively by following and checking on the OKR approach.
-
-Consequently, these two go hand in hand.
-
-# OKR VS KPI
-
-Key Performance Indicator or KPI is a type of performance measurement, aimed at evaluating the success of an ongoing process or particular activity.
-
-KPIs can apply to projects, programs, products, and a variety of other initiatives. They can measure the success of anything from sales goals to social media metrics.
-
-KPI measures the success, the output, quantity, or quality of an ongoing process or activity. Because of their complementary scope, OKRs and KPIs are natural companions.
-
-In other words: OKR and KPI work perfectly together.
-
-KPIs help monitor performance and identify problems and areas for improvement; OKRs help solve problems, improve processes, and drive innovation. You’ll need both.
-
-Here is an example:
-
-Let’s say you want to measure the success of your support team. You could create a KPI that measures the average reply time for incoming support ticket calls. If you agree with Support that the average reply time should be 30 minutes or less, you’ll be able to instantly see whether your target is met.
-
-As long as that is the case, you’re all good. But what if the KPI indicates the average reply time currently is 48 minutes? You probably want to create an Objective to improve customer support. How would you know you’ve improved it or not? Well, if the average reply time drops from 48 to 30 minutes. So that would be your Key Result. What will you do to make that happen? You may want to hire an extra support manager, streamline processes or implement another approach or initiative.
 
 # OKR VS BALANCED SCORECARD
 
