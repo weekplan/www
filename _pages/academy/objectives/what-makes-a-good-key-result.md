@@ -12,7 +12,6 @@ tags: []
 permalink: "/academy/objectives-key-results/what-makes-a-good-key-result"
 group: okrs
 group-order: 5
-published: false
 
 ---
 # WHAT MAKES A GOOD KEY RESULT
