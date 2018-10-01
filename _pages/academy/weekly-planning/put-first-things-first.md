@@ -36,9 +36,13 @@ Putting first things first encourages you to adopt a way of life where life shou
 
 To fully understand the third habit, you need to revisit Stephen Covey’s first and second habits. 
 
+{% include youtube.html id="sH6OFrHA7rU" %}
+
 The first habit talks about being proactive. Going after what you want in life. Being responsible for your behavior, result and growth. Knowing that you are accountable for the things you do.
 
 The second habit is, to begin with the end in mind. This means being able to envision the things you want in life. Like a building that needs a blueprint, you also need to contemplate on the things that you want to achieve.
+
+{% include youtube.html id="46XhE8rM3uY" %}
 
 Now, this is where the third habit comes in. Putting first things first perfectly complements Habit 1 (be proactive) and Habit 2 (begin with an end in mind).
 
