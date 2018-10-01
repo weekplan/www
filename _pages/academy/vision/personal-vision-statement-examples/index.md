@@ -52,7 +52,9 @@ It’s a compliment to the giant retailer’s vision statement:
 
 # EXAMPLES OF MISSION STATEMENTS
 
-# ![](/assets/images/uploads/mission-statements.png)DIFFERENCE BETWEEN A VISION STATEMENT AND A MISSION STATEMENT
+![](/assets/images/uploads/mission-statement-infographic.jpg)
+
+# DIFFERENCE BETWEEN A VISION STATEMENT AND A MISSION STATEMENT
 
 A vision statement is slightly different from a mission statement. Vision and mission are separate concepts. However, they are interdependent.
 
