@@ -41,3 +41,9 @@ Since things are changing faster than ever, and thus it’s vital we have metric
 Having said that, the four-perspective model of the Balanced Scorecard also provides substantial benefits: it forces an organization to think holistically about their business and how the objectives and measures spanning the four perspectives weave together to tell their unique strategic story.
 
 {% include youtube.html id="3MV_9B-8V-U" %}
+
+<div class='post-feed'>
+
+{% include group-post-list.html group="okrs" %}
+
+</div>
