@@ -52,7 +52,6 @@ Consistently planning your activities for the week can be a challenge, but with 
 * **Weekly planning also helps you maintain balance** in your schedule and in your life. All work and no play makes Jack a dull boy. Life isn’t just about work. It’s a balance of both work and play.
 * **Weekly planning makes you more productive**. Being productive doesn’t mean you’re always working though. It means you’re doing the right things. It’s being able to accomplish tasks correctly, not just finishing them, and being able to save time for other things.
 * **Weekly planning prevents you from experiencing crisis**, a critical point in which everything seems urgent and important. By planning your week, you’re actually saving yourself from a lot of headaches.
-* **Weekly planning tremendously reduces your stress levels**. It gives you a sense of peace knowing that a plan of action has been made.
 
 # How to Plan Your Week
 
@@ -67,7 +66,7 @@ There are different ways to plan your week. But here are a few strategies, taken
 
 The best part of weekly planning is that it reduces stress. Knowing what needs to be done at certain times eliminates worry, like did you forget anything that you should be doing? It’s all the little things.
 
-{% include youtube.html id="KNxLNY6yxRI" %}
+{% include youtube.html id="7aBZWrrGKZI" %}
 
 # The 4 Quadrants of Time Management
 
