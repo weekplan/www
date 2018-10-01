@@ -26,25 +26,24 @@ What’s it you ask? It’s the habit of weekly planning.
 
 # What is Weekly Planning?
 
-Weekly planning is the act of organizing your activities and tasks for the week. Ideally, you would do this on a Monday or a Sunday, with the help of tools such as a pen and paper, or an app that lives on your phone.
+Weekly planning is the act of organizing your activities and tasks for the week. 
 
-Weekly planning is an important activity that helps you track your responsibilities and commitments for the week. It can be as simple as writing a to-do list or as detailed as prioritizing tasks according to importance and urgency.
+Ideally, you would do this on a Monday or a Sunday, with the help of tools such as a pen and paper, or an app that lives on your phone.
+
+It can be as simple as writing a to-do list or as detailed as prioritizing tasks according to importance and urgency.
 
 Either way, planning your week will make you a more productive and effective person.
 
-·      Weekly planning is simply organizing events in your calendar ahead of time.
-
-·      It gives you an overview of the tasks at hand and provides you with control over it.
-
-·      Weekly planning lets you know your priorities and keeps you on track.
-
-·      It’s the art of dividing your time wisely so you would be able to do everything you need to do.
-
-·      It lets you juggle tasks, even trivial ones, along with long-term projects.
-
-·      Weekly planning organizes your goals like a ladder, doing tasks one step at a time that would then eventually lead to a greater goal.
+* Weekly planning is simply organizing events in your calendar ahead of time.
+* It gives you an overview of the tasks at hand and provides you with control over it.
+* Weekly planning lets you know your priorities and keeps you on track.
+* It’s the art of dividing your time wisely so you would be able to do everything you need to do.
+* It lets you juggle tasks, even trivial ones, along with long-term projects.
+* Weekly planning organizes your goals like a ladder, doing tasks one step at a time that would then eventually lead to a greater goal.
 
 In a nutshell, weekly planning organizes your life. Who doesn’t want that, right? That’s why weekly planning is important.
+
+{% include youtube.html id="7yMh2QNRc_M" %}
 
 # Why It’s Important to Plan Your Week
 
