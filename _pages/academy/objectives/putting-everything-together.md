@@ -29,7 +29,7 @@ Combining the two (Objective and Key Results), we now have effective OKR example
 
 ### Example 2: (For Companies/Departments):
 
-**Objective:**Increase in employee engagement
+\**Objective:**Increase in employee engagement
 
 **Key Results:**
 
@@ -48,3 +48,9 @@ Combining the two (Objective and Key Results), we now have effective OKR example
 The fundamentals of OKR may be old but is still very relevant up to this day. The framework has been spreading among individuals to companies and has significantly increased productivity.
 
 While there may have been more other approaches that claim better results and numbers, the OKR approach remains a very solid and reliable one.
+
+<div class='post-feed'> 
+
+{% include group-post-list.html group="okrs" %} 
+
+</div>
