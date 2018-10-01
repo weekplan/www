@@ -52,29 +52,7 @@ It’s a compliment to the giant retailer’s vision statement:
 
 # EXAMPLES OF MISSION STATEMENTS
 
-Facebook: “To give people the power to share and make the world more open and connected.”
-
-Instagram: “Capture and share the world’s moments.”
-
-Microsoft: “Empower people through great software anytime, anyplace, and on any device.”
-
-Sony: “To be a company that inspires and fulfills your curiosity.”
-
-Disney: “To make people happy.”
-
-Tesla: “To accelerate the world’s transition to sustainable energy.”
-
-IKEA: “To create a better everyday life for many people.”
-
-Oracle: “We help you simplify your IT environment so that you can free up money, time and resources to invest in innovation. We do this by providing a comprehensive and fully integrated stack of cloud applications, platform services and engineered systems.”
-
-StarBucks: “To inspire and nurture the human spirit — one person, one cup and one neighborhood at a time.”
-
-WeWork: “Create a world where people work to make a life, not just a living.”
-
-Zappos: “To provide the best customer service possible. Deliver “WOW” through service.”
-
-# DIFFERENCE BETWEEN A VISION STATEMENT AND A MISSION STATEMENT
+# ![](/assets/images/uploads/mission-statements.png)DIFFERENCE BETWEEN A VISION STATEMENT AND A MISSION STATEMENT
 
 A vision statement is slightly different from a mission statement. Vision and mission are separate concepts. However, they are interdependent.
 
@@ -94,8 +72,8 @@ The vision statement is future-oriented and it answers the question, “What do 
 
 {% include youtube.html id="b2MyaR0gMo0" %}
 
-<div class='post-feed'> 
+<div class='post-feed'>
 
-{% include group-post-list.html group="vision" %} 
+{% include group-post-list.html group="vision" %}
 
 </div>
