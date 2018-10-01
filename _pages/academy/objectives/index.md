@@ -1,6 +1,6 @@
 ---
 layout: academy-page
-title: Set your Objectives
+title: Set Your Objectives
 crumbtitle: OKRs
 navigation: true
 class: post-template
