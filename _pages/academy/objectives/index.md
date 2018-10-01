@@ -44,6 +44,8 @@ The **Objective** sets a goal for a period of time, for example, a quarter.
 
 The **Key Results** then measure if the **Objective** has been met at the end of the time frame.
 
+{% include youtube.html id="yHpMuY59Pbs" %}
+
 # HISTORY
 
 OKRs date back to 1954 during the invention of **Management by Objectives (MBO)** by Peter Drucker, which was later on adopted by several companies like Intel, Google, and Twitter.
