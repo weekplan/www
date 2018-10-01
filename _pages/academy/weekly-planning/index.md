@@ -18,9 +18,7 @@ Unless you’ve been living under a rock, you have responsibilities to fulfill.
 
 From small things like walking your dog up to major milestones like starting a company, there are times when things get a little rough and you struggle to do tasks at hand. 
 
-You’re not alone. 
-
-The good news is you can master one skill that can change everything.
+You’re not alone. The good news is you can master one skill that can change everything.
 
 What’s it you ask? It’s the habit of weekly planning.
 
