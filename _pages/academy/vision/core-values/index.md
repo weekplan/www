@@ -119,3 +119,9 @@ Below is a list of core values that are commonly used by leaders and companies.
 * Trustworthiness
 * Wealth
 * Wisdom
+
+<div class='post-feed'> 
+
+{% include group-post-list.html group="vision" %} 
+
+</div>
