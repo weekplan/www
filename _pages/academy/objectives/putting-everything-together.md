@@ -24,8 +24,8 @@ Combining the two (Objective and Key Results), we now have effective OKR example
 
 **Key results:**
 
-1. 10%      increase in stamina for long distance runners
-2. 5%      increase in speed of sprinters
+1. 10% increase in stamina for long distance runners
+2. 5% increase in speed of sprinters
 
 ### Example 2: (For Companies/Departments):
 
