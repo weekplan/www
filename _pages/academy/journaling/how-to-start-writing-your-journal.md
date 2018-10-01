@@ -22,15 +22,15 @@ Write about all the things you are thankful for in your life, start at even the 
 
 Write your appreciation for all the people around you, for that man who gave up his seat for you at the bus, that old lady that gave you a smile when you crossed the road, your wife who called you just to say I love you.
 
-When you write, be honest. This is a cardinal rule in journal writing. Be honest with whatever is happening in your life and how you’re feeling about it. 
+When you write, be honest. This is a cardinal rule in journal writing. Be honest with whatever is happening in your life and how you’re feeling about it.
 
 There might be things you don’t like. Still, write it down. It would help you make amends with the things that are bothering you.
 
-Lastly, always incorporate your goals and aspirations in your first journal entry. After making amends with the things that are bothering you, move forward and work on the things you want. 
+Lastly, always incorporate your goals and aspirations in your first journal entry. After making amends with the things that are bothering you, move forward and work on the things you want.
 
 Start building what you want in your future, today. The key is to start now.
 
-## Steps to Write a Journal
+# Steps to Write a Journal
 
 Here are some steps to help you start journaling today.
 
