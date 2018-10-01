@@ -59,24 +59,6 @@ There are definitely several benefits journaling can provide you. Here are some:
 * Journaling helps in daily recovery. What does this mean? Do you know people who work very hard and always have a hard time putting down work to be able to enjoy quality time with the family? Are you one of them? Well, journaling becomes somewhat of a therapy for you. It tells your mind that you’ve accomplished work today and it’s time to do something else. It’s just to relax and let go of all the paperwork.
 * Journaling increases your gratitude. When you write about all the things that have been happening in your life and all the emotions that go with those experiences, you realize how many blessings you receive every day. These realizations help you feel more grateful for everything that’s happening in your life, leaving you with a much more positive outlook.
 
-# What is Cogitorama
-
-If you find journaling to be a little complicated and hard, then there’s a better option for you. Enter Cogiteroma, a different way to increase your self-awareness. It’s more like the Twitter of journaling.
-
-Cogitoroma was created Aymeric Gaurat-Apelli, a software engineer turned entrepreneur who founded Week Plan. According to Aymeric, the concept of Cogitoroma was born when found himself too lazy to write journal entries as a student.
-
-The name is derived from the Latin “cogito” which means “thought” and “orama” which is the Greek word for “see.”
-
-For starters, write a few keywords that best describe your thoughts, feelings, and experiences at the moment.
-
-So, for example, if you had a productive day at work, you would write: +productive day +meetings +closed deals -long day -no time for exercise.
-
-Or, if you’re feeling a bit overwhelmed, you would write: -overwhelmed -stressed +talked to someone who offered help +found way to solve the problem.
-
-If you notice, each keyword has a plus (+) and minus (-) sign. They describe how each keyword impacts you, whether positively or negatively. Get it? It’s quite simple. And it’s much easier than writing an entire journal.
-
-The point of cogitorama is to remove the pressure of having to write a journal. With it, you can document your day in a minute. No need to spend hours thinking about what to write. Try it.
-
 <div class='post-feed'>
 {% include group-post-list.html group="journaling" %}
 </div>
