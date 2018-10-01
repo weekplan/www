@@ -18,7 +18,7 @@ group-order: 4
 
 First, the **Objective** should help in achieving the company goals and should be aligned with the corporate strategy or its vision.
 
-You start by defining 3 to 5 objectives of the company, team or personal levels. 
+You start by defining 3 to 5 objectives of the company, team or personal levels.
 
 Based on the earlier information, objectives should be qualitative, time-bound, and actionable by the person or team.
 
@@ -31,9 +31,3 @@ Following the rules, here we have a few examples.
 * If we take this objective ‘’make our web application better,‘’ this objective is not definite. To make it effective, you should be specific on what you want to improve on. You can write another form of this objective to ‘’Reduce the time spent by our client to setup their account to 2 minutes’’, which is significantly more specific and distinct.
 * Instead of saying “improve marketing team”, you can do better by saying “Improve marketers ability for writing article entries and social media posts ” so you can create several strategies later on.
 * To make the objective measurable, “make a lot of money” can be translated to “Grow revenue by 15%” so that the key results have metrics put into place. It would be easier to compare the outcome by checking on the objectives first.
-
-<div class='post-feed'>
-
-{% include group-post-list.html group="okrs" %}
-
-</div>
