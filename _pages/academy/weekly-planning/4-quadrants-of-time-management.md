@@ -26,7 +26,7 @@ First is the urgency of the matter (urgent or not urgent) and second, by its imp
 
 We can then create these quadrants:
 
-![](/assets/images/uploads/time-matrix.jpg)
+![](/assets/images/uploads/time-matrix-edited.jpg)
 
 1. **First are matters that are Important and Urgent**. These are things such as crises, emergencies or deadlines. Remember that business proposal you worked overtime because it’s due the next day? This is an example of a matter that should be done right now. But it was stressful, right? But remember it was given weeks before the deadline? This is to point out how important matters should be addressed before they become urgent to avoid stress and conflicts.
 2. **The second are matters that are Important but Not Urgent.** This is where you should focus and spend your time on. It is all about planning. Addressing these matters helps you do the task more effectively. And in doing so, you actually learn more out of those tasks. This is a quadrant of opportunities, opportunity to learn, to improve yourself or your relationship with people and seeing what’s in store for you.
