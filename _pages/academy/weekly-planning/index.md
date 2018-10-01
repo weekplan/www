@@ -68,38 +68,6 @@ The best part of weekly planning is that it reduces stress. Knowing what needs t
 
 {% include youtube.html id="7aBZWrrGKZI" %}
 
-# How to Move from Quadrant 1 to Quadrant 2
-
-## How to Put First Things First
-
-The secret to weekly planning is to make priorities. It’s clear that working on your priorities with the bigger picture in mind (quadrant 2 tasks) contributes to your personal and professional growth. Everything else will follow.
-
-A perfect example is the big rock-small rock principle. Imagine your life is a jar. If you put in the big rocks first, the smaller rocks will settle in the cracks, allowing them to fit into the jar. It’s pretty much like how urgent things work their way through major tasks in real life.
-
-To illustrate, here’s a run through of a day with the “first things first” principle in mind. Note that this involves moving tasks from quadrant 1 to quadrant 2.
-
-1\.     First, you determine the bigger goals you want to achieve in life. For example:
-
-·       I want to be more focused
-
-·       I want to improve my physical health
-
-·       I want to become the best version of myself
-
-2\.     After determining your goals, you start your day with the “big rocks” in mind. Following our example above, you will:
-
-·       Practice meditation after waking up. Starting your day right will determine how the rest of your day will go. Meditation creates calmness and clarity, which makes you more productive.
-
-·       After meditating, it’s time to do some exercises to improve your physical health. This is important for you to feel alert and active throughout the day.
-
-·       To become the best version of yourself, you’d want to dress up accordingly and present yourself neatly. This boosts your confidence and self-esteem.
-
-The simple example shows how the small rocks will adjust if you prioritize your big rocks first. This means focusing on your Q2 tasks ­— tasks that are important but not urgent — rather than the urgent and important tasks (Q1).
-
-The irony of this is when you don’t follow through on your Q2 tasks, they would eventually turn into Q1 tasks. For instance, if you forget to exercise regularly, sooner or later you’ll feel unhealthy until an emergency situation will force you to try exercising again.
-
-Unless you want a constant crisis in your life, you must make it a habit to move quadrant 1 tasks to quadrant 2 tasks. Such is the importance of prioritizing your tasks.
-
 # Strategies to Stay More Focused
 
 Now that you’ve assimilated the elements of weekly planning, such as the habit of putting first things first, you need to master the art of staying focused to consistently nail your goals. But how do you stay more focused? Here are some strategies to keep your eyes on the prize.
