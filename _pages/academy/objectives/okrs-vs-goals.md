@@ -12,8 +12,8 @@ permalink: "/academy/objectives-key-results/okrs-vs-goals"
 description: ''
 crumbtitle: OKRs vs Goals
 group: okrs
-group-order: 2
-published: false
+group-order: 1
+author: ''
 
 ---
 # OKR VS GOALS
