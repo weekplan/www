@@ -12,7 +12,6 @@ tags: []
 permalink: "/academy/journaling/how-to-start-journaling"
 group: journaling
 group-order: 2
-published: false
 
 ---
 # How to Start Journaling
