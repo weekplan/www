@@ -59,42 +59,6 @@ There are definitely several benefits journaling can provide you. Here are some:
 * Journaling helps in daily recovery. What does this mean? Do you know people who work very hard and always have a hard time putting down work to be able to enjoy quality time with the family? Are you one of them? Well, journaling becomes somewhat of a therapy for you. It tells your mind that you’ve accomplished work today and it’s time to do something else. It’s just to relax and let go of all the paperwork.
 * Journaling increases your gratitude. When you write about all the things that have been happening in your life and all the emotions that go with those experiences, you realize how many blessings you receive every day. These realizations help you feel more grateful for everything that’s happening in your life, leaving you with a much more positive outlook.
 
-## How to Start Journaling
-
-How do you start writing a journal? Well, it’s simple — decide to do so. It’s where everything starts. It’s when you tell yourself, “I want to do this.”
-
-Write about all the things you are thankful for in your life, start at even the little things like waking up to a beautiful morning today, the smell of coffee and breakfast when you got out of your room or even that traffic-less ride to work.
-
-Write your appreciation for all the people around you, for that man who gave up his seat for you at the bus, that old lady that gave you a smile when you crossed the road, your wife who called you just to say I love you.
-
-When you write, be honest. This is a cardinal rule in journal writing. Be honest with whatever is happening in your life and how you’re feeling about it. There might be things you don’t like. Still, write it down. It would help you make amends with the things that are bothering you.
-
-Lastly, always incorporate your goals and aspirations in your first journal entry. After making amends with the things that are bothering you, move forward and work on the things you want. Start building what you want in your future, today. The key is to start now.
-
-## Steps to Write a Journal
-
-Here are some steps to help you start journaling today.
-
-·      Choose where to write your journal. You can opt for a notebook or your laptop, whichever works for you.
-
-·      If you chose to write your journal in a paper, choose a writing material. You can never go wrong with your favorite colored pens for your different moods and crazy ideas.
-
-·      Set up a routine. It’s very important to include journaling in your schedule. Do it after you wake up or before you sleep. Make it a routine and stick with it.
-
-·      Choose a setting that's conducive to writing. Go somewhere where you feel like writing. Grab a hot drink, play that music on. Get yourself in the mood for writing.
-
-·      Date your entry. This can be a hassle but putting dates on your journal can be very helpful in the long run. Like determining what happened last week that might affect your feelings this week.
-
-·      Start writing. Just do it. I know you always say you will today but can’t seem to start. You are not alone. But how can you enjoy writing when you can’t even start right? So start now.
-
-·      Be creative. Don’t just write in your journal like your writing a log book. Write with feelings and thoughts. Try different methods like writing it in a form of poem or screenplay. You can draw on it, color it. Make it yours.
-
-·      Know when to stop. Yah, I admit, this is where I struggle sometimes. But it can be too exhausting when you don’t know how to stop. That’s why you should bear in mind to put a limit when you’re writing. It can be how many pages, or how many sentences. It’s all up to you.
-
-·      Reread what you’ve written, if you can. Rereading your journal gives you an insight into your own thoughts and feelings. It rewires your initial reaction on the matters at hand and can help you with your decision making.
-
-·      Keep writing. Keep going. Don’t stop. Writing is a little hard at the beginning. There are times when you don’t know what to say or where to start. But it always gets easier the next time. You’ll eventually feel how calming it can be.
-
 # What is Cogitorama
 
 If you find journaling to be a little complicated and hard, then there’s a better option for you. Enter Cogiteroma, a different way to increase your self-awareness. It’s more like the Twitter of journaling.
