@@ -42,13 +42,21 @@ And, concentration comes with discipline. If we avoid distractions and time wast
 
 ## **4. Manage your energy**
 
-They say that time management is all about energy management. That’s why it’s best to know the amount of energy you need to use and when exactly to use them so you can distribute your energy in a timely manner. Do not multitask. You’ll end up exhausted and not getting things done by the end of the day.
+They say that time management is all about energy management. 
+
+That’s why it’s best to know the amount of energy you need to use and when exactly to use them so you can distribute your energy in a timely manner. 
+
+Do not multitask. You’ll end up exhausted and not getting things done by the end of the day.
 
 ## **5. Set reminders for your most important priorities**
 
-The necessary tasks come first. You should be consistent in terms of what to prioritize until it becomes a habit. But it’s easier said than done because it’s very easy to forget your priorities. This is where reminders come in.
+The necessary tasks come first. You should be consistent in terms of what to prioritize until it becomes a habit. 
 
-Set reminders for your priorities. You can do this by leveraging the power of your smartphone or laptop. There are plenty of apps that you can download to help you get started.
+But it’s easier said than done because it’s very easy to forget your priorities. This is where reminders come in.
+
+Set reminders for your priorities. You can do this by leveraging the power of your smartphone or laptop. 
+
+There are plenty of apps that you can download to help you get started.
 
 ## **6. Write a not-to-do list**
 
@@ -60,35 +68,59 @@ When you write a not-to-do list, you’re freeing yourself from things that coul
 
 ## **7. Practice meditation**
 
-Meditation is one of the best ways to improve your focus. It calms your mind, renews your energy, and keeps you focused on what truly matters. Studies show that meditation eliminates stress and prevents you from experiencing a breakdown. Consider taking yoga lessons or try installing meditation apps on your phone.
+Meditation is one of the best ways to improve your focus. It calms your mind, renews your energy, and keeps you focused on what truly matters. 
+
+Studies show that meditation eliminates stress and prevents you from experiencing a breakdown. 
+
+Consider taking yoga lessons or try installing meditation apps on your phone.
 
 ## **8. Practice essentialism**
 
-Essentialism is the deliberate practice of saying no and focusing only on what is truly important. It focuses on the priority, not the priorities. It’s about doing less, not more.
+Essentialism is the deliberate practice of saying no and focusing only on what is truly important. 
 
-Greg McKeown puts it best: “_Essentialism is not about how to get more things done, it’s about how to get the right things done. It doesn’t mean just doing less for the sake of less either. It is about making the wisest possible investment of your time and energy in order to operate at our highest point of contribution by doing what is only essential_.”
+It focuses on the priority, not the priorities. It’s about doing less, not more.
+
+Greg McKeown puts it best: 
+
+> “_Essentialism is not about how to get more things done, it’s about how to get the right things done. It doesn’t mean just doing less for the sake of less either. It is about making the wisest possible investment of your time and energy in order to operate at our highest point of contribution by doing what is only essential_.”
 
 ## **9. Exercise**
 
-In addition to meditation, exercise is a great way to improve your focus. Moving around circulates blood throughout your body, especially to your brain, which gets to function the most. Exercise releases endorphins or ‘happy hormones’ which make you alert and active all day.
+In addition to meditation, exercise is a great way to improve your focus. 
+
+Moving around circulates blood throughout your body, especially to your brain, which gets to function the most. 
+
+Exercise releases endorphins or ‘happy hormones’ which make you alert and active all day.
 
 ## **10. Try the Pomodoro Technique**
 
-The Pomodoro Technique is a time management method developed by Francesco Cirillo in the late 1980s. This method uses a timer and breaks down tasks with an allotted time of 25 minutes each with short breaks in between. There are applications in some websites that you could download and if you want to learn more about how this technique is done.
+The Pomodoro Technique is a time management method developed by Francesco Cirillo in the late 1980s. 
+
+This method uses a timer and breaks down tasks with an allotted time of 25 minutes each with short breaks in between. 
+
+There are applications in some websites that you could download and if you want to learn more about how this technique is done.
 
 ## **11. Avoid multitasking**
 
-Multitasking is a big NO if you want to stay laser-focused on our goals. Juggling too many tasks altogether drains your energy and diverts your attention, making room for distractions. Most likely, you’d end up not completing your tasks for the day.
+Multitasking is a big NO if you want to stay laser-focused on our goals. 
+
+Juggling too many tasks altogether drains your energy and diverts your attention, making room for distractions. 
+
+Most likely, you’d end up not completing your tasks for the day.
 
 ## **12. Say no**
 
 The yes guy appears accommodating and helpful, but deep inside, he’s super stressed, tired and out of focus. The lesson? Don’t be a yes guy. Say a lot of noes.
 
-When you know you can’t do it effectively and efficiently, just simply say no. A single task perfectly executed is always better than a good number of flawed and unfinished ones.
+When you know you can’t do it effectively and efficiently, just simply say no. 
+
+A single task perfectly executed is always better than a good number of flawed and unfinished ones.
 
 ## **13. Work offline**
 
-While technology has connected us to the world, it left many of us distracted. That’s why it’s important to use technology only to your advantage. In other words, use technology only when it benefits you.
+While technology has connected us to the world, it left many of us distracted. That’s why it’s important to use technology only to your advantage. 
+
+In other words, use technology only when it benefits you.
 
 Social media, online games, on-demand music, sand videos are perfect examples of the ironies of technology. If you want to supercharge your focus, try working offline.
 
@@ -96,6 +128,10 @@ Go to some place where there is no Internet. You’ll be amazed at how effective
 
 ## Summary
 
-All of these tactics are effective in helping you stay more focused. Use them consistently until such time that doing them becomes spontaneous like breathing. Finally, make them _good habits that die hard_.
+All of these tactics are effective in helping you stay more focused.
+
+Use them consistently until such time that doing them becomes spontaneous like breathing. 
+
+Finally, make them _good habits that die hard_.
 
 <div class='post-feed'> {% include group-post-list.html group="weekly-planning" %} </div>
