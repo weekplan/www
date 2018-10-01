@@ -30,6 +30,8 @@ Lastly, always incorporate your goals and aspirations in your first journal entr
 
 Start building what you want in your future, today. The key is to start now.
 
+{% include youtube.html id="osX0lNALZVs" %}
+
 # Steps to Write a Journal
 
 Here are some steps to help you start journaling today.
