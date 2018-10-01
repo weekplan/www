@@ -2,7 +2,7 @@
 title: How to Start Writing Your Journal
 date: 2018-10-01 00:00:00 +0000
 layout: academy-page
-cover: ''
+cover: "/assets/images/uploads/23.png"
 author: aymeric
 navigation: true
 class: post-template
