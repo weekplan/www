@@ -16,13 +16,13 @@ group-order: 1
 ---
 # The 4 Quadrants of Time Management
 
-People do things differently, but do you know what most of us have in common? 
+People do things differently, but do you know what most of us have in common?
 
-We do the most urgent things first, not considering if it’s the most important. You may say yes, it’s normal because that is how things are usually done. 
+We do the most urgent things first, not considering if it’s the most important. You may say yes, it’s normal because that is how things are usually done.
 
-Truth is you’re wrong. Here’s why: There are classifications in everything you do in life. 
+Truth is you’re wrong. Here’s why: There are classifications in everything you do in life.
 
-First is the urgency of the matter (urgent or not urgent) and second, by its importance (important or not important). 
+First is the urgency of the matter (urgent or not urgent) and second, by its importance (important or not important).
 
 We can then create these quadrants:
 
@@ -33,11 +33,11 @@ We can then create these quadrants:
 3. **Third are matters that are Not Important but Urgent**. This is where most of us sit. We tend to focus on matters that are urgent without thinking if it’s important. The problem with this is we lose track of the important matters. That phone call amidst your date with your wife, it deviates you from what you should be prioritizing at the moment. It affects your priorities just because it’s urgent.
 4. **Lastly are matters that are Not Important and Not Urgent.** Obviously, these are what they call time wasters. Thus, these are mostly matters you shouldn’t spend so much time on, like that mindless Facebook-scrolling or you binge-watching movies. These matters aren’t really that helpful to you so it would be useful to limit your time on these things.
 
-This decision matrix, also known as the 4 Quadrants of Time Management, is the brainchild of Dwight Eisenhower, the decorated army general and President of the United States. 
+This decision matrix, also known as the 4 Quadrants of Time Management, is the brainchild of Dwight Eisenhower, the decorated army general and President of the United States.
 
 He said we should identify ourselves with several roles. You can be a husband, a mother, a daughter or a businessman.
 
-These roles can change though. They depend on what you consider as a priority. These priorities would serve as guides for the tasks at hand for each role. 
+These roles can change though. They depend on what you consider as a priority. These priorities would serve as guides for the tasks at hand for each role.
 
 Let’s say your priority as of the moment is being a mother, you then spend more time taking care of your children.
 
@@ -46,5 +46,3 @@ Additionally, other roles would need to cope up with the change in priority. You
 All in all, Eisenhower’s purpose for the matrix is to achieve real progress in life. Life isn’t just about being an employee or a boss. It’s a mix of everything. By ensuring harmony between the roles, we can achieve our goals.
 
 {% include youtube.html id="WMcc95tWflI" %}
-
-<div class='post-feed'> {% include group-post-list.html group="weekly-planning" %} </div>
