@@ -18,7 +18,7 @@ author: ''
 ---
 # OKR VS GOALS
 
-An OKR is very similar to a goal, but with very minor differences. 
+An OKR is very similar to a goal, but with very minor differences.
 
 Goals are usually nonspecific. They are encompassing. They drive you in a direction but without clear details and metrics on how to go about it.
 
@@ -30,19 +30,21 @@ With an OKR, your Key Results can reflect a number of important metrics that yo
 
 Let’s discuss a few examples.
 
-A sales agent’s target is revenue of $30,000. That is the goal. Following the OKR framework, we divide this goal into two important components: a direction (grow revenue) and a target ($30,000). 
+A sales agent’s target is revenue of $30,000. That is the goal. Following the OKR framework, we divide this goal into two important components: a direction (grow revenue) and a target ($30,000).
 
 Your goals are specific, but you can split it into two that answers the questions “where do I want to go?” and “how will I know I’m getting there?”
 
-Another example of a goal is an increase in the number of restaurant branches in the metro. 
+Another example of a goal is an increase in the number of restaurant branches in the metro.
 
 Using the OKR approach, the objective is an increase of restos in the metro. Our key results would be opening of 4 branches in the next 2 years.
 
-In this way, we are able to see if the goals are reached or not by checking whether the key results are met or not. 
+In this way, we are able to see if the goals are reached or not by checking whether the key results are met or not.
 
 Goals are reached effectively by following and checking on the OKR approach.
 
 Consequently, these two go hand in hand.
+
+{% include youtube.html id="IDob4Keokb8" %}
 
 <div class='post-feed'>
 
