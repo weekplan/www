@@ -33,8 +33,8 @@ To define your own Envisioned Future, review your vision, core values, and BHAGs
 
 Whether it’s selling your startup to a major industry player for billions of dollars or marrying your childhood sweetheart in a tropical paradise, having a clear Envisioned Future allows you to set strategic plans to achieve your BHAGs.
 
-<div class='post-feed'> 
+<div class='post-feed'>
 
-{% include group-post-list.html group="vision" %} 
+{% include group-post-list.html group="app-module" %}
 
 </div>
