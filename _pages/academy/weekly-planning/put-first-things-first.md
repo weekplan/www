@@ -83,5 +83,3 @@ The irony of this is when you don’t follow through on your Q2 tasks, they woul
 For instance, if you forget to exercise regularly, sooner or later you’ll feel unhealthy until an emergency situation will force you to try exercising again.
 
 Unless you want a constant crisis in your life, you must make it a habit to move quadrant 1 tasks to quadrant 2 tasks. Such is the importance of prioritizing your tasks.
-
-<div class='post-feed'> {% include group-post-list.html group="weekly-planning" %} </div>
