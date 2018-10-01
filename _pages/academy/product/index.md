@@ -19,3 +19,5 @@ Sorry, but this page under construction. We're working on it.
 <div class='post-feed'>
 {% include group-post-list.html group="product-help" %}
 </div>
+
+<div class='post-feed'> {% include group-post-list.html group="app-module" %} </div>
