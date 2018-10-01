@@ -11,6 +11,7 @@ categories: []
 tags: []
 group: vision
 group-order: 3
+cover: "/assets/images/uploads/11-1.png"
 
 ---
 # ![](/assets/images/uploads/11-1.png)WHAT IS A MISSION STATEMENT
