@@ -67,9 +67,9 @@ fields:
   hidden: false
   default: ''
 pages:
+- _pages/academy/objectives/okrs-vs-kpis.md
 - _pages/academy/objectives/okrs-vs-bsc.md
 - _pages/academy/objectives/okrs-vs-goals.md
-- _pages/academy/objectives/okrs-vs-kpis.md
 - _pages/academy/vision/big-hairy-audacious-goals/envisioned-future.md
 - _pages/academy/vision/personal-vision-statement-examples/index.md
 - _pages/academy/vision/personal-vision-statement/index.md

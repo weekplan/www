@@ -41,3 +41,9 @@ How would you know you’ve improved it or not? Well, if the average reply time 
 What will you do to make that happen? You may want to hire an extra support manager, streamline processes or implement another approach or initiative.
 
 {% include youtube.html id="tttoOmnwhPw" %}
+
+<div class='post-feed'>
+
+{% include group-post-list.html group="okrs" %}
+
+</div>
