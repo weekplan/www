@@ -62,13 +62,13 @@ A perfect example is the big rock-small rock principle. Imagine your life is a j
 
 To illustrate, here’s a run through of a day with the “first things first” principle in mind. Note that this involves moving tasks from quadrant 1 to quadrant 2.
 
-1. First, you determine the bigger goals you want to achieve in life. For example:
+First, you determine the bigger goals you want to achieve in life. For example:
 
 * I want to be more focused
 * I want to improve my physical health
 * I want to become the best version of myself
 
-1. After determining your goals, you start your day with the “big rocks” in mind. Following our example above, you will:
+After determining your goals, you start your day with the “big rocks” in mind. Following our example above, you will:
 
 * Practice meditation after waking up. Starting your day right will determine how the rest of your day will go. Meditation creates calmness and clarity, which makes you more productive.
 * After meditating, it’s time to do some exercises to improve your physical health. This is important for you to feel alert and active throughout the day.
