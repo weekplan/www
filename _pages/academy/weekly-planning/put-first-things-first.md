@@ -52,7 +52,7 @@ However, the third habit is not focused on a single goal. On the contrary, it’
 
 Habit 3 is said to be the key to fulfillment. If you put more weight on the things that matter and make it a habit to live a life of value, you will have achieved greatness.
 
-## How to Put First Things First
+# How to Put First Things First
 
 The secret to weekly planning is to make priorities. It’s clear that working on your priorities with the bigger picture in mind (quadrant 2 tasks) contributes to your personal and professional growth. Everything else will follow.
 
