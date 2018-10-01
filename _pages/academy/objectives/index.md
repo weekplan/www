@@ -14,7 +14,9 @@ group-order: 2
 cover: "/assets/images/uploads/4.png"
 
 ---
-Goal setting methods have increased in number and relevance over the past couple of years. This is large due to the emergence of new companies and organizations pushing to thrive in this competitive world. 
+Goal setting methods have increased in number and relevance over the past couple of years. 
+
+This is largely due to the emergence of new companies and organizations pushing to thrive in this competitive world. 
 
 That's why it’s crucial to find new ways to measure your work on a regular basis. 
 
