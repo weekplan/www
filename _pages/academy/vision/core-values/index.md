@@ -11,9 +11,10 @@ categories: []
 tags: []
 group: vision
 group-order: 1
+cover: "/assets/images/uploads/6-2.png"
 
 ---
-# ![](/assets/images/uploads/6-2.png)WHAT ARE CORE VALUES
+# WHAT ARE CORE VALUES
 
 Core values are the principles that serve as your guiding philosophy. People with values have greater purpose and fulfilment in their lives.
 
@@ -120,8 +121,8 @@ Below is a list of core values that are commonly used by leaders and companies.
 * Wealth
 * Wisdom
 
-<div class='post-feed'> 
+<div class='post-feed'>
 
-{% include group-post-list.html group="vision" %} 
+{% include group-post-list.html group="vision" %}
 
 </div>

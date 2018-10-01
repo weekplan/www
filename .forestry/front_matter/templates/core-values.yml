@@ -67,4 +67,5 @@ fields:
   hidden: false
   default: ''
 pages:
+- _pages/academy/vision/core-values/index.md
 - _pages/academy/objectives/okrs-vs-goals.md
