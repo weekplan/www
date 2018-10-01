@@ -16,11 +16,11 @@ cover: "/assets/images/uploads/1.png"
 ---
 # What is Journaling
 
-When people ask me how I started writing, I always remember the first time I attempted to write in my journal. 
+When people ask me how I started writing, I always remember the first time I attempted to write in my journal.
 
 Well, I didn’t know what to write back then. It’s funny how I came a long way from not knowing what to write, to not knowing when to stop writing.
 
-My journal became my best friend. 
+My journal became my best friend.
 
 There are actually several types of journals you can try; one is a **daily journal** where you can write memorable moments in your life. Those giddy moments when you got your dog, that promotion at work you didn’t expect, those late-night rendezvous with someone special. Those things you experience and truly treasure.
 
@@ -32,23 +32,23 @@ Then, there are **travel journals** for your wild adventures. They’re a docume
 
 There are different kinds of journals you can try, but journaling is just really about you, your life, your thoughts, and feelings rolled into words.
 
-## The Importance of Journaling
+# The Importance of Journaling
 
 I’ve always loved journaling; it became an escape route for me. Although we have different stories, one thing is for sure: we all had our fair share of trials in our lives. Experiences we don’t necessarily like but has made us stronger.
 
-Writing can help you cope up with your feelings. 
+Writing can help you cope up with your feelings.
 
-It may be anger for certain things or sadness from happenings you can’t control. It has the power to help you heal from all the feelings. Free you up from whatever is keeping you from moving on. 
+It may be anger for certain things or sadness from happenings you can’t control. It has the power to help you heal from all the feelings. Free you up from whatever is keeping you from moving on.
 
 It can clear your mind and provide you with an awareness of what’s in hand for you. The secret is to write from your heart. It may sound very cliché, but it’s actually true.
 
 Write your heart out unto your journal. Be honest about how you feel, write, like no one’s going to read. Being honest with everything that’s happening in your life, would certainly give you that sense of freedom.
 
-We are nowhere near perfect, we make mistakes and we sometimes think and feel the way we shouldn’t. We tend to lie in front of others. We put up different facades to keep up with the norms. That’s where our journals can help. 
+We are nowhere near perfect, we make mistakes and we sometimes think and feel the way we shouldn’t. We tend to lie in front of others. We put up different facades to keep up with the norms. That’s where our journals can help.
 
 There, you can be yourself. Say whatever you want to say. Be whoever you want to be, and no one will judge you for it.
 
-## Benefits of Writing a Journal
+# Benefits of Writing a Journal
 
 There are definitely several benefits journaling can provide you. Here are some:
 
