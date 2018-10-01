@@ -32,9 +32,7 @@ OKRs is a favorite tool for setting expectations and measuring results at organi
 
 So, what are OKRs? In a nutshell:
 
-![](/assets/images/uploads/okrs.png)
-
-An **Objective** is a description of a goal to be achieved in the future. It sets a clear direction and provides motivation. It’s also similar to a destination on a map.
+![](/assets/images/uploads/okrs.jpg)An **Objective** is a description of a goal to be achieved in the future. It sets a clear direction and provides motivation. It’s also similar to a destination on a map.
 
 A **Key Result** is a metric with a starting value and a target value that measures progress towards an **Objective**. A **Key Result** is like a signpost with a distance that shows how close you are to your **Objective**.
 
