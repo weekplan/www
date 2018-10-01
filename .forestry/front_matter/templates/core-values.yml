@@ -67,6 +67,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- _pages/academy/objectives/putting-everything-together.md
 - _pages/academy/vision/big-hairy-audacious-goals/envisioned-future.md
 - _pages/academy/vision/personal-vision-statement-examples/index.md
 - _pages/academy/journaling/what-is-cogitorama.md
@@ -75,7 +76,6 @@ pages:
 - _pages/academy/weekly-planning/how-to-stay-focused.md
 - _pages/academy/weekly-planning/put-first-things-first.md
 - _pages/academy/weekly-planning/4-quadrants-of-time-management.md
-- _pages/academy/objectives/putting-everything-together.md
 - _pages/academy/objectives/what-makes-a-good-key-result.md
 - _pages/academy/objectives/a-good-objective.md
 - _pages/academy/objectives/okrs-vs-kpis.md

@@ -49,8 +49,8 @@ The fundamentals of OKR may be old but is still very relevant up to this day. Th
 
 While there may have been more other approaches that claim better results and numbers, the OKR approach remains a very solid and reliable one.
 
-<div class='post-feed'> 
+<div class='post-feed'>
 
-{% include group-post-list.html group="okrs" %} 
+{% include group-post-list.html group="app-module" %}
 
 </div>
