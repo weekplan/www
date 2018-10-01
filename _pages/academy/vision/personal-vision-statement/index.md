@@ -11,9 +11,10 @@ categories: []
 tags: []
 group: vision
 group-order: 2
+cover: "/assets/images/uploads/8-1.png"
 
 ---
-# ![](/assets/images/uploads/8-1.png)WHAT IS A BHAG
+# WHAT IS A BHAG
 
 BHAG stands for Big, Hairy, Audacious Goals. The term was introduced best-selling author Jim Collins in his book titled “Good to Great, Built to Last.”
 
