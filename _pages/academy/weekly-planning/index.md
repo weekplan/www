@@ -45,19 +45,14 @@ In a nutshell, weekly planning organizes your life. Who doesn’t want that, rig
 
 # Why It’s Important to Plan Your Week
 
-Weekly planning is all about effective time management. Consistently planning your activities for the week can be a challenge, but with practice, you’ll make it a habit. Here are a few reasons why planning your week is important:
+Consistently planning your activities for the week can be a challenge, but with practice, you’ll make it a habit. Here are a few reasons why planning your week is important:
 
-·      **Weekly planning lets you know what’s going on.** It’s your mom’s birthday on Friday? Then you can slip a trip to the mall for a gift on Wednesday. Knowing what’s going on devoid you from conflicts in schedule.
-
-·      And because you know what’s going on, you’d know if you need to do work on certain days. This then **teaches you to learn to say no** to sudden plans, especially those with less importance than what is in your calendar. Weekly planning gives you an understanding of certain aspects of your life like knowing priorities and sticking to them. And saying no is a big part of it.
-
-·      **Weekly planning also helps you maintain balance** in your schedule and in your life. All work and no play makes Jack a dull boy. Life isn’t just about work. It’s a balance of both work and play.
-
-·      **Weekly planning makes you more productive**. Being productive doesn’t mean you’re always working though. It means you’re doing the right things. It’s being able to accomplish tasks correctly, not just finishing them, and being able to save time for other things.
-
-·      Weekly planning prevents you from experiencing crisis, a critical point in which everything seems urgent and important. By planning your week, you’re actually saving yourself from a lot of headaches.
-
-·      Weekly planning tremendously reduces your stress levels. It gives you a sense of peace knowing that a plan of action has been made.
+* **Weekly planning lets you know what’s going on.** It’s your mom’s birthday on Friday? Then you can slip a trip to the mall for a gift on Wednesday. Knowing what’s going on devoid you from conflicts in schedule.
+* And because you know what’s going on, you’d know if you need to do work on certain days. This then **teaches you to learn to say no** to sudden plans, especially those with less importance than what is in your calendar. Weekly planning gives you an understanding of certain aspects of your life like knowing priorities and sticking to them. And saying no is a big part of it.
+* **Weekly planning also helps you maintain balance** in your schedule and in your life. All work and no play makes Jack a dull boy. Life isn’t just about work. It’s a balance of both work and play.
+* **Weekly planning makes you more productive**. Being productive doesn’t mean you’re always working though. It means you’re doing the right things. It’s being able to accomplish tasks correctly, not just finishing them, and being able to save time for other things.
+* **Weekly planning prevents you from experiencing crisis**, a critical point in which everything seems urgent and important. By planning your week, you’re actually saving yourself from a lot of headaches.
+* **Weekly planning tremendously reduces your stress levels**. It gives you a sense of peace knowing that a plan of action has been made.
 
 # How to Plan Your Week
 
