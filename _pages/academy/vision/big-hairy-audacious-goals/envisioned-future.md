@@ -29,13 +29,13 @@ You just saw what your Envisioned Future looks like. What is an Envisioned Futur
 
 In addition to vision, core values, and BHAGs, another important tool to help you clarify your vision is the concept of the Envisioned Future.
 
+![](/assets/images/uploads/yin-yang.png)
+
 As its name suggests, the Envisioned Future is a vision of what your future looks like as a result of your actions.
 
 To define your own Envisioned Future, review your vision, core values, and BHAGs. Then start defining your desired destination.
 
 Whether it’s selling your startup to a major industry player for billions of dollars or marrying your childhood sweetheart in a tropical paradise, having a clear Envisioned Future allows you to set strategic plans to achieve your BHAGs.
-
-![](/assets/images/uploads/GLTApril2017Image.png)
 
 In a nutshell, the Envisioned Future is made up of two interdependent parts. First is the BHAG or the Big, Hairy, and Audacious Goal, and second is what they call the Vivid Description.
 
