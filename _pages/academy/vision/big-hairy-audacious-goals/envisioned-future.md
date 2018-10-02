@@ -48,13 +48,13 @@ Combining both your BHAGs and Vivid Description will create your Envisioned Futu
 
 ![](/assets/images/uploads/Brand-Vision-Image-4.jpg)
 
-**Example of a BHAG:** 
+**Example of a BHAG:** Henry Ford body said:
 
-Henry Ford body said, “"I'm going to democratize the automobile.”
+> “I'm going to democratize the automobile.”
 
-**Example of a Vivid Description:** 
+**Example of a Vivid Description:** Henry Ford supported his BHAG by creating a vivid description. He said:
 
-Henry Ford supported his BHAG by creating a vivid description. He said, “I will build a motor car for the great multitude. It will be so low in price that no man making a good salary will be unable to own one and enjoy with his family the blessing of hours of pleasure in God’s great open space. When I’m through, everybody will be able to afford one, and everyone will have one. The horse will have disappeared from our highways and the automobile will be taken for granted.”
+“I will build a motor car for the great multitude. It will be so low in price that no man making a good salary will be unable to own one and enjoy with his family the blessing of hours of pleasure in God’s great open space. When I’m through, everybody will be able to afford one, and everyone will have one. The horse will have disappeared from our highways and the automobile will be taken for granted.”
 
 Now that's a powerful Vivid Description. Mr. Ford clearly achieved his BHAG.
 
