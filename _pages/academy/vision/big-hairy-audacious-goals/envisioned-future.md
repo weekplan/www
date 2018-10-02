@@ -46,7 +46,7 @@ In a nutshell, the Envisioned Future is made up of two interdependent parts. Fir
 
 Combining both your BHAGs and Vivid Description will create your Envisioned Future.
 
-![](/assets/images/uploads/Brand-Vision-Image-4.jpg)
+![](/assets/images/uploads/envisioned-future-2.jpg)
 
 **Example of a BHAG:** Henry Ford body said:
 
