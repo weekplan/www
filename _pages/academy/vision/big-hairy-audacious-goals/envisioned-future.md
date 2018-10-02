@@ -27,9 +27,9 @@ The only problem is that 2050 is decades ahead of your time. Apparently, you wer
 
 You just saw what your Envisioned Future looks like. What is an Envisioned Future?
 
-In addition to vision, core values, and BHAGs, another important tool to help you clarify your vision is the concept of the Envisioned Future.
+![](/assets/images/uploads/envisioned-future.jpg)
 
-![](/assets/images/uploads/yin-yang.png)
+In addition to vision, core values, and BHAGs, another important tool to help you clarify your vision is the concept of the Envisioned Future.
 
 As its name suggests, the Envisioned Future is a vision of what your future looks like as a result of your actions.
 
