@@ -19,7 +19,7 @@ permalink: "/academy/vision/envisioned-future/"
 ---
 # ENVISIONED FUTURE
 
-The year is 2050 and your company has grown from just 5 to 30,000 employees across cities around the world. 
+The year is 2050 and your company has grown from just 5 to 30,000 employees across cities around the world.
 
 Your stakeholders are impressed with your company’s performance and the top management are receiving leadership awards for their valuable contributions.
 
@@ -39,7 +39,7 @@ Whether it’s selling your startup to a major industry player for billions of d
 
 In a nutshell, the Envisioned Future is made up of two interdependent parts. First is the BHAG or the Big, Hairy, and Audacious Goal, and second is what they call the Vivid Description.
 
-## Two Parts of an Envisioned Future 
+## Two Parts of an Envisioned Future
 
 1. **External Vision or BHAGs** - As discussed in the previous sections, BHAGs are ambitious goals that are long-term, ideally spanning from 10 to 30 years. This is sometimes referred to as an External Vision, which is what a company wants to become as a result of its strategy.
 2. **Vivid Description** - Meanwhile, a Vivid Description is an inspirational statement that describes in detail what the outcome will be when you achieve your BHAGs. In other words, it paints a clear picture of your world because you will have achieved your goals.
