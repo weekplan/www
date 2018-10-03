@@ -58,9 +58,7 @@ Combining both your BHAGs and Vivid Description will create your Envisioned Futu
 
 Now that's a powerful Vivid Description. Mr. Ford clearly achieved his BHAG.
 
-{% include youtube.html id="ymEa24r0xXk" %}
-
-<iframe width="840" src="[http://www.youtube.com/embed/QH2-TGUlwu4](http://www.youtube.com/embed/QH2-TGUlwu4 "http://www.youtube.com/embed/QH2-TGUlwu4")" frameborder="0" allowfullscreen></iframe>
+{% include youtube.html id="ymEa24r0xXk" width="840" %}
 
 <div class='post-feed'>
 
