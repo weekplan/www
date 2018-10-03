@@ -60,6 +60,8 @@ Now that's a powerful Vivid Description. Mr. Ford clearly achieved his BHAG.
 
 {% include youtube.html id="ymEa24r0xXk" %}
 
+<iframe width="420" height="315" src="[http://www.youtube.com/embed/QH2-TGUlwu4](http://www.youtube.com/embed/QH2-TGUlwu4 "http://www.youtube.com/embed/QH2-TGUlwu4")" frameborder="0" allowfullscreen></iframe>
+
 <div class='post-feed'>
 
 {% include group-post-list.html group="app-module" %}
