@@ -7,7 +7,6 @@ navigation: true
 class: ''
 comments: false
 permalink: task-management-software
-published: false
 
 ---
 ## Cultivate team collaboration and let people do great things together.
