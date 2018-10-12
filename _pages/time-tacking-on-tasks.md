@@ -1,5 +1,5 @@
 ---
-title: Time Tacking on Tasks
+title: Time Tracking on Tasks
 date: 2018-10-11 00:00:00 +0000
 layout: feature-page
 author: ''
