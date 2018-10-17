@@ -6,7 +6,7 @@ author: ''
 navigation: true
 class: ''
 comments: false
-permalink: task-management
+permalink: "/task-management"
 
 ---
 ## Cultivate team collaboration and let people do great things together.
