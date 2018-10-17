@@ -7,7 +7,6 @@ navigation: true
 class: page-template
 comments: false
 permalink: team-task-collaboration
-published: false
 
 ---
 ## Cultivate team collaboration and let people do great things together.
