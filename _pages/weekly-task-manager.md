@@ -7,7 +7,6 @@ navigation: true
 class: page-template
 comments: false
 permalink: "/weekly-task-manager"
-published: false
 
 ---
 # The best weekly task planner and manager for teams!
