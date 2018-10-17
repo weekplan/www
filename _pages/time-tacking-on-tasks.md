@@ -6,6 +6,7 @@ author: ''
 navigation: true
 class: page-template
 comments: true
+permalink: "/tasks-time-tracking"
 
 ---
 # Setup and Track time spent on each task, project, and goal of your entire team
