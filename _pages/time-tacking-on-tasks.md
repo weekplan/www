@@ -6,7 +6,6 @@ author: ''
 navigation: true
 class: page-template
 comments: true
-published: false
 
 ---
 # Setup and Track time spent on each task, project, and goal of your entire team

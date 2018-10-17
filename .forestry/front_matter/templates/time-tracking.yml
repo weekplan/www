@@ -44,10 +44,10 @@ fields:
   hidden: false
   default: ''
 pages:
+- _pages/task-management.md
 - _pages/team-task-management-and-collaboration.md
 - _pages/weekly-task-manager.md
 - _pages/time-tacking-on-tasks.md
-- _pages/task-management.md
 - _pages/sample-feature-page/team-task-management-and-collaboration.md
 - _pages/sample-feature-page/time-tacking-on-tasks.md
 - _pages/sample-feature-page/Task-Management.md
