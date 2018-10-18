@@ -6,7 +6,6 @@ author: ''
 navigation: false
 class: ''
 comments: false
-published: false
 
 ---
 # Week Plan has everything you need to setup and track objective key results (OKR) for your organization
@@ -17,25 +16,25 @@ published: false
 
 Setup objectives that you want to achieve for each month, quarter or year with Week Plan. Add as many objectives you want to set for each workspace, team, project or company you have.
 
- 
+![](/assets/images/uploads/OKR.png) 
 
 ### Add Key Results
 
 Add key results that you want to achieve with each objective. Setup as many key results you want to track and achieve with each objective.
 
- 
+ ![](/assets/images/uploads/Key Results.png)
 
 ### Add High Impact Tasks with Objectives
 
 No objective is complete without a corresponding high impact task. Add multiple high impact tasks with each of your objective. 
 
- 
+ ![](/assets/images/uploads/High Impact Tasks-2.png)
 
 ### Add start and end values
 
 Measure key results with the statistical values you want. Add relative metric with each key result and easily measure your progress towards any specific value with percentage with each of the task and add a start and end value.
 
- 
+![](/assets/images/uploads/Key Results Values.png) 
 
 ## Benefits of setting up and managing OKR with Week Plan
 
