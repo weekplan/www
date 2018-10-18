@@ -1,10 +1,10 @@
 ---
 title: Objective Key Results (OKR)
 date: 2018-10-19 00:00:00 +0000
-layout: ''
+layout: feature-page
 author: ''
-navigation: false
-class: ''
+navigation: true
+class: page-template
 comments: false
 permalink: "/objectives-key-results-okr"
 
