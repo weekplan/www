@@ -6,7 +6,7 @@ author: ''
 navigation: false
 class: ''
 comments: false
-permalink: objectives-key-results-okr
+permalink: "/objectives-key-results-okr"
 
 ---
 # Week Plan has everything you need to setup and track objective key results (OKR) for your organization
