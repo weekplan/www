@@ -6,7 +6,7 @@ comments: true
 date: 2018-09-30 00:00:00 +0000
 description: ''
 subtitle: ''
-author: aymeric
+author: ''
 cover: "/assets/images/uploads/10-1.png"
 keywords: ''
 class: ''
