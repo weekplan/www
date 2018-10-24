@@ -2,7 +2,7 @@
 layout: academy-page
 title: BHAG
 date: 2014-04-22 00:00:00 +0000
-author: aymeric
+author: ''
 navigation: true
 permalink: "/academy/vision/bhags"
 class: post-template
