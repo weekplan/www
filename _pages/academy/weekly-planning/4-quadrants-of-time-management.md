@@ -3,7 +3,7 @@ title: 4 Quadrants of Time Management
 date: 2018-10-01 00:00:00 +0000
 layout: academy-page
 cover: "/assets/images/uploads/19.png"
-author: aymeric
+author: ''
 navigation: true
 class: post-template
 comments: true
