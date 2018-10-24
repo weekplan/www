@@ -44,8 +44,8 @@ fields:
   hidden: false
   default: ''
 pages:
+- _pages/time-tacking-on-tasks.md
+- _pages/weekly-task-manager.md
 - _pages/task-management.md
 - _pages/objective-key-results-okr.md
-- _pages/time-tacking-on-tasks.md
 - _pages/team-task-management-and-collaboration.md
-- _pages/weekly-task-manager.md
