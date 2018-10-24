@@ -3,7 +3,7 @@ title: What Makes a Good Key Result
 date: 2018-10-01 00:00:00 +0000
 layout: academy-page
 cover: "/assets/images/uploads/17.png"
-author: aymeric
+author: ''
 navigation: true
 class: post-template
 comments: true
