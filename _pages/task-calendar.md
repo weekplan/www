@@ -7,7 +7,6 @@ navigation: true
 class: page-template
 comments: false
 permalink: "/task-calendar"
-published: false
 
 ---
 ## Get a complete picture of your team’s tasks across a day, week or month
