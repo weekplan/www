@@ -7,7 +7,6 @@ navigation: true
 class: ''
 comments: false
 permalink: "/recurring-task"
-published: false
 
 ---
 ## Add recurring tasks for your team that repeat whenever you want them to be
