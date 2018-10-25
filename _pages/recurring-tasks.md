@@ -4,9 +4,9 @@ date: 2018-10-25 00:00:00 +0000
 layout: feature-page
 author: ''
 navigation: true
-class: ''
+class: page-template
 comments: false
-permalink: "/recurring-task"
+permalink: "/recurring-tasks"
 
 ---
 ## Add recurring tasks for your team that repeat whenever you want them to be
