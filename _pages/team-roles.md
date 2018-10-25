@@ -7,7 +7,6 @@ navigation: true
 class: page-template
 comments: false
 permalink: "/team-roles"
-published: false
 
 ---
 ## Define roles and let your team share responsibilities
