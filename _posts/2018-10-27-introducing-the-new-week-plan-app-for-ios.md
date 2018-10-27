@@ -16,15 +16,15 @@ categories:
 tags: []
 
 ---
-If you’ve been using Week Plan on your iPhone or iPad, you’re in for some treat. That’s because we just released an update to the Week Plan app for iOS devices. 
+If you’ve been using Week Plan on your iPhone or iPad, you’re in for some treat. That’s because we just released an update to the Week Plan app for iOS devices.
 
 Version 3.16 brings a nifty set of features that were previously available only on the web and Android apps.
 
-![](/assets/images/uploads/ios-app-update-1.jpg)Starting today, you can use Week Plan’s core modules including the vision module, objectives module, planner module, and the journal module on your iPhone and iPad.
+Starting today, you can use Week Plan’s core modules including the vision module, objectives module, planner module, and the journal module on your iPhone and iPad.
 
-![](/assets/images/uploads/ios-app-update-3.jpg)Additionally, you can now add roles, use the Pomodoro timer, prioritize tasks, set repeating tasks, and synchronize with Google Calendar and Outlook Calendar right from your Apple device.
+![](/assets/images/uploads/ios-app-update-4.jpg)Additionally, you can now add roles, use the Pomodoro timer, prioritize tasks, set repeating tasks, and synchronize with Google Calendar and Outlook Calendar right from your Apple device.
 
-![](/assets/images/uploads/ios-app-update-2.jpg)Check out the full list of features:
+Check out the full list of features:
 
 * Scheduler
 * Boards
@@ -38,4 +38,4 @@ Version 3.16 brings a nifty set of features that were previously available only 
 * Repeating Tasks
 * Prioritizing Tasks
 
-The update is available to download for all iOS devices starting today. Head over to the [App Store to download the update](https://itunes.apple.com/us/app/week-plan/id868630562?mt=8). 
+The update is available to download for all iOS devices starting today. Head over to the [App Store to download the update](https://itunes.apple.com/us/app/week-plan/id868630562?mt=8).
