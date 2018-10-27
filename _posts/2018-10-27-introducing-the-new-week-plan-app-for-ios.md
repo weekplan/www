@@ -22,7 +22,9 @@ Version 3.16 brings a nifty set of features that were previously available only 
 
 Starting today, you can use Week Plan’s core modules including the vision module, objectives module, planner module, and the journal module on your iPhone and iPad.
 
-![](/assets/images/uploads/ios-app-update-4.jpg)Additionally, you can now add roles, use the Pomodoro timer, prioritize tasks, set repeating tasks, and synchronize with Google Calendar and Outlook Calendar right from your Apple device.
+![](/assets/images/uploads/ios-app-update-4.jpg)
+
+Additionally, you can now add roles, use the Pomodoro timer, prioritize tasks, set repeating tasks, and synchronize with Google Calendar and Outlook Calendar right from your Apple device.
 
 Check out the full list of features:
 
