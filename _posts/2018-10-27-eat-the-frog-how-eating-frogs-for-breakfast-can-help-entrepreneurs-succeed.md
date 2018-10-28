@@ -89,6 +89,6 @@ Doing the task that you can do in a snap of a finger now serves as a reward. As 
 
 # Eating the Frog with Week Plan
 
-Everything is always easier said than done but awareness is key into producing a thought into action which may take time before it fully becomes a healthy habit to keep but for now, there’s one lesson learned.
+![](/assets/images/uploads/eat-the-frog4.jpg)Everything is always easier said than done but awareness is key into producing a thought into action which may take time before it fully becomes a healthy habit to keep but for now, there’s one lesson learned.
 
 So the next time you see a frog, take a fork and dig in – one bite at a time.
