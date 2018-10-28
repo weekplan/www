@@ -31,6 +31,8 @@ That's because time equates to money, which is a boon to the ecosystem of compan
 
 # The Problem That Many Entrepreneurs Face
 
+![](/assets/images/uploads/eat-the-frog-1.jpg)
+
 In a world that is now a global village, thanks to the emergence of social networks, many professionals - especially entrepreneurs - deal with a lot of things when it comes to building an empire of their own.
 
 And that includes the following: gathering resources, managing people and an internal system that may need consistent improvement as the business grows.
@@ -46,6 +48,8 @@ The constant procrastination that we do lengthens the time that we have to do th
 Luckily, a self-help guru, Brian Tracy, wrote a book entitled “[Eat That Frog! 21 Great Ways to Stop Procrastinating and Get More Done in Less Time](https://www.amazon.com/Eat-That-Frog-Second-Procrastinating/dp/0792754840)” which sought to break down the bigger picture into smaller parts that have to be completed on a daily basis.
 
 # The Eat the Frog Methodology
+
+![](/assets/images/uploads/eat-the-frog-2.jpg)
 
 "Eat the frog for breakfast" is an excellent business metaphor that talks about the frog being the most difficult yet rewarding task that has a positive impact on one’s life.
 
@@ -63,6 +67,8 @@ Here is an English version of an excerpt from an essay:
 
 # 5 Steps on How to Eat Your Frog
 
+![](/assets/images/uploads/eat-the-frog-3.jpg)
+
 According to Tsh Oxenreider from [The Art of Simple](https://theartofsimple.net/), there is a five-way process on how to start tackling the frog down. This technique is highly beneficial for entrepreneurs who struggle with a lot in their plates.
 
 ## 1. Outline the tasks for the day
@@ -79,7 +85,9 @@ These are the tasks which make the day complete. It is important to put them up 
 
 ## 4. Out of the 3, pick the worst
 
-This is the ugly, slimy and least adorable frog that you have to deal with – immediately. This is the part where one has to consider the possible consequences of the constant procrastination will bring to the table. Hint: It's not pleasant.
+Thisis the ugly, slimy and least adorable frog that you have to deal with – immediately. This is the part where one has to consider the possible consequences of the constant procrastination will bring to the table.
+
+Hint: It is not nice.
 
 ## 5. Out of the 10, pick the easiest
 
