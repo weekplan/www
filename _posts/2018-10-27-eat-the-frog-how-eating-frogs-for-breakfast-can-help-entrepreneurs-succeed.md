@@ -51,7 +51,7 @@ It encourages you to do the most challenging task first before anything else as 
 
 {% include youtube.html id="FKOMTZ7PPLg" %}
 
-"Eating the frog" soothes your mind as it removes a significant obstacle in your way. Nothing else can ruin an already successful day, and it gives you more room for other things to be accomplished, which gives you a greater sense of achievement.
+Eating the frog soothes your mind as it removes a significant obstacle in your way. Nothing else can ruin an already successful day, and it gives you more room for other things to be accomplished, which gives you a greater sense of achievement.
 
 The original author of the idiom is still up for debate between Mark Twain and Nicolas Chamfort, though sources say that the phrase originally came from Mr. De Lassay, who served as a mouthpiece for the latter in 1795.
 
