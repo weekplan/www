@@ -31,9 +31,7 @@ That's because time equates to money, which is a boon to the ecosystem of compan
 
 # The Problem That Many Entrepreneurs Face
 
-![](/assets/images/uploads/eat-the-frog-1.jpg)
-
-In a world that is now a global village, thanks to the emergence of social networks, many professionals - especially entrepreneurs - deal with a lot of things when it comes to building an empire of their own.
+![](/assets/images/uploads/eat-the-frog-1.jpg)In a world that is now a global village, thanks to the emergence of social networks, many professionals - especially entrepreneurs - deal with a lot of things when it comes to building an empire of their own.
 
 And that includes the following: gathering resources, managing people and an internal system that may need consistent improvement as the business grows.
 
@@ -49,9 +47,7 @@ Luckily, a self-help guru, Brian Tracy, wrote a book entitled “[Eat That Frog!
 
 # The Eat the Frog Methodology
 
-![](/assets/images/uploads/eat-the-frog-2.jpg)
-
-"Eat the frog for breakfast" is an excellent business metaphor that talks about the frog being the most difficult yet rewarding task that has a positive impact on one’s life.
+![](/assets/images/uploads/eat-the-frog-2.jpg)"Eat the frog for breakfast" is an excellent business metaphor that talks about the frog being the most difficult yet rewarding task that has a positive impact on one’s life.
 
 It encourages you to do the most challenging task first before anything else as its completion sets the tone for how the day should go concerning your ability to maximize your time and efficacy.
 
@@ -67,9 +63,7 @@ Here is an English version of an excerpt from an essay:
 
 # 5 Steps on How to Eat Your Frog
 
-![](/assets/images/uploads/eat-the-frog-3.jpg)
-
-According to Tsh Oxenreider from [The Art of Simple](https://theartofsimple.net/), there is a five-way process on how to start tackling the frog down. This technique is highly beneficial for entrepreneurs who struggle with a lot in their plates.
+![](/assets/images/uploads/eat-the-frog-3.jpg)According to Tsh Oxenreider from [The Art of Simple](https://theartofsimple.net/), there is a five-way process on how to start tackling the frog down. This technique is highly beneficial for entrepreneurs who struggle with a lot in their plates.
 
 ## 1. Outline the tasks for the day
 
