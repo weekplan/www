@@ -14,15 +14,18 @@ tags:
 - Effectiveness
 group: ''
 group-order: ''
+description: ''
+subtitle: ''
+keywords: ''
 
 ---
-Let’s be honest. Who doesn’t enjoy the extra five minutes in bed? 
+Let’s be honest. Who doesn’t enjoy the extra five minutes in bed?
 
 All is good and well until what seems like a few seconds turn out to be half an hour. Before you know it, you’re struggling to do your morning routine in a limited amount of time.
 
 The butterfly effect of procrastination has now become a daily plague as it forces you to start your day unprepared, unmotivated, and hungry.
 
-The habit of procrastination is a burden to your personal life, work, and community. 
+The habit of procrastination is a burden to your personal life, work, and community.
 
 That's because time equates to money, which is a boon to the ecosystem of companies and institutions trying to make ends meet in a short amount of time.
 
@@ -50,7 +53,7 @@ It encourages you to do the most challenging task first before anything else as 
 
 "Eating the frog" soothes your mind as it removes a significant obstacle in your way. Nothing else can ruin an already successful day, and it gives you more room for other things to be accomplished, which gives you a greater sense of achievement.
 
-The original author of the idiom is still up for debate between Mark Twain and Nicolas Chamfort, though sources say that the phrase originally came from Mr. De Lassay, who served as a mouthpiece for the latter in 1795. 
+The original author of the idiom is still up for debate between Mark Twain and Nicolas Chamfort, though sources say that the phrase originally came from Mr. De Lassay, who served as a mouthpiece for the latter in 1795.
 
 Here is an English version of an excerpt from an essay:
 
