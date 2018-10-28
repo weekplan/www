@@ -61,7 +61,7 @@ Here is an English version of an excerpt from an essay:
 
 > “M. de Lassay, a very indulgent man, but with a great knowledge of society, said that we should swallow a toad every morning, in order to fortify ourselves against the disgust of the rest of the day, when we have to spend it in society.” - Monday Chats, 1851
 
-# 5 Steps on How to Eat Your Frog
+# 5 Steps to Eat Your Frog
 
 ![](/assets/images/uploads/eat-the-frog3.jpg)According to Tsh Oxenreider from [The Art of Simple](https://theartofsimple.net/), there is a five-way process on how to start tackling the frog down. This technique is highly beneficial for entrepreneurs who struggle with a lot in their plates.
 
