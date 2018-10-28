@@ -63,25 +63,25 @@ Here is an English version of an excerpt from an essay:
 
 According to Tsh Oxenreider from [The Art of Simple](https://theartofsimple.net/), there is a five-way process on how to start tackling the frog down. This technique is highly beneficial for entrepreneurs who struggle with a lot in their plates.
 
-### 1. Outline the Tasks for the Day
+## 1. Outline the tasks for the day
 
 It can be as easy as typing it on your cellular phone or writing it on a planner. Though different things work for different people, it pays to make a detailed description of the task as to not miss a thing or two.
 
-### 2. Narrow it Down to Ten Items
+## 2. Narrow it down to 10 items
 
 Realistically, anyone can do more than ten things in a day which makes it easier to add more once these are done but seeing more than twenty items at once can sometimes be confusing to the majority.
 
-### 3. Pick the 3 Most Important Tasks
+## 3. Pick the 3 most important tasks
 
 These are the tasks which make the day complete. It is important to put them up on the ladder of lists that you have created for yourself.
 
-### 4. Out of the 3, Pick the Worst
+## 4. Out of the 3, pick the worst
 
 That is the ugly, slimy and least adorable frog that you have to deal with – immediately. This is the part where one has to consider the possible consequences of the constant procrastination will bring to the table.
 
 Hint: It is not nice.
 
-### 5. Out of the 10, Pick the Easiest
+## 5. Out of the 10, pick the easiest
 
 Doing the task that you can do in a snap of a finger now serves as a reward. As a matter of fact, doing it last seals the day as it frees your mind. Everything else is now a piece of cake.
 
