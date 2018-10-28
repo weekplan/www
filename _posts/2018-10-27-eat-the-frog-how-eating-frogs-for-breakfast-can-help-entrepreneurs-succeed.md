@@ -79,9 +79,7 @@ These are the tasks which make the day complete. It is important to put them up 
 
 ## 4. Out of the 3, pick the worst
 
-That is the ugly, slimy and least adorable frog that you have to deal with – immediately. This is the part where one has to consider the possible consequences of the constant procrastination will bring to the table.
-
-Hint: It is not nice.
+This is the ugly, slimy and least adorable frog that you have to deal with – immediately. This is the part where one has to consider the possible consequences of the constant procrastination will bring to the table. Hint: It's not pleasant.
 
 ## 5. Out of the 10, pick the easiest
 
