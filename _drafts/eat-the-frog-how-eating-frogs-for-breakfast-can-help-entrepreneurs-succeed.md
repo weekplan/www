@@ -23,7 +23,7 @@ The habit of procrastination is a burden to your personal life, work, and commun
 
 That's because time equates to money, which is a boon to the ecosystem of companies and institutions trying to make ends meet in a short amount of time.
 
-# Problems That Entrepreneurs Face
+# The Problem That Many Entrepreneurs Face
 
 In a world that is now a global village, thanks to the emergence of social networks, many professionals - especially entrepreneurs - deal with a lot of things when it comes to building an empire of their own.
 
@@ -53,29 +53,29 @@ Here is an English version of an excerpt from an essay:
 
 > “M. de Lassay, a very indulgent man, but with a great knowledge of society, said that we should swallow a toad every morning, in order to fortify ourselves against the disgust of the rest of the day, when we have to spend it in society.” - Monday Chats, 1851
 
-# 5 Steps on How to Eat the Frog
+# 5 Steps on How to Eat Your Frog
 
-According to Tsh Oxenreider from The Art of Simple, there is a five-way process on how to start tackling the frog down. This technique is highly beneficial for entrepreneurs who struggle with a lot in their plates.
+According to Tsh Oxenreider from [The Art of Simple](https://theartofsimple.net/), there is a five-way process on how to start tackling the frog down. This technique is highly beneficial for entrepreneurs who struggle with a lot in their plates.
 
-1\. Outline the tasks for the day
+### 1. Outline the Tasks for the Day
 
 It can be as easy as typing it on your cellular phone or writing it on a planner. Though different things work for different people, it pays to make a detailed description of the task as to not miss a thing or two.
 
-2\. Narrow it down to ten items
+### 2. Narrow it Down to Ten Items
 
 Realistically, anyone can do more than ten things in a day which makes it easier to add more once these are done but seeing more than twenty items at once can sometimes be confusing to the majority.
 
-3\. Pick the 3 most important tasks
+### 3. Pick the 3 Most Important Tasks
 
 These are the tasks which make the day complete. It is important to put them up on the ladder of lists that you have created for yourself.
 
-4\. Out of the 3, pick the worst
+### 4. Out of the 3, Pick the Worst
 
 That is the ugly, slimy and least adorable frog that you have to deal with – immediately. This is the part where one has to consider the possible consequences of the constant procrastination will bring to the table.
 
 Hint: It is not nice.
 
-5\. Out of the 10, pick the easiest
+### 5. Out of the 10, Pick the Easiest
 
 Doing the task that you can do in a snap of a finger now serves as a reward. As a matter of fact, doing it last seals the day as it frees your mind. Everything else is now a piece of cake.
 
