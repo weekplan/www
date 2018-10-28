@@ -87,15 +87,15 @@ Doing the task that you can do in a snap of a finger now serves as a reward. As 
 
 # Eating the Frog with Week Plan
 
-![](/assets/images/uploads/eat-the-frog4.jpg)Everything is always easier said than done but awareness is key into producing a thought into action, which may take time before it fully becomes a healthy habit to keep. 
+![](/assets/images/uploads/eat-the-frog4.jpg)Everything is always easier said than done but awareness is key into producing a thought into action, which may take time before it fully becomes a healthy habit to keep.
 
 The good news is you can use a tool like [Week Plan](https://weekplan.net) to master the habit of eating your frogs first. Here's how to use the priority planner to accomplish the things that have the biggest impact in your life.
 
-1. Write down all your tasks for the day. 
+1. Write down all your tasks for the day.
 2. Cut your to-do list to just 10 items.
-3. Select the 3 most important tasks and drag them to the top of the list.
-4. Out of the top 3, pick the biggest frog (meaning the most important task) and put it at the top.
-5. Start eating the frog. Work on it until it's accomplished. 
-6. Next, work on the other 2 important tasks. And finish the rest on your list. 
+3. Select the 3 most important tasks and drag them to the top of the list. 
+4. Out of the top 3, pick the biggest frog (meaning the most important task) and put it at the top (no.1 task).
+5. Start eating the frog (no. 1 task). Work on it until it's accomplished.
+6. Next, work on the other 2 important tasks. And finish the rest on your list.
 
-What's great about the Eat the Frog methodology is that it forces you to do the most difficult and important task first so you can save yourself from procrastination, giving you more time and energy to do other things. 
+What's great about the Eat the Frog methodology is that it forces you to do the most difficult and important task first so you can save yourself from procrastination, giving you more time and energy to do other things.
