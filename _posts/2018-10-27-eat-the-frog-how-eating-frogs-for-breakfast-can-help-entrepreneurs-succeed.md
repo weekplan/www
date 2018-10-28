@@ -37,6 +37,8 @@ And that includes the following: gathering resources, managing people and an int
 
 But personal factors such as procrastination make it hard for entrepreneurs to achieve these things. It's no wonder why 24 hours a day is inadequate for some entrepreneurs to meet their daily goals.
 
+{% include youtube.html id="JeL2oSjhY48" %}
+
 In October 2015, Philippa Perry from The Guardian said that [people wasted at least 3 hours a day at work](https://www.theguardian.com/commentisfree/2015/oct/06/procrastination-waste-time-work-facebook). And that didn't make them feel happier at all.
 
 The constant procrastination that we do lengthens the time that we have to do the actual work. Thus, giving us the perception that the task is more difficult than it actually is.
