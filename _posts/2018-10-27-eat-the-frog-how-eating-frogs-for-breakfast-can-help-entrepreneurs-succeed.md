@@ -93,12 +93,12 @@ The good news is you can use a tool like [Week Plan](https://weekplan.net) to ma
 
 ### Using Week Plan to Eat Your Frog:
 
-1. **Write down all your tasks for the day.**
-2. **Cut your to-do list to just 10 items.**
-3. **Select the 3 most important tasks and drag them to the top of the list.**
-4. **Out of the top 3, pick the biggest frog (meaning the most important task) and put it at the top (no.1 task).**
-5. **Start eating the frog (no. 1 task). Work on it until it's accomplished.**
-6. **Next, work on the other 2 important tasks. And finish the rest on your list.**
+1. Write down all your tasks for the day.
+2. Cut your to-do list to just 10 items.
+3. Select the 3 most important tasks and drag them to the top of the list.
+4. Out of the top 3, pick the biggest frog (meaning the most important task) and put it at the top (no.1 task).
+5. Start eating the frog (no. 1 task). Work on it until it's accomplished.
+6. Next, work on the other 2 important tasks. And finish the rest on your list.
 
 ![](/assets/images/uploads/ezgif.com-optimize.gif)
 
