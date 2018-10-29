@@ -102,4 +102,4 @@ The good news is you can use a tool like [Week Plan](https://weekplan.net) to ma
 
 ![](/assets/images/uploads/ezgif.com-optimize.gif)
 
-What's great about the Eat the Frog methodology is that it forces you to do the most difficult and important task first so you can save yourself from procrastination, giving you more time and energy to do other things.
+What's great about the Eat the Frog methodology is that it forces you to do the most difficult and important task first so you can save yourself from procrastination, giving you more time and energy to do other essential things.
