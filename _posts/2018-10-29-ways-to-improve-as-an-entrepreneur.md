@@ -1,5 +1,5 @@
 ---
-title: Ways to Become a Better Entrepreneur
+title: 10 Ways to Become a Better Entrepreneur
 layout: post
 navigation: true
 comments: true
