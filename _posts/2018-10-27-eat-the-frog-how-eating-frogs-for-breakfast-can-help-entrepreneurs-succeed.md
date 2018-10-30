@@ -65,7 +65,7 @@ Here is an English version of an excerpt from an essay:
 
 ![](/assets/images/uploads/eat-the-frog3.jpg)According to Tsh Oxenreider from [The Art of Simple](https://theartofsimple.net/), there is a five-way process on how to start tackling the frog down. This technique is highly beneficial for entrepreneurs who struggle with a lot in their plates.
 
-## 1. Outline the tasks for the day
+## 1. Outline the Tasks for the Day
 
 It can be as easy as typing your tasks on your phone or writing it on a notebook. Though different things work for different people, it pays to make a detailed description of the task as to not miss a thing or two.
 
