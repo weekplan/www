@@ -26,7 +26,9 @@ This is how company culture was introduced to me. It wasn’t a good experience,
 
 # What is Company Culture
 
-![](/assets/images/uploads/company-culture-1.png)What is a company culture? Putting it simply, company culture pertains to what the company as a whole is. 
+![](/assets/images/uploads/company-culture-1.png)
+
+What is a company culture? Putting it simply, company culture pertains to what the company as a whole is. 
 
 It defines the company’s work environment; it involves a wide variety of elements, such as the employees shared beliefs, values, goals and even expectations, it involves every element there is about the company. 
 
