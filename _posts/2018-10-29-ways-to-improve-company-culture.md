@@ -32,11 +32,11 @@ What is a company culture? Putting it simply, company culture pertains to what t
 
 It defines the company’s work environment; it involves a wide variety of elements, such as the employees shared beliefs, values, goals and even expectations, it involves every element there is about the company.
 
-Today, when you talk about good company culture, the gigantic company Google always comes into mind.
+Today, when you talk about good company culture, the gigantic company Google always comes into mind. According to their website, Google offers a relaxing environment for their employees with their informal atmosphere. 
 
 {% include youtube.html id="c1jlmdkApTQ" %}
 
-According to their website, Google offers a relaxing environment for their employees with their informal atmosphere. Their office is like a playground with various facilities they can use anytime, something they believe helps employees have fresher ideas compared to just sitting in their desks looking at their computer all day long.
+Their office is like a playground with various facilities they can use anytime, something they believe helps employees have fresher ideas compared to just sitting in their desks looking at their computer all day long.
 
 Employees can contribute to projects, they are always encouraged to share ideas and raise questions. Everyone is heard and valued, that’s what makes Google’s company culture especially alluring.
 
