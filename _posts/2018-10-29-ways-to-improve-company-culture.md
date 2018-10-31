@@ -40,6 +40,8 @@ Employees can contribute to projects, they are always encouraged to share ideas 
 
 # Why Company Culture is Important 
 
+![](/assets/images/uploads/company-culture-2.png)
+
 Now, how do you enjoy going to work every day? In recent years, company culture has been considered an important factor for employees. It has somewhat become a trend. 
 
 Employees with good working environment tend to enjoy what they do. Company culture has been a magnet for more brilliant and talented employees who would love a more relaxing work atmosphere, people who you surely need for your company, it attracts them and makes them stay. 
@@ -55,6 +57,8 @@ When you observe a fun company culture, this reflects to the customers, they wil
 All in all, a good company culture boosts effectiveness and efficiency for everyone.
 
 # 7 Ways to Improve Company Culture
+
+![](/assets/images/uploads/company-culture-3.png)
 
 Today, there are some remote teams and bootstrapped startups that are having difficulties establishing a good company culture. 
 
