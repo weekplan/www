@@ -7,7 +7,7 @@ date: 2018-10-29 00:00:00 +0000
 description: ''
 subtitle: ''
 author: ''
-cover: ''
+cover: "/assets/images/uploads/company-culture.jpg"
 keywords: ''
 class: ''
 categories: []
