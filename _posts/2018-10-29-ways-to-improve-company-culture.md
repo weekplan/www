@@ -24,6 +24,8 @@ Although I loved the work, I decided to pack up my bags and quit. Because the co
 
 This is how company culture was introduced to me. It wasn’t a good experience, but it opened my eyes to how important company culture is.
 
+{% include youtube.html id="D6LUg-siJVs" %}
+
 # What is Company Culture
 
 ![](/assets/images/uploads/company-culture-1.png)
@@ -53,6 +55,8 @@ Company culture has been a magnet for more brilliant and talented employees who 
 In exchange, those brilliant employees tend to perform much better because of the atmosphere and freedom provided with a good company culture.
 
 And because your employees tend to stay longer, it results in a lower turnover rate, which then leads to better co-worker relationships.
+
+{% include youtube.html id="pWtfTZ1i6yU" %}
 
 Good company culture also adds to your brand’s name and identity. How you treat your employees would reflect how they perform or interact with work or in some instances, even with customers.
 
@@ -136,6 +140,8 @@ You made sure to accept those who are fitting for the job; these people have the
 Hear them out, you’d never know they might have ideas that can boost your company or that can resolve existing issues. 
 
 Collaboration is essential especially for growing companies, so make sure to hear what they have to say!
+
+{% include youtube.html id="INjECrw7YYs" %}
 
 # Conclusion
 
