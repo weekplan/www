@@ -183,7 +183,7 @@ Week Plan helps teams get on the same page. Our company is run using Week Plan.
     icon="fas fa-comments" 
 %}
 
-## Personalization
+<!-- ## Personalization
 You are more likely to stick with a tool if you make it your own. You can deeply customize your planner to your taste and preferences.
 
 {% include feature.html 
@@ -197,4 +197,4 @@ You are more likely to stick with a tool if you make it your own. You can deeply
     description="Each workspace can use a gorgeous picture as wallpaper." 
     icon="fas fa-image" 
 %}
-
+ -->

@@ -2,19 +2,6 @@
 <footer class="site-footer outer">
     <div class="inner">
 
-        <div class="col-6 footer-product-summary">
-            <img src="{{ site.baseurl}}assets/images/logos/wiselabs.svg" alt="{{ site.title }}" style='height: 64px;' />
-            <p class='footer-description'>Week Plan is an online weekly planner that makes you effective rather than just productive.</p>
-            <div class="social-links">
-                {% if site.facebook %}
-                    <a class="social-link social-link-fb" href="https://facebook.com/{{ site.facebook }}" target="_blank" rel="noopener">{% include facebook.html %}</a>
-                {% endif %}
-                {% if site.twitter %}
-                    <a class="social-link social-link-tw" href="https://twitter.com/{{ site.twitter }}" target="_blank" rel="noopener">{% include twitter.html %}</a>
-                {% endif %}
-            </div>
-        </div>
-
         <div class="col-3 footer-navigation-column visible-mobile">
             <h3>
                 Top links
@@ -27,27 +14,55 @@
             </ul>
         </div>
 
+        
         <div class="col-3 footer-navigation-column">
             <h3>
-                Services
+                Week Plan
             </h3>
             <ul>
-                <li><a href="/apps">Apps</a></li>
-                <li><a href="/online-course-time-management">Time management course</a></li>
+                <li><a href="/about-us">About us</a></li>
+                <li><a href="/pricing">Pricing</a></li>
+                <li><a href="/blog">Blog</a></li>
                 <li><a href="/privacy">Privacy</a></li>
                 <li><a href="/terms">Terms</a></li>
-                <li><a href="/team-task-management">Week Plan for teams</a></li>
+            </ul>
+        </div>
+
+        <div class="col-3 footer-navigation-column">
+            <h3>
+                Features
+            </h3>
+            <ul>
+                <li><a href="/weekly-task-manager">Weekly task manager</a></li>
+                <li><a href="/team-task-collaboration">Team calendar</a></li>
+                <li><a href="/tasks-time-tracking">Time tracking</a></li>
+                <li><a href="/recurring-tasks">Recurring tasks</a></li>
+                <li><a href="/objectives-key-results-okr">OKRs</a></li>
+            </ul>
+        </div>
+
+        <div class="col-3 footer-navigation-column">
+            <h3>
+                Apps
+            </h3>
+            <ul>
+                <li><a href="https://itunes.apple.com/us/app/my-week/id868630562?mt=8">iOS</a></li>
+                <li><a href="https://play.google.com/store/apps/details?id=net.wiselabs.WeekPlan&hl=en">Android</a></li>
+                <li><a href="https://chrome.google.com/webstore/detail/week-plan-extension/apojhfcioioaohnpaaojkdimfcijmgmo?hl=en">Chrome</a></li>
+                <li><a href="https://drive.google.com/open?id=16yUnKBvZu4utLXZv9tE1lot7xSa2CRkl">Windows</a></li>
+                <li><a href="/apps">Other extensions</a></li>
 
             </ul>
         </div>
 
         <div class="col-3 footer-navigation-column">
                 <h3>
-                    More information
+                    Customer success
                 </h3>
                 <ul>
-                    <li><a href="/about-us">About us</a></li>
-                    <li><a href="/tutorials">Tutorials</a></li>
+                    <li><a href="/academy">Week Plan Academy</a></li>
+                    <li><a href="/online-course-time-management">Free 6 parts course</a></li>
+                    <li><a href="/tutorials">Product tutorials</a></li>
                     <li><a href="http://support.weekplan.net/forums/4-knowledge-base/">Product documentation</a></li>
                     <li><a href="/api">API documentation</a></li>
                     <li><a href="http://support.weekplan.net">Support &amp; contact</a></li>
@@ -57,9 +72,17 @@
     </div>
 
     <div class="site-footer-content inner">
-        <section class="copyright">We are <a href="http://wiselabs.net">Wise Labs</a></section>
-        <section class="poweredby">We help leaders and their organizations
-            align execution with vision.</section>
-        <section>Australia &copy; {{  site.time | date: '%Y' }}</section>
+        <section class="copyright">
+            We are <a href="http://wiselabs.net">Wise Labs</a>, we help leaders and their organizations
+            align execution with vision
+            <div class="social-links">
+                {% if site.facebook %}
+                    <a class="social-link social-link-fb" href="https://facebook.com/{{ site.facebook }}" target="_blank" rel="noopener">{% include facebook.html %}</a>
+                {% endif %}
+                {% if site.twitter %}
+                    <a class="social-link social-link-tw" href="https://twitter.com/{{ site.twitter }}" target="_blank" rel="noopener">{% include twitter.html %}</a>
+                {% endif %}
+            </div>
+        </section>
     </div>
 </footer>

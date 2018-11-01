@@ -22,7 +22,7 @@ You’re not alone. The good news is you can master one skill that can change ev
 
 What’s it you ask? It’s the habit of weekly planning.
 
-# What is Weekly Planning?
+## What is Weekly Planning?
 
 Weekly planning is the act of organizing your activities and tasks for the week. 
 
@@ -43,7 +43,7 @@ In a nutshell, weekly planning organizes your life. Who doesn’t want that, rig
 
 {% include youtube.html id="7yMh2QNRc_M" %}
 
-# Why It’s Important to Plan Your Week
+## Why It’s Important to Plan Your Week
 
 Consistently planning your activities for the week can be a challenge, but with practice, you’ll make it a habit. Here are a few reasons why planning your week is important:
 
@@ -53,7 +53,7 @@ Consistently planning your activities for the week can be a challenge, but with 
 * **Weekly planning makes you more productive**. Being productive doesn’t mean you’re always working though. It means you’re doing the right things. It’s being able to accomplish tasks correctly, not just finishing them, and being able to save time for other things.
 * **Weekly planning prevents you from experiencing crisis**, a critical point in which everything seems urgent and important. By planning your week, you’re actually saving yourself from a lot of headaches.
 
-# How to Plan Your Week
+## How to Plan Your Week
 
 There are different ways to plan your week. But here are a few strategies, taken from experts, that will help you get started.
 

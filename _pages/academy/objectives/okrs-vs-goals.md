@@ -16,8 +16,6 @@ group-order: 1
 author: ''
 
 ---
-# OKR VS GOALS
-
 An OKR is very similar to a goal, but with very minor differences.
 
 Goals are usually nonspecific. They are encompassing. They drive you in a direction but without clear details and metrics on how to go about it.

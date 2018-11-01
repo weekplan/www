@@ -14,7 +14,7 @@ group-order: 3
 cover: "/assets/images/uploads/11-1.png"
 
 ---
-# WHAT IS A MISSION STATEMENT
+## What is a mission statement
 
 Simply put, a mission statement is a short paragraph or sentence that highlights how you’ll achieve your vision.
 
@@ -28,7 +28,7 @@ And if vision is the dreaming phase, mission is the doing phase. Vision is the w
 
 {% include youtube.html id="aqzGpkBpDUo" %}
 
-# HOW TO WRITE A MISSION STATEMENT
+## How to write a mission statement
 
 A mission statement builds on your vision, core values, and BHAGs. Having a vision is enough. But creating a mission statement will take you farther.
 
@@ -50,11 +50,11 @@ It’s a compliment to the giant retailer’s vision statement:
 
 {% include youtube.html id="LJhG3HZ7b4o" %}
 
-# EXAMPLES OF MISSION STATEMENTS
+## Examples of mission statements
 
 ![](/assets/images/uploads/mission-statement-infographic.jpg)
 
-# DIFFERENCE BETWEEN A VISION STATEMENT AND A MISSION STATEMENT
+## Different between a vision statement and a mission statement
 
 A vision statement is slightly different from a mission statement. Vision and mission are separate concepts. However, they are interdependent.
 

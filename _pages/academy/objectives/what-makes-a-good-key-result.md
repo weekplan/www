@@ -14,7 +14,6 @@ group: okrs
 group-order: 5
 
 ---
-# WHAT MAKES A GOOD KEY RESULT
 
 So, what makes a good Key Result? Under each Objective, make sure to define measurable outcomes.
 

@@ -14,7 +14,6 @@ group: weekly-planning
 group-order: 1
 
 ---
-# The 4 Quadrants of Time Management
 
 People do things differently, but do you know what most of us have in common?
 

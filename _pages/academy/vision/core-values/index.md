@@ -14,7 +14,7 @@ group-order: 1
 cover: "/assets/images/uploads/6-2.png"
 
 ---
-# WHAT ARE CORE VALUES
+## What are Core Values
 
 Core values are the principles that serve as your guiding philosophy. People with values have greater purpose and fulfilment in their lives.
 
@@ -30,7 +30,7 @@ To determine your values, you need to go through a process of self-discovery. Th
 
 {% include youtube.html id="AbFIPc34AJ8" %}
 
-### CORE VALUES ARE:
+### Core Values are
 
 * Principles
 * Guiding Philosophy
@@ -38,7 +38,7 @@ To determine your values, you need to go through a process of self-discovery. Th
 * Code of Behaviour
 * Moral Code
 
-### CORE VALUES ARE NOT:
+### Core Values are not:
 
 * Corporate Rules
 * Operating Practices
@@ -47,7 +47,7 @@ To determine your values, you need to go through a process of self-discovery. Th
 
 {% include youtube.html id="gH3qezU-9oI" %}
 
-# HOW TO IDENTIFY YOUR CORE VALUES
+## How to identify your Core Values
 
 When identifying your core values, it’s best to come up with a list of characteristics that represent your vision, goals, and priorities.
 
@@ -57,7 +57,7 @@ More importantly, core values aren’t something that you just pick because you 
 
 {% include youtube.html id="Lr48dLAqRA8" %}
 
-# CORE VALUES EXAMPLES
+## Core Values examples
 
 Below is a list of core values that are commonly used by leaders and companies.
 

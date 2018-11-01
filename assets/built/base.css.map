@@ -1,1 +1,1 @@
-{"version":3,"sources":["base.css"],"names":[],"mappings":"AAAA,yCACI,GACI,cAAgB,CACnB,CAEJ","file":"base.css","sourcesContent":["@media only screen and (max-width: 768px) {\r\n    h1 {\r\n        font-size: 3rem;\r\n    }\r\n\r\n}"],"sourceRoot":"/source/"}
+{"version":3,"sources":["base.css"],"names":[],"mappings":"AAAA,yCACI,GACI,cAAgB,CACnB,CAEJ","file":"base.css","sourcesContent":["@media only screen and (max-width: 768px) {\r\n    h1 {\r\n        font-size: 3rem;\r\n    }\r\n\r\n}\r\n"],"sourceRoot":"/source/"}

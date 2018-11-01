@@ -17,7 +17,6 @@ group-order: 4
 permalink: "/academy/vision/envisioned-future/"
 
 ---
-# ENVISIONED FUTURE
 
 The year is 2050 and your company has grown from just 5 to 30,000 employees across cities around the world.
 

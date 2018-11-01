@@ -14,7 +14,6 @@ group-order: 2
 cover: "/assets/images/uploads/8-1.png"
 
 ---
-# WHAT IS A BHAG
 
 BHAG stands for Big, Hairy, Audacious Goals. The term was introduced best-selling author Jim Collins in his book titled “Good to Great, Built to Last.”
 
@@ -32,7 +31,7 @@ However, BHAGs are what makes a company great. A BHAG is what distinguishes a gr
 
 {% include youtube.html id="sXbxzkDJOzo" %}
 
-# HOW CAN BHAGS HELP YOU
+## How BHAGS can help you
 
 Setting Big, Hairy, Audacious Goals for you and your business can change how you think and act. It boosts your confidence, sparks passion, and breaks limitations within yourself and your team.
 
@@ -44,7 +43,7 @@ Jim Collins puts it best:
 
 It’s worth noting that BHAGs are more than just goals because they’re often guided by your core values and purpose. This means that your big, hairy goals must be aligned with your company’s strategy. It’s not just an aspirational statement.
 
-### BENEFITS OF BHAGS
+### Benefits of BHAGS
 
 * Eliminates narrow-minded thinking
 * Creates a sense of urgency
@@ -57,14 +56,14 @@ It’s worth noting that BHAGs are more than just goals because they’re often 
 
 {% include youtube.html id="fPtZc_vpFds" %}
 
-# 4 TYPES OF BHAGS
+## 4 types of BHAGS
 
 1. **Target Oriented** — BHAGs that have clear quantitative and qualitative goals.
 2. **Competitive** — BHAGs that compete with competitors.
 3. **Modeled** — BHAGs that copy the goals of other companies outside the competition.
 4. **Transformative** — BHAGs that are aimed at creating transformative change within the company.
 
-# 5 CRITERIA FOR GOOD BHAGS
+## 5 criteria for good BHAGS
 
 1. They are set with understanding — not bravado.
 2. They fit in the three circles of (1) what you are passionate about (including your core values and purpose), (2) what drives your economic logic, and (3) what differentiates you (what you can be the best in the world at).
@@ -72,11 +71,11 @@ It’s worth noting that BHAGs are more than just goals because they’re often 
 4. They are clear, compelling, and easy to grasp.
 5. They reflect your core values and core purpose.
 
-# EXAMPLES OF BHAGS
+## Examples of BHAGS
 
 ![](/assets/images/uploads/core-values-infographics.jpg)
 
-# HOW TO CREATE YOUR BHAGS
+## How to create your BHAGS
 
 Here are a few simple steps to create your own Big, Hairy, Audacious Goals.
 

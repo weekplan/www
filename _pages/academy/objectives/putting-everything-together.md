@@ -14,7 +14,6 @@ group: okrs
 group-order: 6
 
 ---
-# PUTTING EVERYTHING TOGETHER
 
 Combining the two (Objective and Key Results), we now have effective OKR examples.
 

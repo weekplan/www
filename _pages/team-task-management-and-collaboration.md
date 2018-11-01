@@ -1,7 +1,7 @@
 ---
 title: Team Task Management and Collaboration
 date: 2018-10-11 00:00:00 +0000
-layout: page-template
+layout: feature-page
 author: ''
 navigation: true
 class: page-template
@@ -10,8 +10,6 @@ permalink: team-task-collaboration
 
 ---
 ## Cultivate team collaboration and let people do great things together.
-
-### **Team Tasks and Goals**
 
 ![](/assets/images/uploads/Team Task Collaboration.png)
 

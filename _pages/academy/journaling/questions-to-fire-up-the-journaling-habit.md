@@ -14,8 +14,6 @@ group: journaling
 group-order: 1
 
 ---
-# Questions to Fire Up Your Journaling Habit
-
 When people start writing their journals, they usually don’t know how to start, or what to write about.
 
 It’s okay.

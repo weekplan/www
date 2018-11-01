@@ -14,7 +14,6 @@ group-order: 4
 cover: "/assets/images/uploads/1.png"
 
 ---
-# What is Journaling
 
 When people ask me how I started writing, I always remember the first time I attempted to write in my journal.
 
@@ -32,7 +31,7 @@ Then, there are **travel journals** for your wild adventures. They’re a docume
 
 There are different kinds of journals you can try, but journaling is just really about you, your life, your thoughts, and feelings rolled into words.
 
-# The Importance of Journaling
+## The Importance of Journaling
 
 I’ve always loved journaling; it became an escape route for me. Although we have different stories, one thing is for sure: we all had our fair share of trials in our lives. Experiences we don’t necessarily like but has made us stronger.
 
@@ -50,7 +49,7 @@ There, you can be yourself. Say whatever you want to say. Be whoever you want to
 
 {% include youtube.html id="LfxwCKin5Bg" %}
 
-# Benefits of Writing a Journal
+## Benefits of Writing a Journal
 
 There are definitely several benefits journaling can provide you. Here are some:
 

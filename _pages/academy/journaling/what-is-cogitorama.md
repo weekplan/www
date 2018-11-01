@@ -14,8 +14,6 @@ group: journaling
 group-order: 3
 
 ---
-# What is Cogitorama
-
 If you find journaling to be a little complicated and hard, then there’s a better option for you.
 
 Enter Cogiteroma, a different way to increase your self-awareness. It’s more like the Twitter of journaling.

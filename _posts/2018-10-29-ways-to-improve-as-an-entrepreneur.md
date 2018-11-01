@@ -22,7 +22,7 @@ But years later, as I ventured to entrepreneurship myself, I realized Bill Gates
 
 Know why I think so?
 
-# The Anatomy of an Entrepreneur
+## The Anatomy of an Entrepreneur
 
 For starters, entrepreneurs are those who venture into businesses. They are people who chose to put their fate in their own hands — those who chose to take risks.
 
@@ -32,7 +32,7 @@ On the other hand, being an entrepreneur is more than just venturing into busine
 
 Entrepreneurship is about having the right mindset, motivation, and endless drive to push forward and challenge limits. This is why being an entrepreneur is so hard.
 
-# 5 Struggles That Entrepreneurs Face
+## 5 Struggles That Entrepreneurs Face
 
 ![](/assets/images/uploads/entrepreneur-sad.png)
 
@@ -134,6 +134,6 @@ Failure is inevitable. And there will always be risks. It wouldn’t really alwa
 
 There would be times of challenges. Learn to fight back and learn from your mistakes. Never give up.
 
-# Conclusion
+## Conclusion
 
 Whatever your reason may be to decide to be an entrepreneur, remember deciding to be one is a risk. Remember to be brave, keep an open mind, and believe in yourself.

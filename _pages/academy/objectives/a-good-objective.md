@@ -14,7 +14,6 @@ group: okrs
 group-order: 4
 
 ---
-# WHAT MAKES A GOOD OBJECTIVE
 
 First, the **Objective** should help in achieving the company goals and should be aligned with the corporate strategy or its vision.
 

@@ -18,7 +18,8 @@ tags:
 - updates
 - product news
 ---
-# **What’s New in Week Plan Version 2.109.1**
+
+**What’s New in Week Plan Version 2.109.1**
 
 The biggest news is that Week Plan is now GDPR-compliant.
 

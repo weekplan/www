@@ -14,7 +14,6 @@ group: weekly-planning
 group-order: 3
 
 ---
-# Strategies to Stay More Focused
 
 Now that you’ve assimilated the elements of weekly planning, such as the habit of putting first things first, you need to master the art of staying focused to consistently nail your goals.
 

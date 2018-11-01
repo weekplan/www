@@ -14,8 +14,6 @@ group: okrs
 group-order: 2
 
 ---
-# OKR VS KPI
-
 Key Performance Indicator or KPI is a type of performance measurement, aimed at evaluating the success of an ongoing process or particular activity.
 
 KPIs can apply to projects, programs, products, and a variety of other initiatives. They can measure the success of anything from sales goals to social media metrics.

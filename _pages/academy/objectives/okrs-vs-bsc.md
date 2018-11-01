@@ -14,7 +14,6 @@ group: okrs
 group-order: 3
 
 ---
-# OKR VS BALANCED SCORECARD
 
 The Balanced Scorecard has long been used as a strategic management framework used by companies across the world.
 

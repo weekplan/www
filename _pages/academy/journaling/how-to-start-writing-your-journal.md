@@ -14,8 +14,6 @@ group: journaling
 group-order: 2
 
 ---
-# How to Start Journaling
-
 How do you start writing a journal? Well, it’s simple — decide to do so. It’s where everything starts. It’s when you tell yourself, “I want to do this.”
 
 Write about all the things you are thankful for in your life, start at even the little things like waking up to a beautiful morning today, the smell of coffee and breakfast when you got out of your room or even that traffic-less ride to work.
@@ -32,7 +30,7 @@ Start building what you want in your future, today. The key is to start now.
 
 {% include youtube.html id="osX0lNALZVs" %}
 
-# Steps to Write a Journal
+## Steps to Write a Journal
 
 Here are some steps to help you start journaling today.
 

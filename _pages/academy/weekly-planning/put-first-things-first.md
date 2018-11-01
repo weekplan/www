@@ -14,7 +14,7 @@ group: weekly-planning
 group-order: 2
 
 ---
-# Put First Things First
+## Put First Things First
 
 Put first things first ­— a phrase that’s easier said than done. In this busy world, it’s very easy to lose sight of your goals.
 
@@ -32,7 +32,7 @@ He incorporated this concept into what he called the third habit, which means to
 
 Putting first things first encourages you to adopt a way of life where life should be celebrated without compromising your responsibilities.
 
-# What is the Third Habit
+## What is the Third Habit
 
 To fully understand the third habit, you need to revisit Stephen Covey’s first and second habits.
 
@@ -52,7 +52,7 @@ However, the third habit is not focused on a single goal. On the contrary, it’
 
 Habit 3 is said to be the key to fulfillment. If you put more weight on the things that matter and make it a habit to live a life of value, you will have achieved greatness.
 
-# How to Put First Things First
+## How to Put First Things First
 
 The secret to weekly planning is to make priorities. It’s clear that working on your priorities with the bigger picture in mind (quadrant 2 tasks) contributes to your personal and professional growth. Everything else will follow.
 

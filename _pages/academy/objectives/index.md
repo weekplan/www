@@ -20,7 +20,7 @@ This is largely due to the emergence of new companies and organizations pushing 
 
 That's why it’s crucial to find new ways to measure your work on a regular basis. 
 
-# INTRODUCING OKRS
+## Introducing OKRs
 
 Objectives and Key Results or OKRs is a popular approach in setting goals, implementing plans of action, and monitoring output. 
 
@@ -46,7 +46,7 @@ The **Key Results** then measure if the **Objective** has been met at the end of
 
 {% include youtube.html id="yHpMuY59Pbs" %}
 
-# HISTORY
+## History
 
 OKRs date back to 1954 during the invention of **Management by Objectives (MBO)** by Peter Drucker, which was later on adopted by several companies like Intel, Google, and Twitter.
 
@@ -54,7 +54,7 @@ To this day, both companies, among other famous ones and startups, have been usi
 
 And it has consistently yielded favorable results.
 
-# BENEFITS OF OKRS
+## Benefits of OKRs
 
 The main benefit of OKRs is that it creates an organized dissemination of the companies’ goals to its employees. It connects the higher management to its employees, enabling teamwork across the board.
 
@@ -73,11 +73,11 @@ Lastly, OKRs aren’t time-consuming to implement and follow through. For a coup
 
 To review:
 
-# WHAT IS AN OBJECTIVE
+## What is an Objective
 
 An **Objective** describes the goal you need to achieve within a target date. It can be a personal goal, a team target, or a company’s vision and mission. Essentially, it jumpstarts the direction you are taking.
 
-# WHAT ARE KEY RESULTS
+## What are Key Results
 
 **Key results** take all that inspirational language and quantify it. You set them by asking simple questions like, “How do we know if we have met our objective?”
 

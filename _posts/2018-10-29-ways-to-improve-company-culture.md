@@ -26,7 +26,7 @@ This is how company culture was introduced to me. It wasn’t a good experience,
 
 {% include youtube.html id="D6LUg-siJVs" %}
 
-# What is Company Culture
+## What is Company Culture
 
 ![](/assets/images/uploads/company-culture-1.png)
 
@@ -42,7 +42,7 @@ Their office is like a playground with various facilities they can use anytime, 
 
 Employees can contribute to projects, they are always encouraged to share ideas and raise questions. Everyone is heard and valued, that’s what makes Google’s company culture especially alluring.
 
-# Why Company Culture is Important
+## Why Company Culture is Important
 
 ![](/assets/images/uploads/company-culture-2.png)
 
@@ -66,7 +66,7 @@ We all know a good name equals trust for most consumers. When they trust your co
 
 All in all, a good company culture boosts effectiveness and efficiency for everyone.
 
-# 7 Ways to Improve Company Culture
+## 7 Ways to Improve Company Culture
 
 ![](/assets/images/uploads/company-culture-3.png)
 
@@ -143,7 +143,7 @@ Collaboration is essential especially for growing companies, so make sure to hea
 
 {% include youtube.html id="INjECrw7YYs" %}
 
-# Conclusion
+## Conclusion
 
 Great company culture has paved so many ways for companies especially in recent years. It has helped in effective company management and has been proven to be effective in boosting productivity. 
 

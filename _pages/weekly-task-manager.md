@@ -9,20 +9,16 @@ comments: false
 permalink: "/weekly-task-manager"
 
 ---
-# The best weekly task planner and manager for teams!
-
-### **Weekly Tasks Calendar**
-
 ![](/assets/images/uploads/Weekly Task Calendar.png)
 
 The weekly planner provides a complete task scheduling process for your team throughout the entire week. Get a birds-eye view of the tasks that are planned across your projects and teams for the week ( and day and month too).
 
-### **Recurring Tasks Review**
+### **Recurring Tasks**
 
 ![](/assets/images/uploads/Repetitive Tasks.png)  
 No need to re-add and remember recurring tasks each week. Week Plan makes it really simple to add weekly recurring tasks and automatically add it to your staff or team’s schedule.
 
-### **See Tasks for Team Members**
+### **Filter Tasks per Team Members**
 
 ![](/assets/images/uploads/Tasks by Users.png)  
 Forget asking each team member about their tasks for the week. Within a single glimpse, get to know the tasks of your entire team spread across the week.

@@ -19,8 +19,6 @@ tags:
 - Release Notes
 - Updates
 ---
-# **Introducing Month View, New Navigation Bar, Floating Sidebar, Notifications and More!**
-
 ## **Meet the New Month View**
 
 ![](/assets/images/uploads/month-view.png)
@@ -39,7 +37,7 @@ When you click on a task, it will open in the sidebar. It means that now it is e
 
 We wanted to surface the full value you get out of Week Plan. It is not just a planner, you get a vision editor, a goal manager, a journal... Fewer clicks, more wins!
 
-# **Stay Up to Date With Notifications**
+## **Stay Up to Date With Notifications**
 
 ![](/assets/images/uploads/notifications.png)
 

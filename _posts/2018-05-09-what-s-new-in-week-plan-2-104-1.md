@@ -15,7 +15,7 @@ cover: "assets/images/uploads/announcement2.png"
 class: ''
 tags: []
 ---
-# **What’s New in Week Plan 2.104.1**
+**What’s New in Week Plan 2.104.1**
 
 Week Plan is growing. Each week, our developers work hard to release new features and bug fixes.
 
