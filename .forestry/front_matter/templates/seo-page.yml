@@ -72,10 +72,11 @@ fields:
   name: tags
   label: tags
 pages:
-- _posts/2018-10-29-ways-to-improve-company-culture.md
-- _posts/2018-10-29-ways-to-improve-as-an-entrepreneur.md
-- _posts/2018-10-27-eat-the-frog-how-eating-frogs-for-breakfast-can-help-entrepreneurs-succeed.md
 - _posts/2018-10-27-introducing-the-new-week-plan-app-for-ios.md
+- _posts/2018-10-27-eat-the-frog-how-eating-frogs-for-breakfast-can-help-entrepreneurs-succeed.md
+- _posts/2018-10-29-ways-to-improve-as-an-entrepreneur.md
+- _posts/2018-10-29-ways-to-improve-company-culture.md
+- _posts/2018-07-04-week-plan-introduces-month-view-new-navigation-bar-floating-sidebar-and-notifications.md
 - _posts/2018-08-24-week-plan-releases-faster-android-app.md
 - Vision.md
 - _posts/2013-04-24-how-to-stay-productive-working-at-home.md
@@ -88,7 +89,6 @@ pages:
 - _posts/2018-04-19-weekly-digest-for-effective-people-3.md
 - _posts/2018-06-27-best-life-hacks-of-the-week.md
 - _posts/2018-05-09-what-s-new-in-week-plan-2-104-1.md
-- _posts/2018-07-04-week-plan-introduces-month-view-new-navigation-bar-floating-sidebar-and-notifications.md
 - _posts/2018-04-19-how-to-be-a-better-leader-interview-with-highly-effective-person-vincent-vergonjeanne.md
 - _posts/2018-05-11-weekly-digest-for-effective-people-6.md
 - _posts/2018-05-25-weekly-digest-for-effective-people-7.md
