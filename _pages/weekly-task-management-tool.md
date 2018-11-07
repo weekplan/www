@@ -12,7 +12,6 @@ keywords: ''
 class: page-template
 categories: []
 tags: []
-published: false
 
 ---
 ![](/assets/images/uploads/Weekly Task Calendar.png)
