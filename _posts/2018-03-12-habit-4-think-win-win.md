@@ -1,16 +1,17 @@
 ---
 layout: post
-title: "Habit 4: Think Win Win"
+title: 'Habit 4: Think Win Win'
 date: 2018-03-12 06:40
 author: aymeric
-navigation: True
+navigation: true
 class: post-template
 comments: true
-categories: [Personal development]
+categories:
+- Personal development
 tags: []
-cover: assets/images/covers/think-win-win.jpg
----
+cover: "/assets/images/uploads/think-win-win.png"
 
+---
 Human relationships are often dominated by comparisons and competitions, from the early years of our lives. 
 
 We think about succeeding in terms of someone else losing – If I win, you lose, if you win, I lose. 
