@@ -16,33 +16,41 @@ categories:
 tags: []
 
 ---
-Since day one, Week Plan has always been about making you — our valued customers —  more effective.
+Since day one, Week Plan has always been about making you more effective.
 
-Week Plan has gone through a lot of modifications with the goal of helping you work on the right things, instead of just doing things right.
+Week Plan has gone through a lot of improvements with the goal of helping you work on the right things, instead of just doing things right.
 
 That's why our engineers are working hard to deliver the best prioritization software there is for busy entrepreneurs, managers, professionals, and teams.
 
 Following the re-launching of our mobile apps for [Android](https://weekplan.net/week-plan-releases-faster-android-app/) and [iOS](https://weekplan.net/introducing-the-new-week-plan-app-for-ios/), and after spending countless hours listening to your feedback, we've made some major changes to the layout of Week Plan.
 
-## New Schedule Section for Weekly Planning
+## The new layout
 
 ![](/assets/images/uploads/schedule-section.png)
 
-One of the major changes we introduced to version 2.127.3 is the **Schedule** section that now houses the planner.
+One of the major changes we introduced to version 2.127.3 is the split of the planner into two different views and moving the high impact tasks into the sidebar.
 
-Previously, you only had the main **Planner** module for everything, including **High-Impact Tasks** and **Boards**. Now, we've added the **Schedule** section and removed the **High-Impact Tasks** and **Boards** (more on these later).
+## Why?
 
-So why introduce the **Schedule** section and remove the **HITs** and **Boards**? Well, we want you to see all your tasks — in one view — without having to scroll down for other details such as your **High-Impact Tasks** and **Lists**.
+Many people are asking why? Why change what is not broken?
 
-When you open the **Planner**, you'll easily get a clear view of what you need to accomplish.
+Previously, you only had the main **Planner** module for everything, including **High-Impact Tasks** and **Boards**. 
 
-Additionally, we made the timelines visible for the weekly and daily views. This way, you can clearly see the time of your tasks.
+Many people including new users were feeling overwhelmed by the amount of information on one page. 
+
+Also dragging tasks from the board to the schedule wasn't easy. It involved a lot of scrolling.
+
+And finally, the **High Impact Tasks** were lost under the fold. 
+
+We believe the High Impact Tasks is the core of Week Plan. If you complete 100% of your High Impact Tasks each week, we have done our job.
+
+Now, dragging tasks to the schedule is very easy, because the timeline is always visible.
 
 ![](/assets/images/uploads/timeline.png)
 
 Just drag your tasks to the timeline and voila!
 
-## Plan of the Week Section for Your High Impact Tasks
+## Plan of the Week
 
 ![](/assets/images/uploads/plan-of-week.png)
 
@@ -50,43 +58,21 @@ We've added the **Plan of the Week** section (on the left side of the planner) t
 
 In the previous layout, you had to scroll down on the planner to access your HITs. Not only was it time-consuming, it was also misleading.
 
-Let me explain. We found out many users were using the HITs section as a backlog for their tasks for each of their roles.
+Let me explain. We found out many users were using the HITs section as a way to group their backlog tasks per role. 
 
-Remember that HITs are not ordinary tasks, but are more like milestones that will get you closer to your goals.
+So instead of having a small list of HITs per week, they'd have a lot of HITs, and would regularly review them and schedule them.
 
-That was the reason why we added the **Boards** section, which is the ideal place to store your ideas and park your tasks.
+The **Boards** section is meant to be used for backlog stuff.
 
-![](/assets/images/uploads/plan-of-the-week.jpg)
+We think the new layout closely matches the First Things First principle of Stephen Covey because now your HITs are always visible, and you only put tasks you believe you can accomplish this week.
 
-So why introduce the **Plan of the Week** section? It's simple — we want you to clearly visualize your Plan for the Week, which is what Week Plan is really about.
+## What if I want to group my tasks per role?
 
-The **Plan of the Week** merges all your HITs into one section that you can easily view and edit without the need to scroll down.
-
-There are some minor quirks though, like the sorting isn't quite right. Even some users prefer having their HITs grouped by role.
-
-The new layout has a learning curve, too.
-
-If there's one thing we could have done better, it's educating our users about any changes we're making in Week Plan.
-
-## Separate Boards Section for Your Ideas
-
-![](/assets/images/uploads/boards.png)
-
-We also removed the **Boards** section from the planner and moved it next to the **Schedule** section. So now you have two sections at the top — **Schedule** and **Boards**.
-
-Other than this layout change, the **Boards** section is still the same. You can use it as a backlog or a Kanban board with customizable lists for every role.
-
-## What About My Roles? A Solution That Might Work
-
-A note about the **Roles** feature. We received complaints about the new layout and its lack of visual emphasis on roles.
+We received complaints about the new layout and its lack of visual emphasis on roles.
 
 Some users want to bring back the previous layout, which displayed your different roles and their corresponding HITs below the planner.
 
-But after some careful consideration and brainstorming, we think it's more important that you have a **Plan of the Week** section for your HITs on the left side of the planner.
-
-We think the new layout closely matches the First Things First principle of Stephen Covey.
-
-If you still want to have a backlog of tasks grouped by roles, there's a workaround you might want to try.
+If you still want to have a backlog of tasks grouped by roles, you can do it in two ways.
 
 You can use the **Boards** section to create Lists for your different roles. You can have the roles side by side (similar to the previous layout) using a board with lists for each role.
 
@@ -94,34 +80,27 @@ Here's an example:
 
 ![](/assets/images/uploads/roles-new.png)
 
-## Still Planning: Separate Roles Section for Your Different Hats
+### Roles board
+
+Based on the feedback we received about the new layout, we are currently working on the Roles board that will allow you to store tasks grouped by role.
 
 ![](/assets/images/uploads/roles-1.png)
 
-We're very open to feedback. That's why we're considering the option to have a separate **Roles** section for your different hats.
-
-This new section will display all your tasks per role. In other words, the **Roles** section will be a special place where you can keep track of your tasks for your roles.
-
-Do you think this is a useful feature? Leave your comment below.
-
 ## Lessons Learned From This Experience
 
-We really value your feedback and support. So keep them coming.
+The launch of the new layout was not handled well, and we want to apologize.
 
 We're sorry if some of you were frustrated with the new layout. There are a lot of lessons to learn from this experience.
 
 Here are some of our realizations:
 
-* We need to improve our product development practices.
-* We need to focus on solving problems rather than implementing suggestions from our users (too often, users want features, but we want to know what pain they want to solve with that feature).
-* We need to get feedback from our users before developing the features.
-* We need to show to our users the changes that are coming up so that it doesn't come as a surprise.
-* We need tutorials and guides to accompany the changes
+* We need to improve our product development practices so that we get as much feedback from our users as possible. We already have a closed Facebook group for user feedback, but we don't have enough users on it yet. [Do you want to join?](https://www.facebook.com/groups/430163354142822/) 
+* With every change, we should accompany a blog post or video to explain how it works.
 
 ## Conclusion
 
-We're on a quest to perfecting the one and only life planner that works.
+We are a young company and some of our processes are still immature.
 
-We aren't there yet. But with your feedback and support, we'll get to a state of unstoppable effectiveness.
+But we are listening and we learn from our mistakes and your feedback.
 
-If you have some feedback, we'd love to hear them. Write your comments below.
+ If you have some feedback, we'd love to hear them, please write your comments below.
