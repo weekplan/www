@@ -24,29 +24,49 @@ Following the re-launching of our mobile apps for [Android](https://weekplan.net
 
 ## New Schedule Section for Weekly Planning
 
-One of the major changes we introduced to version 2.127.3 is the Schedule section that now houses the planner. Previously, you only had the main Planner module for everything, including High-Impact Tasks and Boards. Now, we've added the Schedule section and removed the High-Impact Tasks and Boards (more on these later).
+One of the major changes we introduced to version 2.127.3 is the **Schedule** section that now houses the planner. 
 
-So why introduce the Schedule section and remove the HITs and Boards? Well, we want you to see all your tasks — in one view — without having to scroll down for other details such as your High-Impact Tasks and Lists. When you open the Planner, you'll easily get a clear view of what you need to accomplish.
+Previously, you only had the main **Planner** module for everything, including **High-Impact Tasks** and **Boards**. Now, we've added the **Schedule** section and removed the **High-Impact Tasks** and **Boards** (more on these later).
 
-Additionally, we made the timelines visible for the weekly and daily views. This way, you can clearly see the time of your tasks. Just drag your tasks to the timeline and voila!
+So why introduce the **Schedule** section and remove the **HITs** and **Boards**? Well, we want you to see all your tasks — in one view — without having to scroll down for other details such as your **High-Impact Tasks** and **Lists**. 
+
+When you open the **Planner**, you'll easily get a clear view of what you need to accomplish.
+
+Additionally, we made the timelines visible for the weekly and daily views. This way, you can clearly see the time of your tasks. 
+
+Just drag your tasks to the timeline and voila!
 
 ## Plan of the Week Section for Your High Impact Tasks
 
-We've added the Plan of the Week Section (on the left side of the planner) to keep you focused on your High-Impact Tasks. In the previous layout, you had to scroll down on the planner to access your HITs. Not only was it time-consuming, it was also misleading.
+We've added the **Plan of the Week** section (on the left side of the planner) to keep you focused on your **High-Impact Tasks**. 
 
-Let me explain. We found out many users were using the HITs section as a backlog for their tasks for each of their roles. Remember that HITs are not ordinary tasks, but are more like milestones that will get you closer to your goals. That was the reason why we added the Boards section, which is the ideal place to store your ideas and park your tasks.
+In the previous layout, you had to scroll down on the planner to access your HITs. Not only was it time-consuming, it was also misleading.
 
-So why introduce the Plan of the Week section? It's simple — we want you to clearly visualize your Plan for the Week, which is what Week Plan is really about. The Plan of the Week merges all your HITs into one section that you can easily view and edit without the need to scroll down.
+Let me explain. We found out many users were using the HITs section as a backlog for their tasks for each of their roles. 
 
-There are some minor quirks though, like the sorting isn't quite right. Even some users prefer having their HITs grouped by role. The new layout has a learning curve, too. If there's one thing we could have done better, it's educating our users about any changes we're making in Week Plan.
+Remember that HITs are not ordinary tasks, but are more like milestones that will get you closer to your goals. 
+
+That was the reason why we added the **Boards** section, which is the ideal place to store your ideas and park your tasks.
+
+So why introduce the **Plan of the Week** section? It's simple — we want you to clearly visualize your Plan for the Week, which is what Week Plan is really about. 
+
+The **Plan of the Week** merges all your HITs into one section that you can easily view and edit without the need to scroll down.
+
+There are some minor quirks though, like the sorting isn't quite right. Even some users prefer having their HITs grouped by role. 
+
+The new layout has a learning curve, too. 
+
+If there's one thing we could have done better, it's educating our users about any changes we're making in Week Plan.
 
 ## Separate Boards Section for Your Ideas
 
-We also removed the Boards section from the planner and moved it next to the Schedule section. So now you have 2 Sections at the top — Schedule and Boards. Other than this layout change, the Boards section is still the same. You can use it as a backlog or a Kanban board with customizable lists for every role.
+We also removed the **Boards** section from the planner and moved it next to the **Schedule** section. So now you have two sections at the top — **Schedule** and **Boards**. 
+
+Other than this layout change, the **Boards** section is still the same. You can use it as a backlog or a Kanban board with customizable lists for every role.
 
 ## **What About My Roles? A Solution That Might Work**
 
-A note about the Roles feature. We received complaints about the new layout and its lack of visual emphasis on roles. Some users want to bring back the previous layout, which displayed your different roles and their corresponding HITs below the planner.
+A note about the **Roles** feature. We received complaints about the new layout and its lack of visual emphasis on roles. Some users want to bring back the previous layout, which displayed your different roles and their corresponding HITs below the planner.
 
 But after some careful consideration and brainstorming, we think it's more important that you have a Plan of the Week section for your HITs on the left side of the planner. We think the new layout closely matches the First Things First principle of Stephen Covey.
 
