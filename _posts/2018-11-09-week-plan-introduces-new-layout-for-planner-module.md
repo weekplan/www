@@ -82,13 +82,17 @@ Here's an example:
 
 ## Still Planning: Separate Roles Section for Your Different Hats
 
-We're very open to feedback. That's why we're considering the option to have a separate Roles section for your different hats.
+We're very open to feedback. That's why we're considering the option to have a separate **Roles** section for your different hats.
 
-This new section will display all your tasks per role. In other words, the Roles section will be a special place where you can keep track of your tasks for your roles. Do you think this is a useful feature? Leave your comment below.
+This new section will display all your tasks per role. In other words, the **Roles** section will be a special place where you can keep track of your tasks for your roles. 
+
+Do you think this is a useful feature? Leave your comment below.
 
 ## Lessons Learned From This Experience
 
-We really value your feedback and support. So keep them coming. We're sorry if some of you were frustrated with the new layout. There are a lot of lessons to learn from this experience.
+We really value your feedback and support. So keep them coming. 
+
+We're sorry if some of you were frustrated with the new layout. There are a lot of lessons to learn from this experience.
 
 Here are some of our realizations:
 
@@ -100,6 +104,8 @@ Here are some of our realizations:
 
 ## Conclusion
 
-We're on a quest to perfecting the one and only life planner that works. We aren't there yet. But with your feedback and support, we'll get to a state of unstoppable effectiveness.
+We're on a quest to perfecting the one and only life planner that works. 
+
+We aren't there yet. But with your feedback and support, we'll get to a state of unstoppable effectiveness.
 
 If you have some feedback, feel free to write your comments below.
