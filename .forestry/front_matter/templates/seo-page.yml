@@ -72,6 +72,7 @@ fields:
   name: tags
   label: tags
 pages:
+- _posts/week-plan-introduces-new-layout-for-planner-module.md
 - _pages/weekly-task-management-tool.md
 - _posts/2018-10-27-introducing-the-new-week-plan-app-for-ios.md
 - _posts/2018-10-27-eat-the-frog-how-eating-frogs-for-breakfast-can-help-entrepreneurs-succeed.md
