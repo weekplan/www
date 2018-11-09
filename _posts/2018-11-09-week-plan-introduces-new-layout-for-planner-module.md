@@ -10,7 +10,9 @@ author: ''
 cover: "/assets/images/uploads/announcement2-1.png"
 keywords: ''
 class: ''
-categories: []
+categories:
+- Product
+- Release Notes
 tags: []
 
 ---
