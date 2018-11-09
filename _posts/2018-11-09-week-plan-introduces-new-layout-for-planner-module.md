@@ -124,4 +124,4 @@ We're on a quest to perfecting the one and only life planner that works.
 
 We aren't there yet. But with your feedback and support, we'll get to a state of unstoppable effectiveness.
 
-If you have some feedback, feel free to write your comments below.
+If you have some feedback, we'd love to hear them. Write your comments below.
