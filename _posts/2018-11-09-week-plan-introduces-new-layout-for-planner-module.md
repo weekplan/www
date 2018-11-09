@@ -66,11 +66,17 @@ Other than this layout change, the **Boards** section is still the same. You can
 
 ## **What About My Roles? A Solution That Might Work**
 
-A note about the **Roles** feature. We received complaints about the new layout and its lack of visual emphasis on roles. Some users want to bring back the previous layout, which displayed your different roles and their corresponding HITs below the planner.
+A note about the **Roles** feature. We received complaints about the new layout and its lack of visual emphasis on roles. 
 
-But after some careful consideration and brainstorming, we think it's more important that you have a Plan of the Week section for your HITs on the left side of the planner. We think the new layout closely matches the First Things First principle of Stephen Covey.
+Some users want to bring back the previous layout, which displayed your different roles and their corresponding HITs below the planner.
 
-If you still want to have a backlog of tasks grouped by roles, there's a workaround you might want to try. You can use the Boards section to create Lists for your different roles. You can have the roles side by side (similar to the previous layout) using a board with lists for each role.
+But after some careful consideration and brainstorming, we think it's more important that you have a **Plan of the Week** section for your HITs on the left side of the planner. 
+
+We think the new layout closely matches the First Things First principle of Stephen Covey.
+
+If you still want to have a backlog of tasks grouped by roles, there's a workaround you might want to try. 
+
+You can use the **Boards** section to create Lists for your different roles. You can have the roles side by side (similar to the previous layout) using a board with lists for each role.
 
 Here's an example:
 
