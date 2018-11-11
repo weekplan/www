@@ -34,13 +34,13 @@ One of the major changes we introduced to version 2.127.3 is the split of the pl
 
 Many people are asking why? Why change what is not broken?
 
-Previously, you only had the main **Planner** module for everything, including **High-Impact Tasks** and **Boards**. 
+Previously, you only had the main **Planner** module for everything, including **High-Impact Tasks** and **Boards**.
 
-Many people including new users were feeling overwhelmed by the amount of information on one page. 
+Many people including new users were feeling overwhelmed by the amount of information on one page.
 
 Also dragging tasks from the board to the schedule wasn't easy. It involved a lot of scrolling.
 
-And finally, the **High Impact Tasks** were lost under the fold. 
+And finally, the **High Impact Tasks** were lost under the fold.
 
 We believe the High Impact Tasks is the core of Week Plan. If you complete 100% of your High Impact Tasks each week, we have done our job.
 
@@ -58,7 +58,7 @@ We've added the **Plan of the Week** section (on the left side of the planner) t
 
 In the previous layout, you had to scroll down on the planner to access your HITs. Not only was it time-consuming, it was also misleading.
 
-Let me explain. We found out many users were using the HITs section as a way to group their backlog tasks per role. 
+Let me explain. We found out many users were using the HITs section as a way to group their backlog tasks per role.
 
 So instead of having a small list of HITs per week, they'd have a lot of HITs, and would regularly review them and schedule them.
 
@@ -86,7 +86,7 @@ Based on the feedback we received about the new layout, we are currently working
 
 ![](/assets/images/uploads/roles-1.png)
 
-## Lessons Learned From This Experience
+## Lessons learned from this experience
 
 The launch of the new layout was not handled well, and we want to apologize.
 
@@ -94,7 +94,7 @@ We're sorry if some of you were frustrated with the new layout. There are a lot 
 
 Here are some of our realizations:
 
-* We need to improve our product development practices so that we get as much feedback from our users as possible. We already have a closed Facebook group for user feedback, but we don't have enough users on it yet. [Do you want to join?](https://www.facebook.com/groups/430163354142822/) 
+* We need to improve our product development practices so that we get as much feedback from our users as possible. We already have a closed Facebook group for user feedback, but we don't have enough users on it yet. [Do you want to join?](https://www.facebook.com/groups/430163354142822/)
 * With every change, we should accompany a blog post or video to explain how it works.
 
 ## Conclusion
@@ -103,4 +103,4 @@ We are a young company and some of our processes are still immature.
 
 But we are listening and we learn from our mistakes and your feedback.
 
- If you have some feedback, we'd love to hear them, please write your comments below.
+If you have some feedback, we'd love to hear them, please write your comments below.
