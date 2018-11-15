@@ -26,7 +26,7 @@ Following the re-launching of our mobile apps for [Android](https://weekplan.net
 
 ## The new layout
 
-![](/assets/images/uploads/schedule-section.png)
+![](/assets/images/uploads/new-layout-600px.jpg)
 
 One of the major changes we introduced to version 2.127.3 is the split of the planner into two different views and moving the high impact tasks into the sidebar.
 
