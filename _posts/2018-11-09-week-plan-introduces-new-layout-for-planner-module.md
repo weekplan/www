@@ -80,9 +80,9 @@ Here's an example:
 
 ![](/assets/images/uploads/roles-new.png)
 
-### Roles board
+## Roles board
 
-Based on the feedback we received about the new layout, we are currently working on the Roles board that will allow you to store tasks grouped by role.
+Based on the feedback we received about the new layout, we are currently working on the Roles board that will allow you to store tasks grouped by role. **_Update: Roles board is now live._**
 
 ![](/assets/images/uploads/roles-1.png)
 
