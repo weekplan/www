@@ -71,6 +71,10 @@ fields:
 - type: tag_list
   name: tags
   label: tags
+- type: text
+  label: Permalink
+  name: permalink
+  description: 'Example: /weekly-task-manager'
 pages:
 - _posts/2018-11-09-week-plan-introduces-new-layout-for-planner-module.md
 - _pages/weekly-task-management-tool.md
