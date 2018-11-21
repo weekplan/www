@@ -12,6 +12,7 @@ keywords: ''
 class: page-template
 categories: []
 tags: []
+permalink: weekly-task-manager
 
 ---
 ![](/assets/images/uploads/Weekly Task Calendar.png)
