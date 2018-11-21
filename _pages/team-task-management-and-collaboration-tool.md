@@ -13,7 +13,6 @@ class: ''
 categories: []
 tags: []
 permalink: "/team-task-collaboration"
-published: false
 
 ---
 ## Cultivate team collaboration and let people do great things together.
