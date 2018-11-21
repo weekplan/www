@@ -45,7 +45,6 @@ fields:
   default: ''
 pages:
 - _pages/team-roles.md
-- _pages/weekly-task-manager.md
 - _pages/recurring-tasks.md
 - _pages/task-calendar.md
 - _pages/time-tacking-on-tasks.md
