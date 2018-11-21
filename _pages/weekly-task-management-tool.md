@@ -1,10 +1,11 @@
 ---
-title: Weekly Task Management Tool
+title: Weekly Task Management Software for Business
 layout: page
 navigation: true
 comments: false
 date: 2018-11-08 04:24
-description: Weekly Task Management Tool for Effective People
+description: Weekly Task Management Software for Business Owners and Teams. Start
+  Free
 subtitle: ''
 author: ''
 cover: ''
