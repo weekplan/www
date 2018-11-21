@@ -76,6 +76,7 @@ fields:
   name: permalink
   description: 'Example: /weekly-task-manager'
 pages:
+- _pages/team-task-management-and-collaboration-tool.md
 - _pages/weekly-task-management-tool.md
 - _posts/2018-11-09-week-plan-introduces-new-layout-for-planner-module.md
 - _posts/2018-10-27-introducing-the-new-week-plan-app-for-ios.md
