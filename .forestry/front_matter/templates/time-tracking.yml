@@ -44,5 +44,4 @@ fields:
   hidden: false
   default: ''
 pages:
-- _pages/task-calendar.md
 - _pages/task-management.md
