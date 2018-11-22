@@ -59,6 +59,8 @@ Tracking the progress on your task enables you to not only complete your tasks o
 
 Monitor the tasks and deliverables of your entire team from a single dashboard. Get instant notification on any update and diagnose any roadblocks to avoid time delay and deadline issues.
 
- 
+### **Available on all top platforms**
+
+![](https://weekplan.net/assets/images/uploads/All%20Apps-1.png)  
 
 #### Become more effective at creating, planning and completing tasks with Week Plan.
