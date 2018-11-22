@@ -63,4 +63,4 @@ Monitor the tasks and deliverables of your entire team from a single dashboard. 
 
 ![](https://weekplan.net/assets/images/uploads/All%20Apps-1.png)  
 
-#### Become more effective at creating, planning and completing tasks with Week Plan.
+#### Become more effective at creating, planning and completing tasks with Week Plan. 
