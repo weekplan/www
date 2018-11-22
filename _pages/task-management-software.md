@@ -14,7 +14,6 @@ class: ''
 categories: []
 tags: []
 permalink: "/task-management"
-published: false
 
 ---
 ## Week Plan has everything your team needs to plan, manage and complete tasks.
