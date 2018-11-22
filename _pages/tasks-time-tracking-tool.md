@@ -51,4 +51,8 @@ Time Tracking enables you to see the progress of any individual member or your e
 
 Quickly see which task or goal is taking more time to complete and resolve any progress roadblocks for your team.
 
-## **Reclaim time for your team and get more done in less.**
+### Available on all top platforms
+
+![](https://weekplan.net/assets/images/uploads/All%20Apps-1.png)
+
+### **Reclaim time for your team and get more done in less.**
