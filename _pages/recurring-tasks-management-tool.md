@@ -37,7 +37,7 @@ Want to close a recurring task in an advanced date in future? Configure an end d
 
 ## **How Week Plan helps boost team productivity using recurring tasks**
 
-### **Automate Task Delegation - Save Time**
+### **Automate Task Delegation - Save Time** 
 
 You don’t need to ask your team and task progress every week. Automatically inform and get a status update at time and date you set.
 
