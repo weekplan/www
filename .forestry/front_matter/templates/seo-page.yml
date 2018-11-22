@@ -76,11 +76,11 @@ fields:
   name: permalink
   description: 'Example: /weekly-task-manager'
 pages:
+- _pages/team-roles-management.md
 - _pages/tasks-time-tracking-tool.md
 - _pages/task-management-software.md
 - _pages/recurring-tasks-management-tool.md
 - _pages/objectives-key-result-software-for-entrepreneurs.md
-- _pages/team-roles-management.md
 - _pages/team-task-management-and-collaboration-tool.md
 - _pages/weekly-task-management-tool.md
 - _posts/2018-11-09-week-plan-introduces-new-layout-for-planner-module.md

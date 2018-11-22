@@ -48,3 +48,7 @@ By assigning your team members with specific roles, you can track the performanc
 ### **Empowered and Passionate Workforce**
 
 Roles and Responsibilities help your employees feel part of the organization and in result improve their performance.
+
+### **Available on all top platforms**
+
+![](https://weekplan.net/assets/images/uploads/All%20Apps-1.png)
