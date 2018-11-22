@@ -1,5 +1,5 @@
 ---
-title: Task Management Software
+title: Task Management Software for Entrepreneurs
 layout: page
 navigation: true
 comments: true
