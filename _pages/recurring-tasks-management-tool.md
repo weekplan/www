@@ -43,4 +43,4 @@ You don’t need to ask your team and task progress every week. Automatically in
 
 ### **Organize standup meeting and updates with remote teams**
 
-Working with dispersed and remote teams can be complex and challenging. Automatically organize weekly recurring standups with your team, regardless of their time zone.
+Working with dispersed and remote teams can be complex and challenging. Automatically organize weekly recurring standups with your team, regardless of their time zone. 
