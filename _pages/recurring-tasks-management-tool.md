@@ -35,7 +35,7 @@ Quickly set up the frequency of how often you want a task to be repeated across 
 
 Want to close a recurring task in an advanced date in future? Configure an end date with a task in future, and it will stop recurring whenever you want it to be.
 
-## **How Week Plan helps boost team productivity using recurring tasks**
+## **How Week Plan helps boost team productivity using recurring tasks** 
 
 ### **Automate Task Delegation - Save Time** 
 
