@@ -76,6 +76,7 @@ fields:
   name: permalink
   description: 'Example: /weekly-task-manager'
 pages:
+- _pages/team-task-calendar.md
 - _pages/team-roles-management.md
 - _pages/tasks-time-tracking-tool.md
 - _pages/task-management-software.md
