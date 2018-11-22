@@ -54,3 +54,7 @@ OKR’s are a successful and proven framework for increasing effectiveness of yo
 ### Achieve your organization’s goal
 
 With the Objectives module in Week Plan, you are not far away from achieving your goals. Grow you organization on a proven and result drive goal achievement process.
+
+### Available on all top platforms
+
+![](https://weekplan.net/assets/images/uploads/All%20Apps-1.png)
