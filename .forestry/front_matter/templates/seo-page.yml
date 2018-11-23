@@ -23,6 +23,7 @@ fields:
     options:
     - post
     - page
+    - feature-page
     required: true
   label: layout
   default: post
