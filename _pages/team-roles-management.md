@@ -1,6 +1,6 @@
 ---
 title: Team Roles Management
-layout: page
+layout: feature-page
 navigation: true
 comments: true
 date: 2018-11-22 07:14:22 +1100
