@@ -668,10 +668,6 @@ The first (most recent) post in the list is styled to be bigger than the others 
     transform: rotate(5deg);
 }
 
-.no-image .post-full-content {
-    padding-top: 0;
-}
-
 .no-image .post-full-content:before,
 .no-image .post-full-content:after {
     display: none;
