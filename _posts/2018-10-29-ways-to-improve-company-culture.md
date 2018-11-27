@@ -92,7 +92,7 @@ This comes as a problem for younger employees who mostly value artistic freedom 
 
 An example is more flexible office time.
 
-Recent experiments on this show that flexible hours actually help boost their creativity and productivity because they have more time on their hands to do other necessary personal things which then lessens what they think of at the office, enabling them to focus more on work.
+Recent experiments on this show that flexible hours actually help [boost productivity](https://clickup.com/blog/increase-productivity-workplace/) because they have more time on their hands to do other necessary personal things which then lessens what they think of at the office, enabling them to focus more on work.
 
 ### 3. Empower and Encourage
 
