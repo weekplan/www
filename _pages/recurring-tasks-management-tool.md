@@ -1,10 +1,12 @@
 ---
 title: Recurring Tasks Management Tool
-layout: page
+layout: feature-page
 navigation: true
-comments: true
-date: 2018-11-22 07:21:07 +1100
-description: 'Recurring Tasks Management Tool for Businesses, Entrepreneurs '
+comments: false
+date: 2018-11-21 20:21:07 +0000
+description: Setup Recurring Weekly Tasks once with Week Plan and they will repeat
+  whenever you want them to be. Setup daily, weekly, monthly, yearly or custom recurring
+  tasks.
 subtitle: ''
 author: ''
 cover: ''
