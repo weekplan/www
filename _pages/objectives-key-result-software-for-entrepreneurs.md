@@ -3,8 +3,9 @@ title: 'Objectives Key Result (OKR) Software for Entrepreneurs  '
 layout: page
 navigation: true
 comments: true
-date: 2018-11-22 07:25:41 +1100
-description: 'Objectives Key Result (OKR) Software for Entrepreneurs  '
+date: 2018-11-21 20:25:41 +0000
+description: 'Objectives Key Result (OKR) Software for seting up objectives and associated
+  key results that you want to achieve each month, quarter or year. '
 subtitle: ''
 author: ''
 cover: ''
