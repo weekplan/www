@@ -1,11 +1,11 @@
 ---
-title: Weekly Task Management Software for Business
+title: Weekly Task Management Software for Entrepreneurs
 layout: page
 navigation: true
 comments: false
 date: 2018-11-08 04:24
-description: Weekly Task Management Software for Business Owners and Teams. Start
-  Free
+description: 'Week Plan is the best Weekly Task Management Software that makes Entrepreneurs
+  and Businesses more effective with their tasks, objectives and goals. '
 subtitle: ''
 author: ''
 cover: ''
