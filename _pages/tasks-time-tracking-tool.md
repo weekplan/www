@@ -1,10 +1,11 @@
 ---
-title: Tasks Time Tracking Tool
+title: Tasks Time Tracking Software for Businesses
 layout: page
 navigation: true
 comments: true
-date: 2018-11-22 07:18:05 +1100
-description: Tasks Time Tracking Tool for businesses, entrepreneurs and teams globally.
+date: 2018-11-21 20:18:05 +0000
+description: Track Time on Tasks across you entire tasks, team, projects and objectives
+  with our Task Time Tracking Software. Best Task Manager with Time Tracking.
 subtitle: ''
 author: ''
 cover: ''
