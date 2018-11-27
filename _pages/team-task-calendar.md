@@ -1,11 +1,11 @@
 ---
-title: Team Task Calendar
+title: Team Task Calendar Management Tool
 layout: page
 navigation: true
-comments: true
-date: 2018-11-22 19:19:26 +1100
-description: Task Calendar for Businesses and Teams. View Tasks for your business
-  and team across a day, week, month or year.
+comments: false
+date: 2018-11-22 08:19:26 +0000
+description: Task Calendar Management Tool for Businesses and Teams. View Tasks in
+  Calendar for your business and team across a day, week, month or year.
 subtitle: ''
 author: ''
 cover: ''
