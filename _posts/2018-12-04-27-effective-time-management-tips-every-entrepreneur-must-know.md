@@ -4,10 +4,11 @@ layout: post
 navigation: true
 comments: true
 date: 2018-12-04 04:31:35 +1100
-description: ''
+description: 27 Time Management Tips that will make Entreprenurs more effective and
+  productive at work and in managing time.
 subtitle: ''
 author: ''
-cover: ''
+cover: "/assets/images/uploads/alarm-clock-calendar-close-up-908298.jpg"
 keywords: ''
 class: ''
 categories: []
@@ -39,7 +40,7 @@ You can’t manage your time well just by working hard. You need to be effective
 
 Top entrepreneurs never underestimate the importance of time management because they know that the more they focus on time management, the better the outcome will be for them. 
 
-To help entrepreneurs like you we have compiled a list of 28 time management tips that will make you more effective at work on top of being productive. 
+To help entrepreneurs like you we have compiled a list of 27 time management tips that will make you more effective at work on top of being productive. 
 
  
 
