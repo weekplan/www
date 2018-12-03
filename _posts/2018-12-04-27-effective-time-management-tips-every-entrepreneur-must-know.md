@@ -16,8 +16,6 @@ tags: []
 permalink: time-management-tips
 
 ---
-**27 Effective Time Management Tips Every Entrepreneur Must Know**
-
 Time management is essential for every business. 
 
 But for entrepreneurs, it is one of the most important factors as they have to wear multiple hats at the start to get their business off the ground. They usually don’t have the luxury of a complete team where responsibilities are divided equally among the shoulders of all. 
@@ -50,6 +48,8 @@ Every single minute has its worth for an entrepreneur.
 
 Starting the day earlier gives them some extra time which can be used towards planning the activities of the day and highlighting all important tasks that need to be done before finishing the day.  
 
+![](/assets/images/uploads/beverage-blog-blogger-1549701.jpg)
+
 [Successful entrepreneurs](https://weekplan.net/ways-to-improve-as-an-entrepreneur/) around the world are [known to wake up at or before 6 am](https://www.cnbc.com/2018/05/17/10-highly-successful-people-who-wake-up-before-6-a-m.html). Tim Cook, Oprah Winfrey, Indira Nooyi, and Barack Obama start their day with the dawn.
 
  
@@ -59,6 +59,8 @@ Starting the day earlier gives them some extra time which can be used towards pl
 Yeah, exercise or a sport in the morning.
 
 I know a lot of you will be saying meh..really. But let’s hear it from the king of entrepreneurs who owns 400+ companies (woaahh), Sir Richard Branson.
+
+![](/assets/images/uploads/adventure-athlete-athletic-235922.jpg)
 
 When asked, how you manage 400+ companies, thousands of employees and gazillions of things, [he simply said;](https://www.cnbc.com/2016/11/10/richard-branson-says-this-daily-habit-doubles-his-productivity.html)
 
@@ -74,6 +76,8 @@ And it makes perfect sense that a healthier body and achieve more in less time a
 
 Keeping a proper check and balance on schedules is extremely important to utilize the time effectively. 
 
+![](/assets/images/uploads/fitness-tracker-future-futuristic-9051.jpg)
+
 Set a specific time for all your meeting and try your best to get them done on time otherwise. 
 
 Amazon CEO, Jeff Bezos, uses a fairly simple yet effective technique to maximize time and evaluate meetings.
@@ -87,6 +91,8 @@ He will not go to any meeting if two pizzas are not enough for the members of th
 **4 - Use Laziness to your advantage**
 
 Lazy people are generally tabooed for being unproductive. They consume a lot of time in getting tasks done and level-up, even with just-productive people.
+
+![](/assets/images/uploads/christmas-couch-feet-85842.jpg)
 
 However, on the flipside, they tend to be more efficient as well.
 
@@ -120,6 +126,8 @@ Ivy Lee, a productivity consultant at Bethlehem Steel Corporation, brings an exc
 
 When you start a business or even own a small/mid-size business, the chances are that you have to do a lot of meetings and be part of a lot of small huddles and interruptions.
 
+![](/assets/images/uploads/yes-2069850_640.png)
+
 But this doesn’t mean you have to greet them with open arms every time. In fact, you should show your back as many times you can.
 
 That’s what the world’s 2nd riches person do.
@@ -148,9 +156,7 @@ From a time management perspective, you should prioritize and channel all your c
 
 **Pro Tip:** Task prioritization was the core idea behind creating Week Plan as it lets you [prioritize task](https://weekplan.net/eat-the-frog-how-eating-frogs-for-breakfast-can-help-entrepreneurs-succeed/) and become more efficient at completing tasks. Rather than grinding and chunking on all tasks that comes your way, [Week Plan lets you focus only on the most important tasks.](https://weekplan.net/weekly-task-manager)
 
- 
-
- 
+  
 
 **8 - Get Rid Of Interruption**
 
@@ -210,6 +216,8 @@ As an entrepreneur, you have to learn many new things to get a clear understandi
 
 It requires a specific time to get all these critical data, and you have to search different platforms for it like searching on blogs, watching videos and more. 
 
+![](/assets/images/uploads/man-writes-relaxes_925x.jpg)
+
 In this scenario, Just-In-Time learning is the best solution to handle things appropriately. 
 
 Originated from the [manufacturing industry and more specifically by Toyota](https://www.allaboutlean.com/what-is-just-in-time/), just in time approach calls for working on a task, research on anything, only when it’s required.
@@ -224,6 +232,8 @@ There are many things to take care of as an entrepreneur which sometimes is not 
 
 Delegating and getting work done by a staff member can help you save tons of time and make room for important tasks. 
 
+![](/assets/images/uploads/center-2064940_640.jpg)
+
 A [study on task delegation](https://www.youtube.com/watch?v=2-m90oOwZdM&feature=youtu.be) revealed that 53 percent of business owners believe that they can grow their business by more than 20 percent if they delegate 10 percent of their workload to someone else.
 
 Delegating tasks not only helps you save time but also increases your work efficiency as well as overall business. For example, if you are a tech founder, delegating marketing tasks to a specialized marketer not only improves your business’s marketing efforts but also gives you more time to focus on important tasks.
@@ -236,6 +246,8 @@ There are some [tasks that you need to be done repeatedly very often.](https://w
 
 These generally are the basic tasks which you normally perform over and over again but consumes chunks of your time. 
 
+![](/assets/images/uploads/Repetitive Tasks-3.png)
+
 You can filter out all these tasks and use services such as IFTTT or Zapier to automate them so that you don’t have to waste your time involving around these tasks again and again. 
 
 Here are some IFTTT recipes to [automate business processes for small businesses](https://business.tutsplus.com/tutorials/best-ifttt-recipes-for-productive-business-automation--cms-27257) and save many hours every time.
@@ -247,6 +259,8 @@ Pro Tip: You can use Week Plan to get reminded about or delegate repetitive task
 **14 - Get Benefit from the Pomodoro Technique of Time Management**
 
 [Pomodoro technique](https://weekplan.net/how-to-instantly-increase-your-productivity-today-using-the-pomodoro-technique/) is a great way to concentrate on a specific task for a short period and try to get that task done within that time slot.
+
+![](/assets/images/uploads/pomodoro.png)
 
 Typically, Pomodoro Timer works on a maximum of 25-30 minutes time slot for each task and work dedicatedly on that task in that time slot.
 
@@ -276,7 +290,9 @@ Now you all might be wondering, how taking a break off work can help you with sa
 
 The answer is fairly simple. Taking some time out from the busy schedule is quite helpful for entrepreneurs to [get back on the tasks with more energy and focus](https://weekplan.net/energy-management/). 
 
-[https://www.youtube.com/watch?v=lZlgoQUVigM](https://www.youtube.com/watch?v=lZlgoQUVigM "https://www.youtube.com/watch?v=lZlgoQUVigM")   
+![](/assets/images/uploads/Take Breaks at work.png)
+
+    [https://www.youtube.com/watch?v=lZlgoQUVigM](https://www.youtube.com/watch?v=lZlgoQUVigM "https://www.youtube.com/watch?v=lZlgoQUVigM")   
 
 But breaks don’t necessarily have to go for a smoke, take a snack – some breaks can be effective at work too such as;
 
@@ -306,6 +322,8 @@ Time audit is an excellent way to view a complete picture of all how you spend y
 
 You can quickly identify where you are spending most of your time or which tasks are killing your time so that you can plan a better strategy towards them and make a positive change to deal with all those factors.
 
+![](/assets/images/uploads/black-and-white-black-and-white-clocks-707676.jpg)
+
 You can quickly make the necessary adjustments in your task planner and revise the strategy to get things back on track. These essential changes enable you to meet your time requirements and achieve your business goals.
 
 To identify where you are spending most of your time, you can utilize apps like Rescue Time, which will help you understand your daily habits and where you spend your time, so you can focus and be more productive.
@@ -324,7 +342,7 @@ From your [weekly task calendar](https://weekplan.net/task-calendar), you should
 
 This can be achieved through Eisenhower’s Urgency Matrix.
 
-   
+![](/assets/images/uploads/quadrant.jpg)
 
 Eisenhower’s Urgency-Importance Matrix is all about thinking appropriately before finalizing your task calendar. It will help you [set priority among your tasks](https://weekplan.net/eat-the-frog-how-eating-frogs-for-breakfast-can-help-entrepreneurs-succeed/), and you will be more efficient in managing your time.
 
@@ -333,6 +351,8 @@ Eisenhower’s Urgency-Importance Matrix is all about thinking appropriately bef
 **18 - Assign Suitable Time for Tasks**
 
 Allocating a realistic time on your tasks will assist you to complete them on time otherwise; you have to adjust your schedule now and then which can waste more of your time. 
+
+![](/assets/images/uploads/glass-hourglass-hours-39396.jpg)
 
 When you do a time audit like mentioned above, it will unveil how much time you spend on tasks, including tasks that you usually do. 
 
@@ -343,6 +363,8 @@ This, in turn, will help you identify how much time you will need for tasks and 
 **19 - Complete Your Simple Tasks first (or maybe even at last)**
 
 [Start your day](https://weekplan.net/how-to-spend-the-first-hour-of-your-day/) by doing simple tasks first because they are easy to do and will finish quickly. It will boost your confidence towards the complicated tasks, and you will come up with more energy towards them. 
+
+![](/assets/images/uploads/business-pug-working-on-laptop_925x.jpg)
 
 If you are the type of person that needs to relax off early in the day, completing small and easier tasks will soothe off your stress. 
 
@@ -360,6 +382,8 @@ Having better initial judgments can help you with time management issues.
 
 If you make a wrong [time calendar of your daily tasks](https://weekplan.net/designing-a-better-way-to-manage-appointments/) by filling it with all the unnecessary tasks on top of the list, then you will have to spend the massive time to correct these troubles. 
 
+![](/assets/images/uploads/StockSnap_ZJLHMTLTPS.jpg)
+
 That’s why you should give yourself some good time to plan an effective initial decision about scheduling your tasks. 
 
 For all unessential tasks that you need to do but not urgently, you can take the help of a solution like “Boards” in Week Plan, which serves as the Parking Lot for all such tasks.
@@ -371,6 +395,8 @@ For all unessential tasks that you need to do but not urgently, you can take the
 Though multi-tasking might be geared at saving your time on tasks but in actual, it’s the opposite for most.
 
 Research has shown that [multitasking can waste time and efficiency](https://www.independent.co.uk/life-style/multitasking-productivity-levels-research-psychology-david-meyer-a8254416.html) because of the continuous switching between tasks.
+
+![](/assets/images/uploads/adult-computer-connection-1546621.jpg)
 
 To counter this, you can take help from Attention Management.
 
@@ -418,6 +444,8 @@ Week Plan’s task management software helps you with prioritizing tasks and eff
 
 Sometimes, it’s better to make some minor changes to your daily schedule to get on top of everything. 
 
+![](/assets/images/uploads/adult-blur-caucasian-941555.jpg)
+
 It’s not necessary that the [time management strategy that you have created will produce results in any condition](https://weekplan.net/objectives-key-results-okr). Sometimes your time management tactics will work and sometimes they might backfire.
 
 You always need some alterations to your plan, but the best thing, in that case, is to accurately identify those weak areas that are creating troubles and change them quickly.
@@ -427,6 +455,8 @@ You always need some alterations to your plan, but the best thing, in that case,
 **26 - Take Advantage of your Sweet Productive Spot**
 
 Everybody has some preferred productivity time at which they are at their best. 
+
+![](/assets/images/uploads/red-mouse-computer_925x.jpg)
 
 For some people, morning time is the ideal productive time but for others, night time is the perfect time where their productivity is at its peak. 
 
