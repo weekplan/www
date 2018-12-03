@@ -4,8 +4,8 @@ layout: post
 navigation: true
 comments: true
 date: 2018-12-04 04:31:35 +1100
-description: 27 Time Management Tips that will make Entreprenurs more effective and
-  productive at work and in managing time.
+description: 27 Time Management Tips that will make Entrepreneurs more productive
+  at work and in managing time effectively.
 subtitle: ''
 author: ''
 cover: "/assets/images/uploads/alarm-clock-calendar-close-up-908298.jpg"
