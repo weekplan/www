@@ -40,7 +40,7 @@ Top entrepreneurs never underestimate the importance of time management because 
 
 To help entrepreneurs like you we have compiled a list of 27 time management tips that will make you more effective at work on top of being productive.
 
-## **1. Start Your Day Earlier**
+### **1. Start Your Day Earlier**
 
 Every single minute has its worth for an entrepreneur.
 
@@ -294,7 +294,7 @@ To identify where you are spending most of your time, you can utilize apps like 
 
 ![](/assets/images/uploads/Rescue Time.png)
 
-**17 - Filter out Your Three Essential Tasks**
+### **17. Filter out Your Three Essential Tasks**
 
 Time management has a strong relation with mind management. You have to first focus on mind management before having a strategy for time management.
 
@@ -308,7 +308,7 @@ This can be achieved through Eisenhower’s Urgency Matrix.
 
 Eisenhower’s Urgency-Importance Matrix is all about thinking appropriately before finalizing your task calendar. It will help you [set priority among your tasks](https://weekplan.net/eat-the-frog-how-eating-frogs-for-breakfast-can-help-entrepreneurs-succeed/), and you will be more efficient in managing your time.
 
-**18 - Assign Suitable Time for Tasks**
+### **18. Assign Suitable Time for Tasks**
 
 Allocating a realistic time on your tasks will assist you to complete them on time otherwise; you have to adjust your schedule now and then which can waste more of your time.
 
@@ -318,7 +318,7 @@ When you do a time audit like mentioned above, it will unveil how much time you 
 
 This, in turn, will help you identify how much time you will need for tasks and in allocating the best amount of time and not having to re-adjust your schedule again and again.
 
-**19 - Complete Your Simple Tasks first (or maybe even at last)**
+### **19. Complete Your Simple Tasks first (or maybe even at last)**
 
 [Start your day](https://weekplan.net/how-to-spend-the-first-hour-of-your-day/) by doing simple tasks first because they are easy to do and will finish quickly. It will boost your confidence towards the complicated tasks, and you will come up with more energy towards them.
 
@@ -332,7 +332,7 @@ As most time management gurus preach, completing time-consuming and difficult ta
 
 And those easier and quick tasks at day end serves as your reward at end.
 
-**20 - Make Better Initial Judgments**
+### **20. Make Better Initial Judgments**
 
 Having better initial judgments can help you with time management issues.
 
@@ -344,7 +344,7 @@ That’s why you should give yourself some good time to plan an effective initia
 
 For all unessential tasks that you need to do but not urgently, you can take the help of a solution like “Boards” in Week Plan, which serves as the Parking Lot for all such tasks.
 
-**21 - Avoid Multitasking**
+### **21. Avoid Multitasking**
 
 Though multi-tasking might be geared at saving your time on tasks but in actual, it’s the opposite for most.
 
@@ -358,7 +358,7 @@ Attention management means having all your [concentration towards a single task]
 
 You will also waste more of your time doing that and also have to compromise with the quality of work as well.
 
-**22 - Break Your Time-Consuming Tasks into Small Tasks & Chunks**
+### **22. Break Your Time-Consuming Tasks into Small Tasks & Chunks**
 
 Breaking all your tasks that require massive time to complete into small subtasks is a perfect way to handle them successfully.
 
@@ -368,7 +368,7 @@ This helps you on effectively managing your time and complete a project or task 
 
 It will enable you to create a step by step approach to achieve the milestone and also keep you updated with the [total time spend on that task so that you can track the exact time and measure your productivity](https://weekplan.net/tasks-time-tracking).
 
-**23 - Follow the Find out, Decide, or Do Pattern to manage time effectively**
+### **23. Follow the Find out, Decide, or Do Pattern to manage time effectively**
 
 When you are not sure about any of your task and like to avoid it but having no idea about its impact, then you should first try to focus on three things;
 
@@ -388,7 +388,7 @@ Week Plan’s task management software helps you with prioritizing tasks and eff
 
 ![](/assets/images/uploads/priortize tasks.png)
 
-**24 - Realize Quickly When Something Is Not Working**
+### **24. Realize Quickly When Something Is Not Working**
 
 Sometimes, it’s better to make some minor changes to your daily schedule to get on top of everything.
 
@@ -398,7 +398,7 @@ It’s not necessary that the [time management strategy that you have created wi
 
 You always need some alterations to your plan, but the best thing, in that case, is to accurately identify those weak areas that are creating troubles and change them quickly.
 
-**26 - Take Advantage of your Sweet Productive Spot**
+### **26. Take Advantage of your Sweet Productive Spot**
 
 Everybody has some preferred productivity time at which they are at their best.
 
@@ -410,7 +410,7 @@ Finding your best productivity time and keeping all the complex task for that ti
 
 A time audit will help you understand and find your most productive time slot and helps you shift your important tasks in that period.
 
-**27 - Color Code Your Time Calendar**
+### **27. Color Code Your Time Calendar**
 
 Doing the color code to your time calendar is a handy time management tactic.
 
