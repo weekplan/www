@@ -40,7 +40,7 @@ Top entrepreneurs never underestimate the importance of time management because 
 
 To help entrepreneurs like you we have compiled a list of 27 time management tips that will make you more effective at work on top of being productive.
 
-### **1. Start Your Day Earlier**
+## **1. Start Your Day Earlier**
 
 Every single minute has its worth for an entrepreneur.
 
