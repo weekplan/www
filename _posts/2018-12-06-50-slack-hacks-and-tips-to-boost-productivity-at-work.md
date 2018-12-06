@@ -13,6 +13,7 @@ keywords: ''
 class: ''
 categories: []
 tags: []
+permalink: "/slack-hacks-tips"
 
 ---
 **50 Slack Hacks and Tips to Boost Productivity at work**
