@@ -4,8 +4,9 @@ layout: page
 navigation: true
 comments: true
 date: 2018-11-21 20:25:41 +0000
-description: 'Objectives Key Result (OKR) Software for seting up objectives and associated
-  key results that you want to achieve each month, quarter or year. '
+description: Objectives Key Result (OKR) Software for setting up objectives and associated
+  key results that you want to achieve each month, quarter or year. Achieve your OKR's
+  with Week Plan.
 subtitle: ''
 author: ''
 cover: ''
