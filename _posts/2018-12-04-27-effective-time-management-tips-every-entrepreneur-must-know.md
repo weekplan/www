@@ -100,10 +100,10 @@ If being unproductive and lazy person can’t stop you from getting a C-Level jo
 
 Ivy Lee, a productivity consultant at Bethlehem Steel Corporation, brings an excellent technique for time management. According to him,
 
-* Before      you plan your day, list down six      things that you like to get done the next day
-* Set all      these six things with respect to priority
-* While starting      your day, [focus on the first task](https://weekplan.net/habit-3-first-things-first/) until it gets done after that, proceeds further like      till the end
-* Keep      going the same way until you finish all six      tasks and write them again when the day ends
+* Before you plan your day, list down six things that you like to get done the next day
+* Set all these six things with respect to priority
+* While starting your day, [focus on the first task](https://weekplan.net/habit-3-first-things-first/) until it gets done after that, proceeds further like till the end
+* Keep going the same way until you finish all six tasks and write them again when the day ends
 * Include Predictable Outcomes with Activities
 
 ### **6. Start Saying No**
@@ -236,15 +236,11 @@ Typically, Pomodoro Timer works on a maximum of 25-30 minutes time slot for each
 
 Developed by Francesco Cirillo, the [Pomodoro Time Management Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) works like this;
 
-1\.   Decide on the task to be completed
-
-2\.   Set the Pomodoro timer (traditionally to 25 minutes).
-
-3\.   Work on the task.and end work when the timer rings and put a checkmark on a piece of paper.
-
-4\.   If you have fewer than four checkmarks, take a short break (3–5 minutes), then go to step 2.
-
-5\.   After four pomodoros, take a longer break (15–30 minutes), reset your checkmark count to zero, then go to step 1.
+1. Decide on the task to be completed
+2. Set the Pomodoro timer (traditionally to 25 minutes).
+3. Work on the task.and end work when the timer rings and put a checkmark on a piece of paper.
+4. If you have fewer than four checkmarks, take a short break (3–5 minutes), then go to step 2.
+5. After four pomodoros, take a longer break (15–30 minutes), reset your checkmark count to zero, then go to step 1.
 
 This technique is popular among in software development projects and other incremental development projects.
 
@@ -262,15 +258,15 @@ The answer is fairly simple. Taking some time out from the busy schedule is quit
 
 But breaks don’t necessarily have to go for a smoke, take a snack – some breaks can be effective at work too such as;
 
-A - Meditation: It helps you relax by clearing your mind and detaching you from work thoughts and stress.
+A. Meditation: It helps you relax by clearing your mind and detaching you from work thoughts and stress.
 
-B - Physical activity or Exercise: This helps you increase blood flow and [improves focus and attention](https://weekplan.net/more-mindful-at-work/).
+B. Physical activity or Exercise: This helps you increase blood flow and [improves focus and attention](https://weekplan.net/more-mindful-at-work/).
 
-C – Improve Skills: Learning something new will help boost motivation.
+C. Improve Skills: Learning something new will help boost motivation.
 
-D – Help a colleague: Looking out for a colleague at work enlightens your inner self and gives you a comforting and positive feeling.
+D. Help a colleague: Looking out for a colleague at work enlightens your inner self and gives you a comforting and positive feeling.
 
-E: Setup a Goal: Take time to think about and set up a new goal for work or your personal life.
+E. Setup a Goal: Take time to think about and set up a new goal for work or your personal life.
 
 So rather than being depleted of energy and motivation and ultimately spending more time on a task, taking time off from work help you refresh and [recharge your mind](https://weekplan.net/6-ways-to-improve-brain-performance/).
 
@@ -372,11 +368,9 @@ It will enable you to create a step by step approach to achieve the milestone an
 
 When you are not sure about any of your task and like to avoid it but having no idea about its impact, then you should first try to focus on three things;
 
-I.            Find specific information regarding it so that you can understand it properly
-
-II.            Decide whether you can do it now or it’s better to finish it later and
-
-III.            Move further with other tasks.
+1. Find specific information regarding it so that you can understand it properly
+2. Decide whether you can do it now or it’s better to finish it later and
+3. Move further with other tasks.
 
 It enables you to go in the right direction and make a better decision in [managing your time effectively.](https://weekplan.net/5-ways-to-be-effective-rather-than-productive/)
 
