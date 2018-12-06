@@ -4,7 +4,8 @@ layout: post
 navigation: true
 comments: true
 date: 2018-12-06 04:47:47 +1100
-description: ''
+description: Either you are a regular Slacker or have just started using it here is
+  a list of 50 Slack Hacks, Tips and Tricks to help you get the most out of it.
 subtitle: ''
 author: ''
 cover: ''
@@ -394,19 +395,19 @@ Just by typing / remove or / kick along with the name of the user to remove them
 
 ![](/assets/images/uploads/remove users.png)
 
-**42 - Hide Emails Easily**
+**42 - Hide Email Id's for Privacy**
 
 If you don’t feel good displaying your email id on your Slack profile or any of your group member having issues with its visibility, then the admins of the group have access to hide it by locating the email display tab in the settings and turning it off. 
 
-![](file:///C:/Users/Abbas/AppData/Local/Temp/msohtmlclip1/01/clip_image078.gif =624x419)
+![](/assets/images/uploads/hide emails.png)
 
 **43 - Join Multiple Slack Workspaces at the Same Time**
 
 With Slack, you can join and switch between multiple accounts at a time. 
 
-This is particularly useful if you want workspaces for different activities like work, home, and friends or [work as a freelancer](https://weekplan.net/an-introduction-to-outsourcing/) or [manage multiple companies.](https://weekplan.net/how-to-be-a-better-leader-interview-with-highly-effective-person-vincent-vergonjeanne/)
+![](/assets/images/uploads/multiple workspaces.png)
 
-![](file:///C:/Users/Abbas/AppData/Local/Temp/msohtmlclip1/01/clip_image080.gif =624x249)
+This is particularly useful if you want workspaces for different activities like work, home, and friends or [work as a freelancer](https://weekplan.net/an-introduction-to-outsourcing/) or [manage multiple companies.](https://weekplan.net/how-to-be-a-better-leader-interview-with-highly-effective-person-vincent-vergonjeanne/)
 
  
 
@@ -416,15 +417,15 @@ You can set your current status to let the people know what you are currently wo
 
 To set the status on the desktop device click on your name whereas, for mobiles, you have to click the triple-dot icon to set your status.
 
-![](file:///C:/Users/Abbas/AppData/Local/Temp/msohtmlclip1/01/clip_image082.gif =625x296)
+![](/assets/images/uploads/set status.png)
 
-**45 - Use Simple Pool**
+**45 - Run Survey and Pools from Slack**
 
 Gather the opinions of your team members, right inside Slack using the Simple Poll app. 
 
-This app will help you with getting the thoughts and feedback from your teammates on [company culture](https://weekplan.net/ways-to-improve-company-culture/), ideas brainstorming and more. 
+![](/assets/images/uploads/poll.png)
 
-![](file:///C:/Users/Abbas/AppData/Local/Temp/msohtmlclip1/01/clip_image084.gif =624x324)
+This app will help you with getting the thoughts and feedback from your teammates on [company culture](https://weekplan.net/ways-to-improve-company-culture/), ideas brainstorming and more. 
 
 **46 - Invite Outsiders to Your Workspace**
 
@@ -440,11 +441,9 @@ These external accounts can be contractors, vendors, customers and more.
 
 Slack has built-in time-based reminders that can remind you of an [essential activity](https://weekplan.net/what-is-essentialism-a-complete-guide-to-get-you-started/) or task at a later time. 
 
-Suppose you have an urgent business meeting at 3 pm and you are extremely [busy in your working schedule](https://weekplan.net/more-mindful-at-work/), then instead of thinking towards it all the time, you can set your meeting schedule on Slackbot and get reminded at the right time. 
+![](/assets/images/uploads/Reminders.png)
 
- 
-
-![](file:///C:/Users/Abbas/AppData/Local/Temp/msohtmlclip1/01/clip_image086.gif =625x273)
+Suppose you have an urgent business meeting at 3 pm and you are extremely [busy in your working schedule](https://weekplan.net/more-mindful-at-work/), then instead of thinking towards it all the time, you can set your meeting schedule on Slackbot and get reminded at the right time.
 
 **48 - Use Attractive GIFs**
 
@@ -468,11 +467,9 @@ Slack has no restriction on theme customization and new theme creation. You can 
 
 To change the theme, you need to go to the sidebar theme and select a theme among a wide range of themes.
 
-![](file:///C:/Users/Abbas/AppData/Local/Temp/msohtmlclip1/01/clip_image088.gif =625x273)
+ ![](/assets/images/uploads/customize slack.png)
 
- 
-
-Slack is undoubtedly the best and fastest growing team communication app, with tons of customizations and extensibility features. 
+Slack is undoubtedly the best and fastest growing team communication app, with tons of customization's and extensibility features. 
 
 Mastering all these tips and tricks will help you automate your tasks, save time, [improve overall work efficiency](https://weekplan.net/7-habits-be-proactive/) and get the right balance of team communication. 
 
