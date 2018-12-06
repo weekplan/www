@@ -110,9 +110,11 @@ For example, if you are the head of the marketing department and want to notice 
 
 **10 - Make use of Slack Reminders**
 
-Reminders are no doubt a great way to bring your attention towards any important task or message that you don’t want to miss out at any cost. Slack allows you to set reminders around all your [essential tasks](https://weekplan.net/weekly-task-manager) and messages to get things noticed on time and avoid any unwanted situation.
+Reminders are no doubt a great way to bring your attention towards any important task or message that you don’t want to miss out at any cost. 
 
-![](file:///C:/Users/Abbas/AppData/Local/Temp/msohtmlclip1/01/clip_image020.gif =623x270)
+Slack allows you to set reminders around all your [essential tasks](https://weekplan.net/weekly-task-manager) and messages to get things noticed on time and avoid any unwanted situation.
+
+![](/assets/images/uploads/Slack Reminders.png)
 
 **11 - Keep Messages Unread until viewed**
 
@@ -120,7 +122,7 @@ It’s not always possible to notice a message instantly because there are many 
 
 Slack keeps all the unnoticed messages as unread so that you can check them once you get free.
 
-![](file:///C:/Users/Abbas/AppData/Local/Temp/msohtmlclip1/01/clip_image022.gif =621x245)
+![](/assets/images/uploads/unread.png)
 
 **12 - Get All Unread Messages Instantly**
 
@@ -128,15 +130,15 @@ If you haven’t checked too many messages from a long time and are not sure abo
 
 Slack enables you to easily get all of them in a single page by clicking **_Ctrl + Shift+ A._**
 
-![](file:///C:/Users/Abbas/AppData/Local/Temp/msohtmlclip1/01/clip_image024.gif =624x249)
+![](/assets/images/uploads/all unread.png)
 
 **13 - Get Rid Of All Unread Messages Quickly**
 
 Sometimes, you don’t want to get involved with old messages because they can waste your time. 
 
-If you like to keep away from all the messages and notification that you haven’t read on Slack, then you just require hitting **Shift + Esc** from your keyboard to get it done. 
+![](/assets/images/uploads/rid unread.png)
 
-![](file:///C:/Users/Abbas/AppData/Local/Temp/msohtmlclip1/01/clip_image026.gif =623x275)
+If you like to keep away from all the messages and notification that you haven’t read on Slack, then you just require hitting **Shift + Esc** from your keyboard to get it done. 
 
 **14 - Deliver Messages On Behalf of Cartoon or Celebrity**
 
@@ -144,17 +146,19 @@ Want to add some fun or creativity at workspace?
 
 Integrate your Slack account with Slacker website that has built-in characters and let you send replies by selecting your favorite celebrity or cartoon character. 
 
-You can also add any other character that you don’t find in the list. 
+![](/assets/images/uploads/slacker.png)
 
-![](file:///C:/Users/Abbas/AppData/Local/Temp/msohtmlclip1/01/clip_image028.gif =614x299)
+You can also add any other character that you don’t find in the list.
+
+ 
 
 **15 - Arrange All Unread Messages in Scientific Order**
 
 Slack gives you the option to arrange all your unread messages in alphabetical order or by oldest or newest messages to make things stress-free for you. 
 
-It will help you [save your time](https://weekplan.net/time-management-tips) by only viewing the message you interested in instead of going through a huge list of messages. 
+![](/assets/images/uploads/arrange unread.png)
 
-![](file:///C:/Users/Abbas/AppData/Local/Temp/msohtmlclip1/01/clip_image030.gif =624x251)
+It will help you [save your time](https://weekplan.net/time-management-tips) by only viewing the message you are interested in instead of going through a huge list of messages. 
 
 **16 - Message Yourself**
 
@@ -166,41 +170,43 @@ You can leave an important message for yourself such as essential ID’s related
 
 Sometimes, you are not interested in viewing all the GIFs and videos because you instantly like to see the important messages. 
 
-Slack allows you to use **_/collapse_** so that you can view the important messages quickly. 
+![](/assets/images/uploads/collapse gifs.png)
 
-![](file:///C:/Users/Abbas/AppData/Local/Temp/msohtmlclip1/01/clip_image032.gif =624x245)
+Slack allows you to use **_/collapse_** so that you can view the important messages quickly. 
 
 **18 - Customize the Sound**
 
 Sound customization feature can be utilized on any channel or group you want. You can minimize the sound of notifications and messages that you receive in Slack by simply setting the notification preference tab. 
 
-You also have the option to mute the sound so that you can get messages and notification without any noise.
+![](/assets/images/uploads/customize sound.png)
 
-![](file:///C:/Users/Abbas/AppData/Local/Temp/msohtmlclip1/01/clip_image034.gif =625x273)
+You also have the option to mute the sound so that you can get messages and notification without any noise.
 
 **19 - Set Your Sidebar Perfectly**
 
 The sidebar is packed with all the groups and channels that you have joined since you make an account on Slack. A large number of these groups and channels makes your sidebar quite messy. 
 
-Slack allows you to set a limited number of them in your sidebar by setting the sidebar option under the preference tab.
+![](/assets/images/uploads/sidebar-1.png)
 
-![](file:///C:/Users/Abbas/AppData/Local/Temp/msohtmlclip1/01/clip_image036.gif =625x296)
-
- 
+Slack allows you to set a limited number of them in your sidebar by setting the sidebar option under the preference tab. 
 
  
 
 **20 - Customize Emoji**
 
-You can not only make use of emoji that are already in Slack to send an emoji-response but can also easily customize an emoji according to your choice. ![](file:///C:/Users/Abbas/AppData/Local/Temp/msohtmlclip1/01/clip_image038.gif =625x303)
+You can not only make use of emoji that are already in Slack to send an emoji-response but can also easily customize an emoji according to your choice. 
+
+![](/assets/images/uploads/customize emoji.png)
 
 **21 - Add Default Tone with Emoji**
 
 Slack also gives the choice of including a default tone with your emoji. 
 
-To enable this, you have to choose an emoji and click the **Skin Tone** tab to view all the accessible skin tones related to your emoji. You can keep the defined emoji to use in future, and also have the option to change it as well.
+To enable this, you have to choose an emoji and click the **Skin Tone** tab to view all the accessible skin tones related to your emoji. 
 
-![](file:///C:/Users/Abbas/AppData/Local/Temp/msohtmlclip1/01/clip_image040.gif =623x272)
+![](/assets/images/uploads/emoji sound.png)
+
+You can keep the defined emoji to use in future, and also have the option to change it as well.
 
  
 
@@ -208,31 +214,31 @@ To enable this, you have to choose an emoji and click the **Skin Tone** tab to v
 
 You can easily convert your important messages into a [to-do list](https://weekplan.net/how-to-hack-your-to-do-list-video/) by clicking the star button on the message tab. 
 
-It is also a nice way to spot out all essential messages that you might need to reference in the future or check later. 
+![](/assets/images/uploads/todo.png)
 
-![](file:///C:/Users/Abbas/AppData/Local/Temp/msohtmlclip1/01/clip_image042.gif =624x269)
+It is also a nice way to spot out all essential messages that you might need to reference in the future or check later. 
 
 **23 - Pin All Your Key Messages**
 
 If you like all the members of your channel to pay attention to any essential message, then you can pin it. 
 
+![](/assets/images/uploads/pin.png)
+
 This will ensure that every person of your channel can see the message without sending it separately to all of them. Moreover, you can also pin a message in one-to-one direct conversations as well.
 
-_Slack allows you to pin up to 100 messages per channel._ 
-
-![](file:///C:/Users/Abbas/AppData/Local/Temp/msohtmlclip1/01/clip_image044.gif =624x272)
+**Slack allows you to pin up to 100 messages per channel.** 
 
 **24 - Repost Any Important Message**
 
 To get any important message revisited by your members, you have to copy the link of the message from the ellipsis menu and then paste it to any conversation or channel. 
 
-![](file:///C:/Users/Abbas/AppData/Local/Temp/msohtmlclip1/01/clip_image046.gif =621x248)
+![](/assets/images/uploads/repost messages.png)
 
 **25 - Post Emails to Channels** 
 
 Slack enables you to set up an email posting option with your channels. This will enable in;
 
- 
+ ![](/assets/images/uploads/post emails.png)
 
  
 
@@ -246,25 +252,23 @@ Slack enables you to set up an email posting option with your channels. This wil
 
 To get these emails on Slack, you have to integrate the email app for Slack and hit configuration tab to set emails among groups and channels. 
 
-![](file:///C:/Users/Abbas/AppData/Local/Temp/msohtmlclip1/01/clip_image048.gif =624x362)
-
 **26 - Make Use of Fax Feature**
 
 Some business still uses fax to receive data even though it’s an old method. 
 
 But worries not as Slack provides you with the option to receive faxes, right inside any channel. 
 
-To do that, you have to register for a fax service on the Slack supported app and start receiving faxes. 
+![](/assets/images/uploads/fax.png)
 
-![](file:///C:/Users/Abbas/AppData/Local/Temp/msohtmlclip1/01/clip_image050.gif =624x192)
+To do that, you have to register for a fax service on the Slack supported app and start receiving faxes. 
 
 **27 - Quickly Switch Among Conversations**
 
 Jumping and searching among conversation is not a problem in Slack. 
 
-If you are using Slack on Windows, you only need to push **_Ctrl + K_** and type the name of group/channel you want to switch in, and hit return / enter move to that channel.
+![](/assets/images/uploads/switch conversations.png)
 
-![](file:///C:/Users/Abbas/AppData/Local/Temp/msohtmlclip1/01/clip_image052.gif =625x296)
+If you are using Slack on Windows, you only need to push **_Ctrl + K_** and type the name of group/channel you want to switch in, and hit return / enter move to that channel.
 
  
 
@@ -272,9 +276,9 @@ If you are using Slack on Windows, you only need to push **_Ctrl + K_** and type
 
 You can set an energetic and motivating welcome message on Slack to give a charging welcome to your staff members. This message will be displayed during the loading time of Slack. 
 
-You have up to 150 characters to express yourself so try to keep your message short and impressive.
+![](/assets/images/uploads/welcome message.png)
 
-![](file:///C:/Users/Abbas/AppData/Local/Temp/msohtmlclip1/01/clip_image054.gif =625x425)
+You have up to 150 characters to express yourself so try to keep your message short and impressive.
 
 **29 – Secure your Slack account by activating 2-Factor Authentication**
 
@@ -282,25 +286,25 @@ To keep your account protected from hackers, Slack provides two-factor authentic
 
  By utilizing this feature, you have to enter a specific code that will be sent to your mobile number every time you want to log on using any other device to ensure that you are the owner of that account.
 
-Moreover, you can also generate pre-available codes , which you can distribute to your team for any future use.
+![](/assets/images/uploads/2 Factor Authentication.png)
 
-![](file:///C:/Users/Abbas/AppData/Local/Temp/msohtmlclip1/01/clip_image056.gif =625x611)
+Moreover, you can also generate pre-available codes , which you can distribute to your team for any future use.
 
 **30 - Make Use of Text or Code Snippets**
 
 Though text snippets might be popular among Content or Marketing teams, code snippets is one of the most commonly shared types of messages between development teams.
 
-Luckily for programmers, Slack supports sharing of code snippets across multiple programming languages.  You can make it effortlessly by clicking code or text snippet inside the plus sign of the message box.
+![](/assets/images/uploads/text snippet.png)
 
-![](file:///C:/Users/Abbas/AppData/Local/Temp/msohtmlclip1/01/clip_image058.gif =625x296)
+Luckily for programmers, Slack supports sharing of code snippets across multiple programming languages.  You can make it effortlessly by clicking code or text snippet inside the plus sign of the message box.
 
 **31 - Message editing**
 
 As an owner/sender of the message, you can edit any of your messages you have sent, directly or within a channel. 
 
-To edit a message, click the edit message tab under more actions and edit it completely the way you like.
+![](/assets/images/uploads/message editing.png)
 
-![](file:///C:/Users/Abbas/AppData/Local/Temp/msohtmlclip1/01/clip_image060.gif =624x166)
+To edit a message, click the edit message tab under more actions and edit it completely the way you like.
 
 **32 - Highlight Your Text**
 
@@ -314,7 +318,7 @@ To discuss any precise post further or including some more data to it, you can m
 
 This can be enabled by clicking “start a thread” icon. 
 
-![](file:///C:/Users/Abbas/AppData/Local/Temp/msohtmlclip1/01/clip_image062.gif =624x109)
+![](/assets/images/uploads/thread messages-1.png)
 
 Like other conversations, you can also tag other team members to invite them to that thread. 
 
@@ -326,15 +330,17 @@ Video conference is another attractive feature of Slack that makes the communica
 
 You can start a video call by clicking the phone icon on the top right of the screen.
 
-![](file:///C:/Users/Abbas/AppData/Local/Temp/msohtmlclip1/01/clip_image064.gif =625x296)
+![](/assets/images/uploads/video conference.png)
 
 **35 - Create Post**
 
 Slack not only offers messaging feature but also allows you to make a post as well. 
 
-This can be done by clicking the **_+ sign_** from message box and choosing Post. You can make it creative by using bullet list, adding headlines, using hyperlinks, creating a check-box list for tasks assigning and many more.
+This can be done by clicking the **_+ sign_** from message box and choosing Post. 
 
-![](file:///C:/Users/Abbas/AppData/Local/Temp/msohtmlclip1/01/clip_image066.gif =624x275)
+![](/assets/images/uploads/create post.png)
+
+You can make it creative by using bullet list, adding headlines, using hyperlinks, creating a check-box list for tasks assigning and many more.
 
 **36 - Use One-Click Sign-Out From All**
 
@@ -342,21 +348,19 @@ If you lost your mobile with Slack logged in or have used any public device to g
 
 Slack is equipped with one-click sign out feature that will instantly log you out from all your sessions, regardless of device location. 
 
- 
-
-![](file:///C:/Users/Abbas/AppData/Local/Temp/msohtmlclip1/01/clip_image068.gif =625x611)
+![](/assets/images/uploads/Signout.png)
 
  
 
-**37 - Send Single Message to Your Global Team**
+**37 - Send a Message to Your Global Team**
 
 Want to send a message to your remote team in different time zones or to all your members in one go? 
 
 You can use @here or @all command in a channel, and your message notification will be sent to all the members of that channel at once. 
 
-This is particularly good for companywide announcements or when need to send the message to all the stakeholders in a project.
+![](/assets/images/uploads/share message.png)
 
-![](file:///C:/Users/Abbas/AppData/Local/Temp/msohtmlclip1/01/clip_image070.gif =625x296)
+This is particularly good for company wide announcements or when need to send the message to all the stakeholders in a project.
 
 **38 – Find all previous messages and customize search**
 
@@ -372,17 +376,15 @@ Sometimes, while working on your tasks, you stumble upon to an interesting artic
 
 By using Slack’s chrome extension, you can instantly share that article or link with any person or in any channel. 
 
-![](file:///C:/Users/Abbas/AppData/Local/Temp/msohtmlclip1/01/clip_image072.gif =624x385)
+![](/assets/images/uploads/webpages share.png)
 
-**40 - Integrate With Other Web Services**
+**40 - Integrate with Other Web Services**
 
 Slack enables you to integrate and power up Slack with tons of other services. Most of these apps are available as native applications and can be instantly integrated and powered up with Slack.
 
+![](/assets/images/uploads/web services.png)
+
 However, if you can’t find your app, you can still use third-party webhooks like Zapier and IFTTT to connect almost any app or service with Slack.
-
- 
-
-![](file:///C:/Users/Abbas/AppData/Local/Temp/msohtmlclip1/01/clip_image074.gif =624x392)
 
 **41 - Remove Users You Don’t Want**
 
@@ -390,7 +392,7 @@ Slack gives owners / Admins of the account the right to remove any user from a g
 
 Just by typing / remove or / kick along with the name of the user to remove them from a channel.
 
-![](file:///C:/Users/Abbas/AppData/Local/Temp/msohtmlclip1/01/clip_image076.gif =625x273)
+![](/assets/images/uploads/remove users.png)
 
 **42 - Hide Emails Easily**
 
