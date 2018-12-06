@@ -24,9 +24,9 @@ Although, for being super popular in the workplace, still many people are unable
 
 From app integration, usage flexibility to customization, Slack has a lot to offer to its users.
 
-Either you are a regular Slacker or have just started using it; there are many ways to do more on Slack easily and quickly.
+Either you are a regular Slacker or have just started using it, there are many ways to do more on Slack easily and quickly.
 
-We have compiled a list of 50 Slack Hacks, Tips and Tricks to help you get the most out of it.
+We have compiled a list of 50 Slack hacks, tips and tricks to help you get the most out of it.
 
 ### **1. Get Connected Using Any Device**
 
