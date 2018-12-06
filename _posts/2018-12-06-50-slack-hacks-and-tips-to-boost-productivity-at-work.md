@@ -48,7 +48,7 @@ To access those lists of keyboard shortcuts, you simply need to **_press (Ctrl) 
 
 Slack supports integration with 100’s of apps, which enables in viewing all the key data and services, in a single platform.
 
-Slack allows you to integrate many well-known third-party apps like Dropbox, [Google drive](https://www.google.com/drive/), Mailchimp etc with it.  All apps can be added from the Slack App Directory.
+Slack allows you to integrate many well-known third-party apps like Dropbox, [Google Drive](https://www.google.com/drive/), Mailchimp etc with it.  All apps can be added from the Slack App Directory.
 
 ![](/assets/images/uploads/slack add on apps.png)
 
