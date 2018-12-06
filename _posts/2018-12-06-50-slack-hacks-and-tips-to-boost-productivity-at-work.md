@@ -8,7 +8,7 @@ description: Either you are a regular Slacker or have just started using it here
   a list of 50 Slack Hacks, Tips and Tricks to help you get the most out of it.
 subtitle: ''
 author: ''
-cover: "/assets/images/uploads/devices.png"
+cover: "/assets/images/uploads/slack-logo.jpg"
 keywords: ''
 class: ''
 categories: []
