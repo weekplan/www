@@ -3,7 +3,7 @@ title: 27 Effective Time Management Tips Every Entrepreneur Must Know
 layout: post
 navigation: true
 comments: true
-date: 2018-12-04 04:31:35 +1100
+date: 2018-12-03 17:31:35 +0000
 description: 27 Time Management Tips that will make Entrepreneurs more productive
   at work and in managing time effectively.
 subtitle: ''
@@ -252,11 +252,7 @@ Now you all might be wondering, how taking a break off work can help you with sa
 
 The answer is fairly simple. Taking some time out from the busy schedule is quite helpful for entrepreneurs to [get back on the tasks with more energy and focus](https://weekplan.net/energy-management/).
 
-![](/assets/images/uploads/Take Breaks at work.png)
-
-    [https://www.youtube.com/watch?v=lZlgoQUVigM](https://www.youtube.com/watch?v=lZlgoQUVigM "https://www.youtube.com/watch?v=lZlgoQUVigM")   
-
-But breaks don’t necessarily have to go for a smoke, take a snack – some breaks can be effective at work too such as;
+{% include youtube.html id="lZlgoQUVigM" %}
 
 A. Meditation: It helps you relax by clearing your mind and detaching you from work thoughts and stress.
 
