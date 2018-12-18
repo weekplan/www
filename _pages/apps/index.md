@@ -14,7 +14,7 @@ description: 'Check out the list of apps and extensions available to improve you
 ---
 
 <div class='post-feed'>
-    {% include card.html title="Windows app" description="Run Week Plan on Windows, add it to your taskbar." url="https://drive.google.com/open?id=16yUnKBvZu4utLXZv9tE1lot7xSa2CRkl" imageUrl="/assets/images/uploads/1624-Windows-logo.jpg" %}
+    {% include card.html title="Windows app" description="Run Week Plan on Windows, add it to your taskbar." url="https://drive.google.com/open?id=1QxI4bdMizGjL2eWDyZhTImgVw_YoO369" imageUrl="/assets/images/uploads/1624-Windows-logo.jpg" %}
 
     {% include card.html title="iOS app" description="Manage your time on your iphone or ipad." url="https://itunes.apple.com/us/app/my-week/id868630562?mt=8" imageUrl="/assets/images/uploads/1624-weekplanforios.jpg" %}
 
